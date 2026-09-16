@@ -1,76 +1,76 @@
-<h1 align="center"><a name="Part1"></a>The Urantia Book</h1>
+<h1 align="center"><a name="Part1"></a>Le Livre d’Urantia</h1>
 
-<hr /><p align="center">&#60;&#60;&#160;<a href="../000-foreword.md" title="Foreword">Foreword</a> | <a href="../parts.md" title="The Parts of the Book">Parts</a> | <a href="../contents.md" title="Contents of the Book">Content</a> | <a href="001.md" title="The Universal Father">Paper 1</a>&#160;&#62;&#62;</p><hr />
+<hr /><p align="center">&#60;&#60;&#160;<a href="../000-foreword.md" title="Introduction">Introduction</a> | <a href="../parts.md" title="Les parties du livre">Parties</a> | <a href="../contents.md" title="Table des matières détaillée">Contenu</a> | <a href="001.md" title="Le Père Universel">Fascicule 1</a>&#160;&#62;&#62;</p><hr />
 
-## PART I
+## Première partie
 
-## The Central and Superuniverses
+## L’univers central et les superunivers
 
-Sponsored by a Uversa Corps of Superuniverse Personalities acting by authority of the Orvonton Ancients of Days
+Parrainée par un corps de personnalités superuniverselles agissant par autorité des Anciens des Jours d’Orvonton.
 
 <hr />
 
-[Paper 1 - The Universal Father](001.md "The Universal Father")
+[Fascicule 1 - Le Père Universel](001.md "Le Père Universel")
 
-[Paper 2 - The Nature of God](002.md "The Nature of God")
+[Fascicule 2 - La nature de Dieu](002.md "La nature de Dieu")
 
-[Paper 3 - The Attributes of God](003.md "The Attributes of God")
+[Fascicule 3 - Les attributs de Dieu](003.md "Les attributs de Dieu")
 
-[Paper 4 - God’s Relation to the Universe](004.md "God’s Relation to the Universe")
+[Fascicule 4 - Relations de Dieu avec l’univers](004.md "Relations de Dieu avec l’univers")
 
-[Paper 5 - God’s Relation to the Individual](005.md "God’s Relation to the Individual")
+[Fascicule 5 - Relations de Dieu avec l’individu](005.md "Relations de Dieu avec l’individu")
 
-[Paper 6 - The Eternal Son](006.md "The Eternal Son")
+[Fascicule 6 - Le Fils Éternel](006.md "Le Fils Éternel")
 
-[Paper 7 - Relation of the Eternal Son to the Universe](007.md "Relation of the Eternal Son to the Universe")
+[Fascicule 7 - Position du Fils Éternel par rapport à l’univers](007.md "Position du Fils Éternel par rapport à l’univers")
 
-[Paper 8 - The Infinite Spirit](008.md "The Infinite Spirit")
+[Fascicule 8 - L’Esprit Infini](008.md "L’Esprit Infini")
 
-[Paper 9 - Relation of the Infinite Spirit to the Universe](009.md "Relation of the Infinite Spirit to the Universe")
+[Fascicule 9 - Position de l’Esprit Infini par rapport à l’univers](009.md "Position de l’Esprit Infini par rapport à l’univers")
 
-[Paper 10 - The Paradise Trinity](010.md "The Paradise Trinity")
+[Fascicule 10 - La Trinité du Paradis](010.md "La Trinité du Paradis")
 
-[Paper 11 - The Eternal Isle of Paradise](011.md "The Eternal Isle of Paradise")
+[Fascicule 11 - L’Ile éternelle du Paradis](011.md "L’Ile éternelle du Paradis")
 
-[Paper 12 - The Universe of Universes](012.md "The Universe of Universes")
+[Fascicule 12 - L’univers des univers](012.md "L’univers des univers")
 
-[Paper 13 - The Sacred Spheres of Paradise](013.md "The Sacred Spheres of Paradise")
+[Fascicule 13 - Les sphères sacrées du Paradis](013.md "Les sphères sacrées du Paradis")
 
-[Paper 14 - The Central and Divine Universe](014.md "The Central and Divine Universe")
+[Fascicule 14 - L’univers central et divin](014.md "L’univers central et divin")
 
-[Paper 15 - The Seven Superuniverses](015.md "The Seven Superuniverses")
+[Fascicule 15 - Les sept superunivers](015.md "Les sept superunivers")
 
-[Paper 16 - The Seven Master Spirits](016.md "The Seven Master Spirits")
+[Fascicule 16 - Les Sept Maitres Esprits](016.md "Les Sept Maitres Esprits")
 
-[Paper 17 - The Seven Supreme Spirit Groups](017.md "The Seven Supreme Spirit Groups")
+[Fascicule 17 - Les sept groupes d’Esprits Suprêmes](017.md "Les sept groupes d’Esprits Suprêmes")
 
-[Paper 18 - The Supreme Trinity Personalities](018.md "The Supreme Trinity Personalities")
+[Fascicule 18 - Les Personnalités Suprêmes de la Trinité](018.md "Les Personnalités Suprêmes de la Trinité")
 
-[Paper 19 - The Co-ordinate Trinity-Origin Beings](019.md "The Co-ordinate Trinity-Origin Beings")
+[Fascicule 19 - Les Êtres Coordonnés d’origine Trinitaire](019.md "Les Êtres Coordonnés d’origine Trinitaire")
 
-[Paper 20 - The Paradise Sons of God](020.md "The Paradise Sons of God")
+[Fascicule 20 - Les Fils Paradisiaques de Dieu](020.md "Les Fils Paradisiaques de Dieu")
 
-[Paper 21 - The Paradise Creator Sons](021.md "The Paradise Creator Sons")
+[Fascicule 21 - Les Fils Créateurs Paradisiaques](021.md "Les Fils Créateurs Paradisiaques")
 
-[Paper 22 - The Trinitized Sons of God](022.md "The Trinitized Sons of God")
+[Fascicule 22 - Les Fils de Dieu Trinitisés](022.md "Les Fils de Dieu Trinitisés")
 
-[Paper 23 - The Solitary Messengers](023.md "The Solitary Messengers")
+[Fascicule 23 - Les Messagers Solitaires](023.md "Les Messagers Solitaires")
 
-[Paper 24 - Higher Personalities of the Infinite Spirit](024.md "Higher Personalities of the Infinite Spirit")
+[Fascicule 24 - Personnalités Supérieures de l’Esprit Infini](024.md "Personnalités Supérieures de l’Esprit Infini")
 
-[Paper 25 - The Messenger Hosts of Space](025.md "The Messenger Hosts of Space")
+[Fascicule 25 - Les Armées des Messagers de l’Espace](025.md "Les Armées des Messagers de l’Espace")
 
-[Paper 26 - Ministering Spirits of the Central Universe](026.md "Ministering Spirits of the Central Universe")
+[Fascicule 26 - Les esprits tutélaires de l’univers central](026.md "Les esprits tutélaires de l’univers central")
 
-[Paper 27 - Ministry of the Primary Supernaphim](027.md "Ministry of the Primary Supernaphim")
+[Fascicule 27 - Le ministère des supernaphins primaires](027.md "Le ministère des supernaphins primaires")
 
-[Paper 28 - Ministering Spirits of the Superuniverses](028.md "Ministering Spirits of the Superuniverses")
+[Fascicule 28 - Les esprits tutélaires des superunivers](028.md "Les esprits tutélaires des superunivers")
 
-[Paper 29 - The Universe Power Directors](029.md "The Universe Power Directors")
+[Fascicule 29 - Les Directeurs de Pouvoir d’Univers](029.md "Les Directeurs de Pouvoir d’Univers")
 
-[Paper 30 - Personalities of the Grand Universe](030.md "Personalities of the Grand Universe")
+[Fascicule 30 - Personnalités du grand univers](030.md "Personnalités du grand univers")
 
-[Paper 31 - The Corps of the Finality](031.md "The Corps of the Finality")
+[Fascicule 31 - Le Corps de la Finalité](031.md "Le Corps de la Finalité")
 
 <hr />
 
