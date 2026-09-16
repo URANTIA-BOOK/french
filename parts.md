@@ -1,32 +1,32 @@
-<h1 align="center"><a name="Parts"></a>The Urantia Book</h1>
+<h1 align="center"><a name="Parts"></a>Le Livre d’Urantia</h1>
 
-<hr /><p align="center">&#60;&#60;&#160;<a href="front.md" title="Publisher Page">Publisher Page</a> | <a href="titles.md" title="The Titles of the Papers">The Titles of the Papers</a>&#160;&#62;&#62;</p><hr />
+<hr /><p align="center">&#60;&#60;&#160;<a href="front.md" title="Page de l'éditeur">Page de l'éditeur</a> | <a href="titles.md" title="Table des matières résumée">Table des matières résumée</a>&#160;&#62;&#62;</p><hr />
 
-## The Parts of the Book
+## Les parties du livre
 
-### [PART I](part-1/index.md "The Central and Superuniverses")
+### [Première partie](part-1/index.md "L’univers central et les superunivers")
 
-### The Central and Superuniverses
+### L’univers central et les superunivers
 
-Sponsored by a Uversa Corps of Superuniverse Personalities acting by authority of the Orvonton Ancients of Days
+Parrainée par un corps de personnalités superuniverselles agissant par autorité des Anciens des Jours d’Orvonton.
 
-### [PART II](part-2/index.md "The Local Universe")
+### [Deuxième partie](part-2/index.md "L’univers local")
 
-### The Local Universe
+### L’univers local
 
-Sponsored by a Nebadon Corps of Local Universe Personalities acting by authority of Gabriel of Salvington
+Parrainée par un corps de personnalités de l’univers local de Nébadon agissant sous l’autorité de Gabriel de Salvington.
 
-### [PART III](part-3/index.md "The History of Urantia")
+### [Troisième partie](part-3/index.md "L’histoire d’Urantia")
 
-### The History of Urantia
+### L’histoire d’Urantia
 
-These papers were sponsored by a Corps of Local Universe Personalities acting by authority of Gabriel of Salvington
+Ces fascicules furent parrainés par un corps de personnalités de l’univers local de Nébadon agissant sous l’autorité de Gabriel de Salvington.
 
-### [PART IV](part-4/index.md "The Life and Teachings of Jesus")
+### [Quatrième partie](part-4/index.md "La vie et les enseignements de Jésus")
 
-### The Life and Teachings of Jesus
+### La vie et les enseignements de Jésus
 
-This group of papers was sponsored by a commission of twelve Urantia midwayers acting under the supervision of a Melchizedek revelatory director. 
-The basis of this narrative was supplied by a secondary midwayer who was onetime assigned to the superhuman watchcare of the Apostle Andrew.
+Ce groupe de fascicules fut parrainé par une commission de douze médians d’Urantia agissant sous la supervision d’un Melchizédek directeur de la révélation.
+La base de ce récit a été fournie par un médian secondaire qui fut jadis chargé de la surveillance suprahumaine de l’apôtre André.
 
 

@@ -1,14 +1,14 @@
 {
-  "language": "eng",
-  "version_id": "UF-ENG-001-1955-1.22",
+  "language": "fre",
+  "version_id": "UF-FRE-001-1960-3.5",
   "pipeline_version": 3,
   "source_file": "part-4/144.md",
-  "source_sha256": "aa28b6c083d6fc4336e22cd9e6e66b619d4a5b18437a3e06cca6bba969f85113",
+  "source_sha256": "9c0732ac605eeb2b55e89dd5814bc947965c41d9b54164199b5cf6ffa9757afc",
   "rows": [
     {
       "type": "paper",
       "typeRank": 1,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": null,
@@ -19,14 +19,14 @@
       "standardReferenceId": "144:0.0",
       "pageReference": null,
       "sortId": "4.144.000.000",
-      "paperTitle": "At Gilboa and in the Decapolis",
+      "paperTitle": "À Gilboa et dans la Décapole",
       "sectionTitle": null,
       "markdown": null
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "0",
@@ -37,14 +37,14 @@
       "standardReferenceId": "144:0.0",
       "pageReference": null,
       "sortId": "4.144.000.000",
-      "paperTitle": "At Gilboa and in the Decapolis",
+      "paperTitle": "À Gilboa et dans la Décapole",
       "sectionTitle": null,
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "0",
@@ -55,14 +55,14 @@
       "standardReferenceId": "144:0.1",
       "pageReference": "1617.1",
       "sortId": "4.144.000.001",
-      "paperTitle": "At Gilboa and in the Decapolis",
+      "paperTitle": "À Gilboa et dans la Décapole",
       "sectionTitle": null,
-      "markdown": "SEPTEMBER and October were spent in retirement at a secluded camp upon the slopes of Mount Gilboa. The month of September Jesus spent here alone with his apostles, teaching and instructing them in the truths of the kingdom."
+      "markdown": "PENDANT les mois de septembre et d’octobre, ils se retirèrent dans un camp isolé sur les pentes du mont Gilboa. Jésus y passa le mois de septembre seul avec ses apôtres, les enseignant et les instruisant dans les vérités du royaume."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "0",
@@ -73,14 +73,14 @@
       "standardReferenceId": "144:0.2",
       "pageReference": "1617.2",
       "sortId": "4.144.000.002",
-      "paperTitle": "At Gilboa and in the Decapolis",
+      "paperTitle": "À Gilboa et dans la Décapole",
       "sectionTitle": null,
-      "markdown": "There were a number of reasons why Jesus and his apostles were in retirement at this time on the borders of Samaria and the Decapolis. The Jerusalem religious rulers were very antagonistic; Herod Antipas still held John in prison, fearing either to release or execute him, while he continued to entertain suspicions that John and Jesus were in some way associated. These conditions made it unwise to plan for aggressive work in either Judea or Galilee. There was a third reason: the slowly augmenting tension between the leaders of John’s disciples and the apostles of Jesus, which grew worse with the increasing number of believers."
+      "markdown": "Il y avait bien des raisons pour que Jésus et ses apôtres se retirent, à ce moment-là, sur la frontière de la Samarie et de la Décapole. Les dirigeants religieux de Jérusalem étaient très hostiles. Hérode Antipas détenait toujours Jean en prison, craignant autant de le libérer que de l’exécuter, et il continuait à suspecter Jean et Jésus d’être d’une manière ou d’une autre de connivence. Ces conditions rendaient contrindiqué le projet d’une campagne active soit en Judée, soit en Galilée. Il y avait encore une troisième raison : la tension lentement croissante entre les chefs des disciples de Jean et les apôtres de Jésus, tension qui s’aggravait avec l’augmentation du nombre des croyants."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "0",
@@ -91,14 +91,14 @@
       "standardReferenceId": "144:0.3",
       "pageReference": "1617.3",
       "sortId": "4.144.000.003",
-      "paperTitle": "At Gilboa and in the Decapolis",
+      "paperTitle": "À Gilboa et dans la Décapole",
       "sectionTitle": null,
-      "markdown": "Jesus knew that the days of the preliminary work of teaching and preaching were about over, that the next move involved the beginning of the full and final effort of his life on earth, and he did not wish the launching of this undertaking to be in any manner either trying or embarrassing to John the Baptist. Jesus had therefore decided to spend some time in retirement rehearsing his apostles and then to do some quiet work in the cities of the Decapolis until John should be either executed or released to join them in a united effort."
+      "markdown": "Jésus savait que les temps du travail préliminaire d’enseignement et de prédication étaient à peu près passés, et que ses prochains actes impliqueraient le commencement du plein effort final de sa vie terrestre ; il ne voulait pas que le déclenchement de cette entreprise fût en aucune manière éprouvant ou embarrassant pour Jean le Baptiste. C’est pourquoi Jésus avait décidé de passer quelque temps dans une retraite, à revoir son enseignement avec ses apôtres, et ensuite de travailler paisiblement dans les villes de la Décapole jusqu’à ce que Jean fût ou bien exécuté, ou bien libéré pour se joindre à eux dans un effort unifié."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "1",
@@ -109,14 +109,14 @@
       "standardReferenceId": "144:1.0",
       "pageReference": null,
       "sortId": "4.144.001.000",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Gilboa Encampment",
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Le campement de Gilboa",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "1",
@@ -127,14 +127,14 @@
       "standardReferenceId": "144:1.1",
       "pageReference": "1617.4",
       "sortId": "4.144.001.001",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Gilboa Encampment",
-      "markdown": "As time passed, the twelve became more devoted to Jesus and increasingly committed to the work of the kingdom. Their devotion was in large part a matter of personal loyalty. They did not grasp his many-sided teaching; they did not fully comprehend the nature of Jesus or the significance of his bestowal on earth."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Le campement de Gilboa",
+      "markdown": "À mesure que le temps passait, les douze étaient de plus en plus dévoués à Jésus et s’engageaient plus à fond dans le travail du royaume. Leur dévotion était surtout une affaire de loyauté personnelle. Ils ne saisissaient pas son enseignement complexe ; ils ne comprenaient pleinement ni la nature de Jésus ni la signification de son effusion sur terre."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "1",
@@ -145,14 +145,14 @@
       "standardReferenceId": "144:1.2",
       "pageReference": "1617.5",
       "sortId": "4.144.001.002",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Gilboa Encampment",
-      "markdown": "Jesus made it plain to his apostles that they were in retirement for three reasons:"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Le campement de Gilboa",
+      "markdown": "Jésus expliqua clairement à ses apôtres qu’ils se retiraient pour trois raisons :"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "1",
@@ -163,14 +163,14 @@
       "standardReferenceId": "144:1.3",
       "pageReference": "1617.6",
       "sortId": "4.144.001.003",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Gilboa Encampment",
-      "markdown": "1. To confirm their understanding of, and faith in, the gospel of the kingdom."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Le campement de Gilboa",
+      "markdown": "1. Pour consolider leur compréhension de l’évangile du royaume et affermir leur foi envers cet évangile."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "1",
@@ -181,14 +181,14 @@
       "standardReferenceId": "144:1.4",
       "pageReference": "1617.7",
       "sortId": "4.144.001.004",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Gilboa Encampment",
-      "markdown": "2. To allow opposition to their work in both Judea and Galilee to quiet down."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Le campement de Gilboa",
+      "markdown": "2. Pour permettre à l’opposition à leur œuvre de se calmer, tant en Judée qu’en Galilée."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "1",
@@ -199,14 +199,14 @@
       "standardReferenceId": "144:1.5",
       "pageReference": "1617.8",
       "sortId": "4.144.001.005",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Gilboa Encampment",
-      "markdown": "3. To await the fate of John the Baptist."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Le campement de Gilboa",
+      "markdown": "3. Pour attendre la décision sur le sort de Jean le Baptiste."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "1",
@@ -217,14 +217,14 @@
       "standardReferenceId": "144:1.6",
       "pageReference": "1617.9",
       "sortId": "4.144.001.006",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Gilboa Encampment",
-      "markdown": "While tarrying on Gilboa, Jesus told the twelve much about his early life and his experiences on Mount Hermon; he also revealed something of what happened in the hills during the forty days immediately after his baptism. And he directly charged them that they should tell no man about these experiences until after he had returned to the Father."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Le campement de Gilboa",
+      "markdown": "Durant leur séjour sur le mont Gilboa, Jésus donna aux douze beaucoup de détails sur sa jeunesse et sur ses expériences sur le mont Hermon. Il leur révéla également une partie de ce qui s’était passé dans les collines, durant les quarante jours qui suivirent immédiatement son baptême, et il les adjura instamment de ne parler à personne de ces expériences avant qu’il ne soit retourné vers le Père."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "1",
@@ -235,14 +235,14 @@
       "standardReferenceId": "144:1.7",
       "pageReference": "1618.1",
       "sortId": "4.144.001.007",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Gilboa Encampment",
-      "markdown": "During these September weeks they rested, visited, recounted their experiences since Jesus first called them to service, and engaged in an earnest effort to co-ordinate what the Master had so far taught them. In a measure they all sensed that this would be their last opportunity for prolonged rest. They realized that their next public effort in either Judea or Galilee would mark the beginning of the final proclamation of the coming kingdom, but they had little or no settled idea as to what the kingdom would be when it came. John and Andrew thought the kingdom had already come; Peter and James believed that it was yet to come; Nathaniel and Thomas frankly confessed they were puzzled; Matthew, Philip, and Simon Zelotes were uncertain and confused; the twins were blissfully ignorant of the controversy; and Judas Iscariot was silent, noncommittal."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Le campement de Gilboa",
+      "markdown": "Au cours de ces semaines de septembre, les apôtres se reposèrent, eurent des entretiens, racontèrent leurs expériences depuis le moment où Jésus les avait appelés au service et s’engagèrent dans un sérieux effort pour coordonner ce que le Maitre leur avait enseigné jusqu’alors. Dans une certaine mesure, ils avaient tous le sentiment que ce serait leur dernière occasion de prendre un repos prolongé. Ils comprirent clairement que leur prochain effort public, soit en Judée, soit en Galilée, marquerait le commencement de la proclamation définitive du royaume à venir, mais ils n’avaient pas d’idées bien établies sur ce que serait ce royaume lors de sa venue. Jean et André pensaient que le royaume était déjà venu ; Pierre et Jacques croyaient qu’il était encore à venir ; Nathanael et Thomas confessaient franchement qu’ils étaient perplexes ; Matthieu, Philippe et Simon Zélotès étaient incertains et troublés ; les deux jumeaux étaient béatement ignorants de la controverse ; et Judas Iscariot était silencieux et très réservé."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "1",
@@ -253,14 +253,14 @@
       "standardReferenceId": "144:1.8",
       "pageReference": "1618.2",
       "sortId": "4.144.001.008",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Gilboa Encampment",
-      "markdown": "Much of this time Jesus was alone on the mountain near the camp. Occasionally he took with him Peter, James, or John, but more often he went off to pray or commune alone. Subsequent to the baptism of Jesus and the forty days in the Perean hills, it is hardly proper to speak of these seasons of communion with his Father as prayer, nor is it consistent to speak of Jesus as worshiping, but it is altogether correct to allude to these seasons as personal communion with his Father."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Le campement de Gilboa",
+      "markdown": "Jésus passa une grande partie de ce temps seul dans la montagne près du camp. À l’occasion, il emmenait Pierre, Jacques ou Jean, mais, le plus souvent, il s’éloignait pour prier ou communier dans la solitude. Après le baptême de Jésus et ses quarante jours dans les collines de Pérée, il n’est guère exact de qualifier de prière ces périodes de communion avec son Père, et il n’est pas non plus logique de dire que Jésus était en adoration. Par contre, il est entièrement correct d’appeler ces périodes des moments de communion personnelle avec son Père."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "1",
@@ -271,14 +271,14 @@
       "standardReferenceId": "144:1.9",
       "pageReference": "1618.3",
       "sortId": "4.144.001.009",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Gilboa Encampment",
-      "markdown": "The central theme of the discussions throughout the entire month of September was prayer and worship. After they had discussed worship for some days, Jesus finally delivered his memorable discourse on prayer in answer to Thomas’s request: “Master, teach us how to pray.”"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Le campement de Gilboa",
+      "markdown": "Le thème central des discussions, durant tout le mois de septembre, fut la prière et l’adoration. Après avoir discuté de l’adoration pendant quelques jours, Jésus finit par prononcer son mémorable discours sur la prière, en réponse à la requête de Thomas : « Maitre, apprends-nous à prier. »"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "1",
@@ -289,14 +289,14 @@
       "standardReferenceId": "144:1.10",
       "pageReference": "1618.4",
       "sortId": "4.144.001.010",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Gilboa Encampment",
-      "markdown": "John had taught his disciples a prayer, a prayer for salvation in the coming kingdom. Although Jesus never forbade his followers to use John’s form of prayer, the apostles very early perceived that their Master did not fully approve of the practice of uttering set and formal prayers. Nevertheless, believers constantly requested to be taught how to pray. The twelve longed to know what form of petition Jesus would approve. And it was chiefly because of this need for some simple petition for the common people that Jesus at this time consented, in answer to Thomas’s request, to teach them a suggestive form of prayer. Jesus gave this lesson one afternoon in the third week of their sojourn on Mount Gilboa."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Le campement de Gilboa",
+      "markdown": "Jean avait enseigné une prière à ses disciples, une prière pour le salut dans le royaume à venir. Bien que Jésus n’eût jamais interdit à ses disciples d’employer la forme de prière de Jean, les apôtres perçurent très tôt que leur Maitre n’approuvait pas entièrement la pratique de prononcer des prières immuables et officielles. Néanmoins, les croyants demandaient constamment qu’on leur apprenne à prier. Les douze désiraient ardemment connaitre la forme de supplique que Jésus approuverait. Ce fut principalement à cause de ce besoin d’une supplique simple pour le commun du peuple que Jésus consentit alors, en réponse à la requête de Thomas, à leur enseigner une forme suggestive de prière. Jésus donna cette leçon un après-midi de la troisième semaine de leur séjour sur le mont Gilboa."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "2",
@@ -307,14 +307,14 @@
       "standardReferenceId": "144:2.0",
       "pageReference": null,
       "sortId": "4.144.002.000",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Discourse on Prayer",
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Le discours sur la prière",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "2",
@@ -325,14 +325,14 @@
       "standardReferenceId": "144:2.1",
       "pageReference": "1618.5",
       "sortId": "4.144.002.001",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Discourse on Prayer",
-      "markdown": "“John indeed taught you a simple form of prayer: ‘O Father, cleanse us from sin, show us your glory, reveal your love, and let your spirit sanctify our hearts forevermore, Amen!’ He taught this prayer that you might have something to teach the multitude. He did not intend that you should use such a set and formal petition as the expression of your own souls in prayer."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Le discours sur la prière",
+      "markdown": "« Jean vous a, en vérité, appris une simple forme de prière : “Ô Père, purifie-nous du péché, montre-nous ta gloire, révèle ton amour et laisse ton esprit sanctifier notre cœur à toujours. Amen !” Il a enseigné cette prière pour que vous ayez quelque chose à enseigner à la multitude. Il n’avait pas l’intention de vous voir utiliser cette supplique immuable et officielle comme expression de votre propre âme en prière."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "2",
@@ -343,14 +343,14 @@
       "standardReferenceId": "144:2.2",
       "pageReference": "1618.6",
       "sortId": "4.144.002.002",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Discourse on Prayer",
-      "markdown": "“Prayer is entirely a personal and spontaneous expression of the attitude of the soul toward the spirit; prayer should be the communion of sonship and the expression of fellowship. Prayer, when indited by the spirit, leads to co-operative spiritual progress. The ideal prayer is a form of spiritual communion which leads to intelligent worship. True praying is the sincere attitude of reaching heavenward for the attainment of your ideals."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Le discours sur la prière",
+      "markdown": "« La prière est entièrement une expression personnelle et spontanée de l’attitude de l’âme envers l’esprit ; la prière devrait être la communion de filiation et l’expression de la fraternité. Quand elle est dictée par l’esprit, la prière mène au progrès spirituel coopératif. La prière idéale est une forme de communion spirituelle qui conduit à l’adoration intelligente. La vraie prière est l’attitude sincère d’un élan vers le ciel pour atteindre vos idéaux."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "2",
@@ -361,14 +361,14 @@
       "standardReferenceId": "144:2.3",
       "pageReference": "1619.1",
       "sortId": "4.144.002.003",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Discourse on Prayer",
-      "markdown": "“Prayer is the breath of the soul and should lead you to be persistent in your attempt to ascertain the Father’s will. If any one of you has a neighbor, and you go to him at midnight and say: ‘Friend, lend me three loaves, for a friend of mine on a journey has come to see me, and I have nothing to set before him’; and if your neighbor answers, ‘Trouble me not, for the door is now shut and the children and I are in bed; therefore I cannot rise and give you bread,’ you will persist, explaining that your friend hungers, and that you have no food to offer him. I say to you, though your neighbor will not rise and give you bread because he is your friend, yet because of your importunity he will get up and give you as many loaves as you need. If, then, persistence will win favors even from mortal man, how much more will your persistence in the spirit win the bread of life for you from the willing hands of the Father in heaven. Again I say to you: Ask and it shall be given you; seek and you shall find; knock and it shall be opened to you. For every one who asks receives; he who seeks finds; and to him who knocks the door of salvation will be opened."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Le discours sur la prière",
+      "markdown": "« La prière est le souffle de l’âme et devrait vous inciter à persévérer dans vos tentatives pour mieux connaitre la volonté du Père. Si l’un de vous a un voisin et va le trouver à minuit en disant : “Ami, prête-moi trois miches, car un de mes amis en voyage est venu me voir et je n’ai rien à lui offrir”, et si votre voisin répond : “Ne me dérange pas, car la porte est maintenant fermée et les enfants et moi sommes au lit ; je ne peux donc me lever pour te donner du pain”, vous insisterez en expliquant que votre ami a faim et que vous n’avez pas de nourriture à lui offrir. Votre voisin ne se lèvera pas pour vous donner du pain par amitié pour vous, mais je vous dis qu’à cause de votre importunité, il se lèvera et vous donnera autant de miches qu’il vous en faut. Si donc la persistance gagne les faveurs même des hommes mortels, combien plus votre persistance dans l’esprit obtiendra-t-elle pour vous le pain de vie des mains bienveillantes du Père qui est aux cieux. Je vous le dis de nouveau : Demandez et l’on vous donnera, cherchez et vous trouverez, frappez et l’on vous ouvrira. Car quiconque demande reçoit ; celui qui cherche trouve ; et la porte du salut sera ouverte à celui qui frappe."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "2",
@@ -379,14 +379,14 @@
       "standardReferenceId": "144:2.4",
       "pageReference": "1619.2",
       "sortId": "4.144.002.004",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Discourse on Prayer",
-      "markdown": "“Which of you who is a father, if his son asks unwisely, would hesitate to give in accordance with parental wisdom rather than in the terms of the son’s faulty petition? If the child needs a loaf, will you give him a stone just because he unwisely asks for it? If your son needs a fish, will you give him a watersnake just because it may chance to come up in the net with the fish and the child foolishly asks for the serpent? If you, then, being mortal and finite, know how to answer prayer and give good and appropriate gifts to your children, how much more shall your heavenly Father give the spirit and many additional blessings to those who ask him? Men ought always to pray and not become discouraged."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Le discours sur la prière",
+      "markdown": "« Quel père d’entre vous, si son fils fait une demande inconsidérée, hésitera à donner selon la sagesse parentale plutôt que selon les termes de la demande malavisée de son fils ? Si l’enfant a besoin d’une miche, lui donnerez-vous une pierre simplement parce qu’il vous l’a étourdiment demandée ? Si votre fils a besoin d’un poisson, lui donnerez-vous un serpent d’eau simplement parce que vous en avez attrapé un dans vos filets avec les poissons, et que l’enfant vous demande sottement le serpent ? Si donc, étant mortels et finis, vous savez répondre aux prières et faire à vos enfants des présents bénéfiques, combien plus votre Père céleste donnera-t-il l’esprit et nombre de bénédictions supplémentaires à ceux qui les lui demanderont ? Les hommes devraient toujours prier et ne pas se laisser décourager."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "2",
@@ -397,14 +397,14 @@
       "standardReferenceId": "144:2.5",
       "pageReference": "1619.3",
       "sortId": "4.144.002.005",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Discourse on Prayer",
-      "markdown": "“Let me tell you the story of a certain judge who lived in a wicked city. This judge feared not God nor had respect for man. Now there was a needy widow in that city who came repeatedly to this unjust judge, saying, ‘Protect me from my adversary.’ For some time he would not give ear to her, but presently he said to himself: ‘Though I fear not God nor have regard for man, yet because this widow ceases not to trouble me, I will vindicate her lest she wear me out by her continual coming.’ These stories I tell you to encourage you to persist in praying and not to intimate that your petitions will change the just and righteous Father above. Your persistence, however, is not to win favor with God but to change your earth attitude and to enlarge your soul’s capacity for spirit receptivity."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Le discours sur la prière",
+      "markdown": "« Laissez-moi vous raconter l’histoire d’un certain juge qui vivait dans une ville perverse. Ce juge ne craignait pas Dieu et n’avait pas de respect pour les hommes. Or il y avait dans cette ville une veuve nécessiteuse qui allait constamment chez ce juge injuste en lui disant : “Protège-moi de mon adversaire.” Pendant quelque temps, il ne voulut pas lui prêter attention, mais bientôt il se dit en lui-même : “Je ne crains pas Dieu et n’ai pas de considération pour les hommes, mais, parce que cette veuve ne cesse de me déranger, je ferai droit à sa revendication de peur qu’elle ne m’épuise par ses visites continuelles.” Je vous raconte ces histoires pour vous encourager à persévérer dans la prière, et non pour vous laisser croire que vos suppliques modifieront la justice et la droiture du Père céleste. Cependant, votre persistance n’est pas destinée à gagner la faveur de Dieu, mais à changer votre attitude terrestre et à accroitre la capacité de votre âme à recevoir l’esprit."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "2",
@@ -415,14 +415,14 @@
       "standardReferenceId": "144:2.6",
       "pageReference": "1619.4",
       "sortId": "4.144.002.006",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Discourse on Prayer",
-      "markdown": "“But when you pray, you exercise so little faith. Genuine faith will remove mountains of material difficulty which may chance to lie in the path of soul expansion and spiritual progress.”"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Le discours sur la prière",
+      "markdown": "« Mais, lorsque vous priez, votre foi est bien faible. Une foi authentique déplacera les montagnes de difficultés matérielles qui peuvent se trouver sur le sentier de l’expansion de l’âme et du progrès spirituel. »"
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -433,14 +433,14 @@
       "standardReferenceId": "144:3.0",
       "pageReference": null,
       "sortId": "4.144.003.000",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -451,14 +451,14 @@
       "standardReferenceId": "144:3.1",
       "pageReference": "1619.5",
       "sortId": "4.144.003.001",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "But the apostles were not yet satisfied; they desired Jesus to give them a model prayer which they could teach the new disciples. After listening to this discourse on prayer, James Zebedee said: “Very good, Master, but we do not desire a form of prayer for ourselves so much as for the newer believers who so frequently beseech us, ‘Teach us how acceptably to pray to the Father in heaven.’”"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "Mais les apôtres n’étaient pas encore satisfaits ; ils désiraient que Jésus leur donne une prière modèle qu’ils puissent enseigner aux nouveaux disciples. Après avoir écouté ce discours sur la prière, Jacques Zébédée dit : « Très bien, Maitre, mais c’est moins pour nous que nous désirons une forme de prière que pour les nouveaux croyants qui nous demandent si souvent : “Apprenez-nous à adresser des prières acceptables au Père qui est aux cieux.” »"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -469,14 +469,14 @@
       "standardReferenceId": "144:3.2",
       "pageReference": "1619.6",
       "sortId": "4.144.003.002",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "When James had finished speaking, Jesus said: “If, then, you still desire such a prayer, I would present the one which I taught my brothers and sisters in Nazareth”:"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "Lorsque Jacques eut fini de parler, Jésus dit : « Si donc vous désirez encore une telle prière, je vous offrirai celle que j’ai apprise à mes frères et sœurs à Nazareth » :"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -487,14 +487,14 @@
       "standardReferenceId": "144:3.3",
       "pageReference": "1620.1",
       "sortId": "4.144.003.003",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Our Father who is in heaven,"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "&#160;&#160;&#160;&#160;Notre Père, qui es aux cieux,"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -505,14 +505,14 @@
       "standardReferenceId": "144:3.4",
       "pageReference": "1620.2",
       "sortId": "4.144.003.004",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Hallowed be your name."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Que ton nom soit sanctifié."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -523,14 +523,14 @@
       "standardReferenceId": "144:3.5",
       "pageReference": "1620.3",
       "sortId": "4.144.003.005",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Your kingdom come; your will be done"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "&#160;&#160;&#160;&#160;Que ton règne vienne ; que ta volonté soit faite"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -541,14 +541,14 @@
       "standardReferenceId": "144:3.6",
       "pageReference": "1620.4",
       "sortId": "4.144.003.006",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;On earth as it is in heaven."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Sur terre comme elle l’est au ciel."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -559,14 +559,14 @@
       "standardReferenceId": "144:3.7",
       "pageReference": "1620.5",
       "sortId": "4.144.003.007",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Give us this day our bread for tomorrow;"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "&#160;&#160;&#160;&#160;Donne-nous aujourd’hui notre pain pour demain ;"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -577,14 +577,14 @@
       "standardReferenceId": "144:3.8",
       "pageReference": "1620.6",
       "sortId": "4.144.003.008",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Refresh our souls with the water of life."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Rafraichis nos âmes avec l’eau de la vie."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -595,14 +595,14 @@
       "standardReferenceId": "144:3.9",
       "pageReference": "1620.7",
       "sortId": "4.144.003.009",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;And forgive us every one our debts"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "&#160;&#160;&#160;&#160;Et pardonne à chacun de nous ses offenses"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -613,14 +613,14 @@
       "standardReferenceId": "144:3.10",
       "pageReference": "1620.8",
       "sortId": "4.144.003.010",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;As we also have forgiven our debtors."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Comme nous avons aussi pardonné à ceux qui nous ont offensés."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -631,14 +631,14 @@
       "standardReferenceId": "144:3.11",
       "pageReference": "1620.9",
       "sortId": "4.144.003.011",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Save us in temptation, deliver us from evil,"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "&#160;&#160;&#160;&#160;Sauve-nous dans la tentation, délivre-nous du mal,"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -649,14 +649,14 @@
       "standardReferenceId": "144:3.12",
       "pageReference": "1620.10",
       "sortId": "4.144.003.012",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And increasingly make us perfect like yourself."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Et rends-nous de plus en plus parfaits comme toi-même."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -667,14 +667,14 @@
       "standardReferenceId": "144:3.13",
       "pageReference": "1620.11",
       "sortId": "4.144.003.013",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "It is not strange that the apostles desired Jesus to teach them a model prayer for believers. John the Baptist had taught his followers several prayers; all great teachers had formulated prayers for their pupils. The religious teachers of the Jews had some twenty-five or thirty set prayers which they recited in the synagogues and even on the street corners. Jesus was particularly averse to praying in public. Up to this time the twelve had heard him pray only a few times. They observed him spending entire nights at prayer or worship, and they were very curious to know the manner or form of his petitions. They were really hard pressed to know what to answer the multitudes when they asked to be taught how to pray as John had taught his disciples."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "Il n’est pas étonnant que les apôtres aient désiré que Jésus leur apprenne une prière modèle pour les croyants. Jean le Baptiste avait enseigné plusieurs prières à ses disciples ; tous les grands instructeurs avaient formulé des prières pour leurs élèves. Les éducateurs religieux des Juifs avaient vingt-cinq ou trente prières immuables qu’ils récitaient dans les synagogues et même aux coins des rues. Jésus était particulièrement opposé à la prière en public. Jusqu’alors, les douze ne l’avaient entendu prier qu’en de rares occasions. Ils le voyaient passer des nuits entières en prière ou en adoration, et ils étaient très curieux de connaitre la nature ou la forme de ses suppliques. Ils étaient poussés dans leurs derniers retranchements pour répondre aux multitudes demandant qu’on leur apprenne à prier comme Jean l’avait appris à ses disciples."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -685,14 +685,14 @@
       "standardReferenceId": "144:3.14",
       "pageReference": "1620.12",
       "sortId": "4.144.003.014",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "Jesus taught the twelve always to pray in secret; to go off by themselves amidst the quiet surroundings of nature or to go in their rooms and shut the doors when they engaged in prayer."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "Jésus enseigna aux douze à toujours prier en secret, à partir seuls dans les tranquilles paysages de la nature ou à aller dans leur chambre et à fermer les portes quand ils s’adonnaient à la prière."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -703,14 +703,14 @@
       "standardReferenceId": "144:3.15",
       "pageReference": "1620.13",
       "sortId": "4.144.003.015",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "After Jesus’ death and ascension to the Father it became the practice of many believers to finish this so-called Lord’s prayer by the addition of—“In the name of the Lord Jesus Christ.” Still later on, two lines were lost in copying, and there was added to this prayer an extra clause, reading: “For yours is the kingdom and the power and the glory, forevermore.”"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "Après la mort de Jésus et son ascension auprès du Père, la pratique s’établit chez beaucoup de croyants de finir cette prière appelée prière du Seigneur en y ajoutant : « Au nom du Seigneur Jésus-Christ. » Plus tard encore, deux lignes furent perdues dans les copies et l’on y ajouta la déclaration supplémentaire : « Car à toi appartiennent le royaume, le pouvoir et la gloire, pour l’éternité. »"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -721,14 +721,14 @@
       "standardReferenceId": "144:3.16",
       "pageReference": "1620.14",
       "sortId": "4.144.003.016",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "Jesus gave the apostles the prayer in collective form as they had prayed it in the Nazareth home. He never taught a formal personal prayer, only group, family, or social petitions. And he never volunteered to do that."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "Jésus donna aux apôtres sous forme collective la prière telle que sa famille la formulait au foyer de Nazareth. Il n’enseigna jamais de prière personnelle officielle, mais seulement des suppliques collectives, familiales ou sociales. Et il ne le fit jamais spontanément."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -739,14 +739,14 @@
       "standardReferenceId": "144:3.17",
       "pageReference": "1620.15",
       "sortId": "4.144.003.017",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "Jesus taught that effective prayer must be:"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "Jésus enseigna que la prière efficace doit être :"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -757,14 +757,14 @@
       "standardReferenceId": "144:3.18",
       "pageReference": "1620.16",
       "sortId": "4.144.003.018",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "1. Unselfish—not alone for oneself."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "1. Désintéressée — pas seulement pour soi-même."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -775,14 +775,14 @@
       "standardReferenceId": "144:3.19",
       "pageReference": "1620.17",
       "sortId": "4.144.003.019",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "2. Believing—according to faith."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "2. Croyante — conforme à la foi."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -793,14 +793,14 @@
       "standardReferenceId": "144:3.20",
       "pageReference": "1620.18",
       "sortId": "4.144.003.020",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "3. Sincere—honest of heart."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "3. Sincère — honnête de cœur."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -811,14 +811,14 @@
       "standardReferenceId": "144:3.21",
       "pageReference": "1620.19",
       "sortId": "4.144.003.021",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "4. Intelligent—according to light."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "4. Intelligente — conforme à la lumière."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -829,14 +829,14 @@
       "standardReferenceId": "144:3.22",
       "pageReference": "1620.20",
       "sortId": "4.144.003.022",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "5. Trustful—in submission to the Father’s all-wise will."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "5. Confiante — en soumission à la volonté infiniment sage du Père."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "3",
@@ -847,14 +847,14 @@
       "standardReferenceId": "144:3.23",
       "pageReference": "1620.21",
       "sortId": "4.144.003.023",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "The Believer’s Prayer",
-      "markdown": "When Jesus spent whole nights on the mountain in prayer, it was mainly for his disciples, particularly for the twelve. The Master prayed very little for himself, although he engaged in much worship of the nature of understanding communion with his Paradise Father."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La prière du croyant",
+      "markdown": "Quand Jésus passait des nuits entières sur la montagne à prier, c’était surtout pour ses disciples, et en particulier pour les douze. Le Maitre priait très peu pour lui-même, mais il pratiquait beaucoup l’adoration, une adoration dont la nature était une communion compréhensive avec son Père du Paradis."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "4",
@@ -865,14 +865,14 @@
       "standardReferenceId": "144:4.0",
       "pageReference": null,
       "sortId": "4.144.004.000",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "More About Prayer",
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Compléments sur la prière",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "4",
@@ -883,14 +883,14 @@
       "standardReferenceId": "144:4.1",
       "pageReference": "1620.22",
       "sortId": "4.144.004.001",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "More About Prayer",
-      "markdown": "For days after the discourse on prayer the apostles continued to ask the Master questions regarding this all-important and worshipful practice. Jesus’ instruction to the apostles during these days, regarding prayer and worship, may be summarized and restated in modern phraseology as follows:"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Compléments sur la prière",
+      "markdown": "Pendant les jours qui suivirent le discours sur la prière, les apôtres continuèrent à poser au Maitre des questions concernant cette pratique cultuelle d’une importance capitale. On peut résumer et reformuler comme suit, en langage moderne, les instructions sur la prière et l’adoration que Jésus donna aux apôtres durant ces journées."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "4",
@@ -901,14 +901,14 @@
       "standardReferenceId": "144:4.2",
       "pageReference": "1621.1",
       "sortId": "4.144.004.002",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "More About Prayer",
-      "markdown": "The earnest and longing repetition of any petition, when such a prayer is the sincere expression of a child of God and is uttered in faith, no matter how ill-advised or impossible of direct answer, never fails to expand the soul’s capacity for spiritual receptivity."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Compléments sur la prière",
+      "markdown": "La répétition sérieuse et fervente d’une supplique quelconque, quand cette prière est l’expression sincère d’un enfant de Dieu et qu’elle est formulée avec foi, si peu susceptible qu’elle soit de recevoir une réponse directe et si malavisée qu’elle puisse être, ne manque jamais d’accroitre la capacité de l’âme pour la réceptivité spirituelle."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "4",
@@ -919,14 +919,14 @@
       "standardReferenceId": "144:4.3",
       "pageReference": "1621.2",
       "sortId": "4.144.004.003",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "More About Prayer",
-      "markdown": "In all praying, remember that sonship is a *gift.* No child has aught to do with *earning* the status of son or daughter. The earth child comes into being by the will of its parents. Even so, the child of God comes into grace and the new life of the spirit by the will of the Father in heaven. Therefore must the kingdom of heaven—divine sonship—be *received* as by a little child. You earn righteousness—progressive character development—but you receive sonship by grace and through faith."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Compléments sur la prière",
+      "markdown": "Dans toutes vos prières, souvenez-vous toujours que la filiation est un *don.* Nul enfant ne doit s’occuper de *gagner* le statut de fils ou de fille. L’enfant terrestre vient à l’existence par la volonté de ses parents. De même, l’enfant de Dieu parvient à la grâce et acquiert la nouvelle vie de l’esprit par la volonté du Père qui est aux cieux. Il faut donc que le royaume des cieux — la filiation divine — soit *reçu* comme par un petit enfant. On gagne la droiture — le développement progressif du caractère — mais on reçoit la filiation par grâce et au moyen de la foi."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "4",
@@ -937,14 +937,14 @@
       "standardReferenceId": "144:4.4",
       "pageReference": "1621.3",
       "sortId": "4.144.004.004",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "More About Prayer",
-      "markdown": "Prayer led Jesus up to the supercommunion of his soul with the Supreme Rulers of the universe of universes. Prayer will lead the mortals of earth up to the communion of true worship. The soul’s spiritual capacity for receptivity determines the quantity of heavenly blessings which can be personally appropriated and consciously realized as an answer to prayer."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Compléments sur la prière",
+      "markdown": "La prière éleva Jésus à la supercommunion de son âme avec les Dirigeants Suprêmes de l’univers des univers. La prière élèvera les mortels de la terre à la communion de la véritable adoration. La capacité de réception spirituelle de l’âme détermine la quantité de bénédictions célestes que l’on peut s’approprier personnellement et comprendre consciemment comme une réponse à la prière."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "4",
@@ -955,14 +955,14 @@
       "standardReferenceId": "144:4.5",
       "pageReference": "1621.4",
       "sortId": "4.144.004.005",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "More About Prayer",
-      "markdown": "Prayer and its associated worship is a technique of detachment from the daily routine of life, from the monotonous grind of material existence. It is an avenue of approach to spiritualized self-realization and individuality of intellectual and religious attainment."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Compléments sur la prière",
+      "markdown": "La prière, et l’adoration qui lui est associée, est une technique pour se détacher de la routine de la vie courante, des travaux monotones de l’existence matérielle. C’est une méthode pour s’épanouir spirituellement et acquérir l’individualité intellectuelle et religieuse."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "4",
@@ -973,14 +973,14 @@
       "standardReferenceId": "144:4.6",
       "pageReference": "1621.5",
       "sortId": "4.144.004.006",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "More About Prayer",
-      "markdown": "Prayer is an antidote for harmful introspection. At least, prayer as the Master taught it is such a beneficent ministry to the soul. Jesus consistently employed the beneficial influence of praying for one’s fellows. The Master usually prayed in the plural, not in the singular. Only in the great crises of his earth life did Jesus ever pray for himself."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Compléments sur la prière",
+      "markdown": "La prière est un antidote contre l’introspection nuisible ; au moins, la prière, telle que le Maitre l’a enseignée, apporte ce bienfait à l’âme. Jésus employa avec persistance l’influence bénéfique de la prière pour autrui. Le Maitre priait en général au pluriel et non pas au singulier. C’est seulement dans les grandes crises de sa vie terrestre qu’il pria pour lui-même."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "4",
@@ -991,14 +991,14 @@
       "standardReferenceId": "144:4.7",
       "pageReference": "1621.6",
       "sortId": "4.144.004.007",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "More About Prayer",
-      "markdown": "Prayer is the breath of the spirit life in the midst of the material civilization of the races of mankind. Worship is salvation for the pleasure-seeking generations of mortals."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Compléments sur la prière",
+      "markdown": "La prière est le souffle de la vie de l’esprit au milieu de la civilisation matérielle des races de l’humanité. L’adoration constitue le salut pour les générations de mortels qui recherchent le plaisir."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "4",
@@ -1009,14 +1009,14 @@
       "standardReferenceId": "144:4.8",
       "pageReference": "1621.7",
       "sortId": "4.144.004.008",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "More About Prayer",
-      "markdown": "As prayer may be likened to recharging the spiritual batteries of the soul, so worship may be compared to the act of tuning in the soul to catch the universe broadcasts of the infinite spirit of the Universal Father."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Compléments sur la prière",
+      "markdown": "De même que l’on peut assimiler la prière à la recharge des batteries spirituelles de l’âme, de même on peut comparer l’adoration au fait d’accorder l’écoute de l’âme sur la fréquence des communications universelles de l’esprit infini du Père Universel."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "4",
@@ -1027,14 +1027,14 @@
       "standardReferenceId": "144:4.9",
       "pageReference": "1621.8",
       "sortId": "4.144.004.009",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "More About Prayer",
-      "markdown": "Prayer is the sincere and longing look of the child to its spirit Father; it is a psychologic process of exchanging the human will for the divine will. Prayer is a part of the divine plan for making over that which is into that which ought to be."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Compléments sur la prière",
+      "markdown": "La prière est le regard sincère et plein de désir jeté par l’enfant sur son Père spirituel ; c’est un processus psychologique consistant à échanger la volonté humaine contre la volonté divine. La prière fait partie du plan divin pour remodeler ce qui existe en ce qui devrait exister."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "4",
@@ -1045,14 +1045,14 @@
       "standardReferenceId": "144:4.10",
       "pageReference": "1621.9",
       "sortId": "4.144.004.010",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "More About Prayer",
-      "markdown": "One of the reasons why Peter, James, and John, who so often accompanied Jesus on his long night vigils, never heard Jesus pray, was because their Master so rarely uttered his prayers as spoken words. Practically all of Jesus’ praying was done in the spirit and in the heart—silently."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Compléments sur la prière",
+      "markdown": "L’une des raisons pour lesquelles Pierre, Jacques et Jean, qui accompagnaient si souvent le Maitre dans ses longues veilles nocturnes, n’entendirent jamais Jésus prier, vient de ce que leur Maitre exprimait fort rarement ses prières en langage parlé. Pratiquement, toutes les prières de Jésus étaient faites dans l’esprit et dans le cœur — en silence."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "4",
@@ -1063,14 +1063,14 @@
       "standardReferenceId": "144:4.11",
       "pageReference": "1621.10",
       "sortId": "4.144.004.011",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "More About Prayer",
-      "markdown": "Of all the apostles, Peter and James came the nearest to comprehending the Master’s teaching about prayer and worship."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Compléments sur la prière",
+      "markdown": "Parmi tous les apôtres, ce furent Pierre et Jacques qui furent le plus près de comprendre l’enseignement du Maitre sur la prière et l’adoration."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1081,14 +1081,14 @@
       "standardReferenceId": "144:5.0",
       "pageReference": null,
       "sortId": "4.144.005.000",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1099,14 +1099,14 @@
       "standardReferenceId": "144:5.1",
       "pageReference": "1621.11",
       "sortId": "4.144.005.001",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "From time to time, during the remainder of Jesus’ sojourn on earth, he brought to the notice of the apostles several additional forms of prayer, but he did this only in illustration of other matters, and he enjoined that these “parable prayers” should not be taught to the multitudes. Many of them were from other inhabited planets, but this fact Jesus did not reveal to the twelve. Among these prayers were the following:"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "Durant le reste de son séjour sur terre, Jésus attira de temps en temps l’attention des apôtres sur plusieurs autres formes de prière, mais il ne le fit que pour illustrer d’autres questions et enjoignit aux douze de ne pas enseigner aux foules ces « prières en paraboles ». Beaucoup d’entre elles venaient d’autres planètes habitées, mais Jésus ne révéla pas ce fait aux douze. Parmi elles se trouvaient les suivantes :"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1117,14 +1117,14 @@
       "standardReferenceId": "144:5.2",
       "pageReference": "1622.1",
       "sortId": "4.144.005.002",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Our Father in whom consist the universe realms,"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Notre Père en qui subsistent les royaumes de l’univers,"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1135,14 +1135,14 @@
       "standardReferenceId": "144:5.3",
       "pageReference": "1622.2",
       "sortId": "4.144.005.003",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Uplifted be your name and all-glorious your character."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Que ton nom soit exalté et ton caractère glorifié."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1153,14 +1153,14 @@
       "standardReferenceId": "144:5.4",
       "pageReference": "1622.3",
       "sortId": "4.144.005.004",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Your presence encompasses us, and your glory is manifested"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Ta présence nous englobe et ta gloire est manifestée"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1171,14 +1171,14 @@
       "standardReferenceId": "144:5.5",
       "pageReference": "1622.4",
       "sortId": "4.144.005.005",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Imperfectly through us as it is in perfection shown on high."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Imparfaitement à travers nous, comme elle se montre en perfection au ciel."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1189,14 +1189,14 @@
       "standardReferenceId": "144:5.6",
       "pageReference": "1622.5",
       "sortId": "4.144.005.006",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Give us this day the vivifying forces of light,"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Donne-nous aujourd’hui les forces vivifiantes de lumière,"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1207,14 +1207,14 @@
       "standardReferenceId": "144:5.7",
       "pageReference": "1622.6",
       "sortId": "4.144.005.007",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And let us not stray into the evil bypaths of our imagination,"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Et ne nous laisse pas errer dans les mauvaises voies détournées de notre imagination."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1225,14 +1225,14 @@
       "standardReferenceId": "144:5.8",
       "pageReference": "1622.7",
       "sortId": "4.144.005.008",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;For yours is the glorious indwelling, the everlasting power,"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Car à toi appartiennent la glorieuse présence intérieure, le pouvoir éternel."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1243,14 +1243,14 @@
       "standardReferenceId": "144:5.9",
       "pageReference": "1622.8",
       "sortId": "4.144.005.009",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And to us, the eternal gift of the infinite love of your Son."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Et à nous le don éternel de l’amour infini de ton Fils."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1261,14 +1261,14 @@
       "standardReferenceId": "144:5.10",
       "pageReference": "1622.9",
       "sortId": "4.144.005.010",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Even so, and everlastingly true."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Ainsi soit-il, en vérité éternelle."
     },
     {
       "type": "divider",
       "typeRank": 4,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1279,14 +1279,14 @@
       "standardReferenceId": "144:5.11",
       "pageReference": null,
       "sortId": "4.144.005.011",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
       "markdown": "&#160;&#160;&#160;&#160;* * *"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1297,14 +1297,14 @@
       "standardReferenceId": "144:5.12",
       "pageReference": "1622.10",
       "sortId": "4.144.005.012",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Our creative Parent, who is in the center of the universe,"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Notre Parent créateur, qui es au centre de l’univers,"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1315,14 +1315,14 @@
       "standardReferenceId": "144:5.13",
       "pageReference": "1622.11",
       "sortId": "4.144.005.013",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Bestow upon us your nature and give to us your character."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Effuse sur nous ta nature et donne-nous ton caractère."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1333,14 +1333,14 @@
       "standardReferenceId": "144:5.14",
       "pageReference": "1622.12",
       "sortId": "4.144.005.014",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Make us sons and daughters of yours by grace"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Fais de nous, par ta grâce, tes fils et tes filles"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1351,14 +1351,14 @@
       "standardReferenceId": "144:5.15",
       "pageReference": "1622.13",
       "sortId": "4.144.005.015",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And glorify your name through our eternal achievement."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Et glorifie ton nom par notre accomplissement éternel."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1369,14 +1369,14 @@
       "standardReferenceId": "144:5.16",
       "pageReference": "1622.14",
       "sortId": "4.144.005.016",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Your adjusting and controlling spirit give to live and dwell within us"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Donne-nous ton esprit qui ajuste et contrôle nos pensées ; qu’il vive et demeure en nous"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1387,14 +1387,14 @@
       "standardReferenceId": "144:5.17",
       "pageReference": "1622.15",
       "sortId": "4.144.005.017",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;That we may do your will on this sphere as angels do your bidding in light."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Pour nous permettre de faire ta volonté sur cette sphère comme les anges exécutent tes ordres dans la lumière."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1405,14 +1405,14 @@
       "standardReferenceId": "144:5.18",
       "pageReference": "1622.16",
       "sortId": "4.144.005.018",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Sustain us this day in our progress along the path of truth."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Soutiens-nous aujourd’hui dans notre progression le long du sentier de la vérité."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1423,14 +1423,14 @@
       "standardReferenceId": "144:5.19",
       "pageReference": "1622.17",
       "sortId": "4.144.005.019",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Deliver us from inertia, evil, and all sinful transgression."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Délivre-nous de l’inertie, du mal et de toute transgression impie."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1441,14 +1441,14 @@
       "standardReferenceId": "144:5.20",
       "pageReference": "1622.18",
       "sortId": "4.144.005.020",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Be patient with us as we show loving-kindness to our fellows."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Sois patient avec nous, de même que nous témoignons une bienveillance affectueuse à notre prochain."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1459,14 +1459,14 @@
       "standardReferenceId": "144:5.21",
       "pageReference": "1622.19",
       "sortId": "4.144.005.021",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Shed abroad the spirit of your mercy in our creature hearts."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Répands l’esprit de ta miséricorde dans notre cœur de créatures."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1477,14 +1477,14 @@
       "standardReferenceId": "144:5.22",
       "pageReference": "1622.20",
       "sortId": "4.144.005.022",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Lead us by your own hand, step by step, through the uncertain maze of life,"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Conduis-nous de ta propre main, pas à pas, dans le dédale incertain de la vie,"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1495,14 +1495,14 @@
       "standardReferenceId": "144:5.23",
       "pageReference": "1622.21",
       "sortId": "4.144.005.023",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And when our end shall come, receive into your own bosom our faithful spirits."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Et, quand viendra notre fin, reçois dans ton sein nos esprits fidèles."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1513,14 +1513,14 @@
       "standardReferenceId": "144:5.24",
       "pageReference": "1622.22",
       "sortId": "4.144.005.024",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Even so, not our desires but your will be done."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Ainsi soit-il, que ta volonté soit faite, et non nos désirs."
     },
     {
       "type": "divider",
       "typeRank": 4,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1531,14 +1531,14 @@
       "standardReferenceId": "144:5.25",
       "pageReference": null,
       "sortId": "4.144.005.025",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
       "markdown": "&#160;&#160;&#160;&#160;* * *"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1549,14 +1549,14 @@
       "standardReferenceId": "144:5.26",
       "pageReference": "1622.23",
       "sortId": "4.144.005.026",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Our perfect and righteous heavenly Father,"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Notre Père céleste parfait et juste,"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1567,14 +1567,14 @@
       "standardReferenceId": "144:5.27",
       "pageReference": "1622.24",
       "sortId": "4.144.005.027",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;This day guide and direct our journey."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Guide et dirige aujourd’hui notre voyage."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1585,14 +1585,14 @@
       "standardReferenceId": "144:5.28",
       "pageReference": "1622.25",
       "sortId": "4.144.005.028",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Sanctify our steps and co-ordinate our thoughts."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Sanctifie nos pas et coordonne nos pensées."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1603,14 +1603,14 @@
       "standardReferenceId": "144:5.29",
       "pageReference": "1622.26",
       "sortId": "4.144.005.029",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Ever lead us in the ways of eternal progress."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Conduis-nous toujours dans les voies du progrès éternel."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1621,14 +1621,14 @@
       "standardReferenceId": "144:5.30",
       "pageReference": "1622.27",
       "sortId": "4.144.005.030",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Fill us with wisdom to the fullness of power"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Remplis-nous de sagesse jusqu’à la plénitude du pouvoir"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1639,14 +1639,14 @@
       "standardReferenceId": "144:5.31",
       "pageReference": "1622.28",
       "sortId": "4.144.005.031",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And vitalize us with your infinite energy."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Et vivifie-nous de ton énergie infinie."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1657,14 +1657,14 @@
       "standardReferenceId": "144:5.32",
       "pageReference": "1622.29",
       "sortId": "4.144.005.032",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Inspire us with the divine consciousness of"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Inspire-nous par la conscience divine"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1675,14 +1675,14 @@
       "standardReferenceId": "144:5.33",
       "pageReference": "1622.30",
       "sortId": "4.144.005.033",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;The presence and guidance of the seraphic hosts."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;De la présence et de la gouverne des armées séraphiques."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1693,14 +1693,14 @@
       "standardReferenceId": "144:5.34",
       "pageReference": "1622.31",
       "sortId": "4.144.005.034",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Guide us ever upward in the pathway of light;"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Guide-nous toujours plus haut dans le sentier de lumière ;"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1711,14 +1711,14 @@
       "standardReferenceId": "144:5.35",
       "pageReference": "1622.32",
       "sortId": "4.144.005.035",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Justify us fully in the day of the great judgment."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Justifie-nous pleinement au jour du grand jugement."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1729,14 +1729,14 @@
       "standardReferenceId": "144:5.36",
       "pageReference": "1622.33",
       "sortId": "4.144.005.036",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Make us like yourself in eternal glory"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Rends-nous semblables à toi en gloire éternelle"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1747,14 +1747,14 @@
       "standardReferenceId": "144:5.37",
       "pageReference": "1622.34",
       "sortId": "4.144.005.037",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And receive us into your endless service on high."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Et reçois-nous à perpétuité dans ton service exalté."
     },
     {
       "type": "divider",
       "typeRank": 4,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1765,14 +1765,14 @@
       "standardReferenceId": "144:5.38",
       "pageReference": null,
       "sortId": "4.144.005.038",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
       "markdown": "&#160;&#160;&#160;&#160;* * *"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1783,14 +1783,14 @@
       "standardReferenceId": "144:5.39",
       "pageReference": "1622.35",
       "sortId": "4.144.005.039",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Our Father who is in the mystery,"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Notre Père, qui es dans le mystère,"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1801,14 +1801,14 @@
       "standardReferenceId": "144:5.40",
       "pageReference": "1622.36",
       "sortId": "4.144.005.040",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Reveal to us your holy character."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Révèle-nous ton saint caractère."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1819,14 +1819,14 @@
       "standardReferenceId": "144:5.41",
       "pageReference": "1622.37",
       "sortId": "4.144.005.041",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Give your children on earth this day"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Donne aujourd’hui à tes enfants terrestres"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1837,14 +1837,14 @@
       "standardReferenceId": "144:5.42",
       "pageReference": "1622.38",
       "sortId": "4.144.005.042",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;To see the way, the light, and the truth."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;De voir le chemin, la lumière et la vérité."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1855,14 +1855,14 @@
       "standardReferenceId": "144:5.43",
       "pageReference": "1622.39",
       "sortId": "4.144.005.043",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Show us the pathway of eternal progress"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Montre-nous le sentier du progrès éternel"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1873,14 +1873,14 @@
       "standardReferenceId": "144:5.44",
       "pageReference": "1622.40",
       "sortId": "4.144.005.044",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And give us the will to walk therein."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Et donne-nous la volonté d’y marcher."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1891,14 +1891,14 @@
       "standardReferenceId": "144:5.45",
       "pageReference": "1622.41",
       "sortId": "4.144.005.045",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Establish within us your divine kingship"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Établis en nous ta divine souveraineté"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1909,14 +1909,14 @@
       "standardReferenceId": "144:5.46",
       "pageReference": "1622.42",
       "sortId": "4.144.005.046",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And thereby bestow upon us the full mastery of self."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Et effuse ainsi sur nous la pleine maitrise du moi."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1927,14 +1927,14 @@
       "standardReferenceId": "144:5.47",
       "pageReference": "1622.43",
       "sortId": "4.144.005.047",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Let us not stray into paths of darkness and death;"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Ne nous laisse pas nous égarer dans des sentiers de ténèbres et de mort ;"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1945,14 +1945,14 @@
       "standardReferenceId": "144:5.48",
       "pageReference": "1622.44",
       "sortId": "4.144.005.048",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Lead us everlastingly beside the waters of life."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Conduis-nous perpétuellement auprès des eaux vivantes."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1963,14 +1963,14 @@
       "standardReferenceId": "144:5.49",
       "pageReference": "1622.45",
       "sortId": "4.144.005.049",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Hear these our prayers for your own sake;"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Par égard pour toi-même, écoute les prières que nous faisons ;"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1981,14 +1981,14 @@
       "standardReferenceId": "144:5.50",
       "pageReference": "1622.46",
       "sortId": "4.144.005.050",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Be pleased to make us more and more like yourself."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Sois heureux de nous rendre de plus en plus semblables à toi."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -1999,14 +1999,14 @@
       "standardReferenceId": "144:5.51",
       "pageReference": "1623.1",
       "sortId": "4.144.005.051",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;At the end, for the sake of the divine Son,"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;À la fin, pour l’amour du divin Fils,"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2017,14 +2017,14 @@
       "standardReferenceId": "144:5.52",
       "pageReference": "1623.2",
       "sortId": "4.144.005.052",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Receive us into the eternal arms."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Reçois-nous dans les bras éternels."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2035,14 +2035,14 @@
       "standardReferenceId": "144:5.53",
       "pageReference": "1623.3",
       "sortId": "4.144.005.053",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Even so, not our will but yours be done."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Ainsi soit-il, que ta volonté soit faite, et non la nôtre."
     },
     {
       "type": "divider",
       "typeRank": 4,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2053,14 +2053,14 @@
       "standardReferenceId": "144:5.54",
       "pageReference": null,
       "sortId": "4.144.005.054",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
       "markdown": "&#160;&#160;&#160;&#160;* * *"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2071,14 +2071,14 @@
       "standardReferenceId": "144:5.55",
       "pageReference": "1623.4",
       "sortId": "4.144.005.055",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Glorious Father and Mother, in one parent combined,"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Glorieux Père et Mère, unifiés en un seul parent,"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2089,14 +2089,14 @@
       "standardReferenceId": "144:5.56",
       "pageReference": "1623.5",
       "sortId": "4.144.005.056",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Loyal would we be to your divine nature."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Nous voudrions être fidèles à ta nature divine."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2107,14 +2107,14 @@
       "standardReferenceId": "144:5.57",
       "pageReference": "1623.6",
       "sortId": "4.144.005.057",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Your own self to live again in and through us"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Que ta propre personne revive en nous et à travers nous"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2125,14 +2125,14 @@
       "standardReferenceId": "144:5.58",
       "pageReference": "1623.7",
       "sortId": "4.144.005.058",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;By the gift and bestowal of your divine spirit,"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Par le don et l’effusion de ton esprit divin ;"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2143,14 +2143,14 @@
       "standardReferenceId": "144:5.59",
       "pageReference": "1623.8",
       "sortId": "4.144.005.059",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Thus reproducing you imperfectly in this sphere"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Nous te copierons ainsi imparfaitement dans cette sphère"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2161,14 +2161,14 @@
       "standardReferenceId": "144:5.60",
       "pageReference": "1623.9",
       "sortId": "4.144.005.060",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;As you are perfectly and majestically shown on high."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Tel que tu te montres en perfection et en majesté au ciel."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2179,14 +2179,14 @@
       "standardReferenceId": "144:5.61",
       "pageReference": "1623.10",
       "sortId": "4.144.005.061",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Give us day by day your sweet ministry of brotherhood"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Donne-nous, jour après jour, ton doux ministère de fraternité"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2197,14 +2197,14 @@
       "standardReferenceId": "144:5.62",
       "pageReference": "1623.11",
       "sortId": "4.144.005.062",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And lead us moment by moment in the pathway of loving service."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Et conduis-nous, d’instant en instant, dans la voie du service aimant."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2215,14 +2215,14 @@
       "standardReferenceId": "144:5.63",
       "pageReference": "1623.12",
       "sortId": "4.144.005.063",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Be you ever and unfailingly patient with us"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Sois toujours et infailliblement patient avec nous"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2233,14 +2233,14 @@
       "standardReferenceId": "144:5.64",
       "pageReference": "1623.13",
       "sortId": "4.144.005.064",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Even as we show forth your patience to our children."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Comme nous témoignons ta patience à nos enfants."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2251,14 +2251,14 @@
       "standardReferenceId": "144:5.65",
       "pageReference": "1623.14",
       "sortId": "4.144.005.065",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Give us the divine wisdom that does all things well"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Donne-nous la divine sagesse qui accomplit bien toutes choses"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2269,14 +2269,14 @@
       "standardReferenceId": "144:5.66",
       "pageReference": "1623.15",
       "sortId": "4.144.005.066",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And the infinite love that is gracious to every creature."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Et l’amour infini qui est bienveillant envers toute créature."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2287,14 +2287,14 @@
       "standardReferenceId": "144:5.67",
       "pageReference": "1623.16",
       "sortId": "4.144.005.067",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Bestow upon us your patience and loving-kindness"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Effuse sur nous ta patience et ta bienveillance affectueuse"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2305,14 +2305,14 @@
       "standardReferenceId": "144:5.68",
       "pageReference": "1623.17",
       "sortId": "4.144.005.068",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;That our charity may enfold the weak of the realm."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Afin que notre charité enveloppe les faibles du royaume."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2323,14 +2323,14 @@
       "standardReferenceId": "144:5.69",
       "pageReference": "1623.18",
       "sortId": "4.144.005.069",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;And when our career is finished, make it an honor to your name,"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Et, quand notre carrière sera achevée, fais d’elle un honneur pour ton nom,"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2341,14 +2341,14 @@
       "standardReferenceId": "144:5.70",
       "pageReference": "1623.19",
       "sortId": "4.144.005.070",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;A pleasure to your good spirit, and a satisfaction to our soul helpers."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Un plaisir pour ton esprit de bonté et une satisfaction pour ceux qui soutiennent notre âme."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2359,14 +2359,14 @@
       "standardReferenceId": "144:5.71",
       "pageReference": "1623.20",
       "sortId": "4.144.005.071",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Not as we wish, our loving Father, but as you desire the eternal good of your mortal children,"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Que le bien éternel de tes enfants mortels ne soit pas celui que nous souhaitons, Ô notre Père aimant, mais celui que tu désires."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2377,14 +2377,14 @@
       "standardReferenceId": "144:5.72",
       "pageReference": "1623.21",
       "sortId": "4.144.005.072",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Even so may it be."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Ainsi soit-il."
     },
     {
       "type": "divider",
       "typeRank": 4,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2395,14 +2395,14 @@
       "standardReferenceId": "144:5.73",
       "pageReference": null,
       "sortId": "4.144.005.073",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
       "markdown": "&#160;&#160;&#160;&#160;* * *"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2413,14 +2413,14 @@
       "standardReferenceId": "144:5.74",
       "pageReference": "1623.22",
       "sortId": "4.144.005.074",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Our all-faithful Source and all-powerful Center,"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Notre toute fidèle Source et notre Centre tout-puissant,"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2431,14 +2431,14 @@
       "standardReferenceId": "144:5.75",
       "pageReference": "1623.23",
       "sortId": "4.144.005.075",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Reverent and holy be the name of your all-gracious Son."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Que le nom de ton Fils plein de grâce soit saint et révéré."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2449,14 +2449,14 @@
       "standardReferenceId": "144:5.76",
       "pageReference": "1623.24",
       "sortId": "4.144.005.076",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Your bounties and your blessings have descended upon us,"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Tes bontés et tes bénédictions sont descendues sur nous,"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2467,14 +2467,14 @@
       "standardReferenceId": "144:5.77",
       "pageReference": "1623.25",
       "sortId": "4.144.005.077",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Thus empowering us to perform your will and execute your bidding."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Nous donnant le pouvoir d’accomplir ta volonté et d’exécuter tes commandements."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2485,14 +2485,14 @@
       "standardReferenceId": "144:5.78",
       "pageReference": "1623.26",
       "sortId": "4.144.005.078",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Give us moment by moment the sustenance of the tree of life;"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Donne-nous, d’instant en instant, le soutien de l’arbre de vie ;"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2503,14 +2503,14 @@
       "standardReferenceId": "144:5.79",
       "pageReference": "1623.27",
       "sortId": "4.144.005.079",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Refresh us day by day with the living waters of the river thereof."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Rafraichis-nous, jour après jour, avec les eaux vives de ce fleuve."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2521,14 +2521,14 @@
       "standardReferenceId": "144:5.80",
       "pageReference": "1623.28",
       "sortId": "4.144.005.080",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Step by step lead us out of darkness and into the divine light."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Conduis-nous, pas à pas, hors des ténèbres et dans la lumière divine."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2539,14 +2539,14 @@
       "standardReferenceId": "144:5.81",
       "pageReference": "1623.29",
       "sortId": "4.144.005.081",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Renew our minds by the transformations of the indwelling spirit,"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Renouvèle notre mental par les transformations de l’esprit intérieur,"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2557,14 +2557,14 @@
       "standardReferenceId": "144:5.82",
       "pageReference": "1623.30",
       "sortId": "4.144.005.082",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;And when the mortal end shall finally come upon us,"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Et, quand la fin mortelle finira par nous atteindre,"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2575,14 +2575,14 @@
       "standardReferenceId": "144:5.83",
       "pageReference": "1623.31",
       "sortId": "4.144.005.083",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Receive us to yourself and send us forth in eternity."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Reçois-nous près de toi et envoie-nous dans l’éternité."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2593,14 +2593,14 @@
       "standardReferenceId": "144:5.84",
       "pageReference": "1623.32",
       "sortId": "4.144.005.084",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Crown us with celestial diadems of fruitful service,"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Couronne-nous des diadèmes célestes du service fructueux,"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2611,14 +2611,14 @@
       "standardReferenceId": "144:5.85",
       "pageReference": "1623.33",
       "sortId": "4.144.005.085",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And we shall glorify the Father, the Son, and the Holy Influence."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Et nous glorifierons le Père, le Fils et la Sainte Influence."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2629,14 +2629,14 @@
       "standardReferenceId": "144:5.86",
       "pageReference": "1623.34",
       "sortId": "4.144.005.086",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Even so, throughout a universe without end."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Ainsi soit-il, dans tout un univers sans fin."
     },
     {
       "type": "divider",
       "typeRank": 4,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2647,14 +2647,14 @@
       "standardReferenceId": "144:5.87",
       "pageReference": null,
       "sortId": "4.144.005.087",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
       "markdown": "&#160;&#160;&#160;&#160;* * *"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2665,14 +2665,14 @@
       "standardReferenceId": "144:5.88",
       "pageReference": "1623.35",
       "sortId": "4.144.005.088",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Our Father who dwells in the secret places of the universe,"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Notre Père, qui habites dans les lieux secrets de l’univers,"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2683,14 +2683,14 @@
       "standardReferenceId": "144:5.89",
       "pageReference": "1623.36",
       "sortId": "4.144.005.089",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Honored be your name, reverenced your mercy, and respected your judgment."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Que ton nom soit honoré, ta miséricorde révérée et ton jugement respecté."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2701,14 +2701,14 @@
       "standardReferenceId": "144:5.90",
       "pageReference": "1623.37",
       "sortId": "4.144.005.090",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Let the sun of righteousness shine upon us at noontime,"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Que le soleil de la droiture brille sur nous au milieu du jour,"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2719,14 +2719,14 @@
       "standardReferenceId": "144:5.91",
       "pageReference": "1623.38",
       "sortId": "4.144.005.091",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;While we beseech you to guide our wayward steps in the twilight."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Tandis que nous te supplions de guider nos pas indociles à l’approche de la nuit."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2737,14 +2737,14 @@
       "standardReferenceId": "144:5.92",
       "pageReference": "1623.39",
       "sortId": "4.144.005.092",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Lead us by the hand in the ways of your own choosing"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Conduis-nous par la main dans les voies que tu auras choisies,"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2755,14 +2755,14 @@
       "standardReferenceId": "144:5.93",
       "pageReference": "1623.40",
       "sortId": "4.144.005.093",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And forsake us not when the path is hard and the hours are dark."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Et ne nous abandonne pas quand la route est dure et les heures sombres."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2773,14 +2773,14 @@
       "standardReferenceId": "144:5.94",
       "pageReference": "1623.41",
       "sortId": "4.144.005.094",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Forget us not as we so often neglect and forget you."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Ne nous oublie pas comme nous t’oublions et te négligeons si souvent,"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2791,14 +2791,14 @@
       "standardReferenceId": "144:5.95",
       "pageReference": "1623.42",
       "sortId": "4.144.005.095",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;But be you merciful and love us as we desire to love you."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Mais sois miséricordieux et aime-nous comme nous souhaitons t’aimer."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2809,14 +2809,14 @@
       "standardReferenceId": "144:5.96",
       "pageReference": "1623.43",
       "sortId": "4.144.005.096",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Look down upon us in kindness and forgive us in mercy"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Regarde-nous d’en haut avec bonté et pardonne-nous avec miséricorde"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2827,14 +2827,14 @@
       "standardReferenceId": "144:5.97",
       "pageReference": "1623.44",
       "sortId": "4.144.005.097",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;As we in justice forgive those who distress and injure us."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Comme nous pardonnons en justice à ceux qui nous chagrinent et nous blessent."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2845,14 +2845,14 @@
       "standardReferenceId": "144:5.98",
       "pageReference": "1624.1",
       "sortId": "4.144.005.098",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;May the love, devotion, and bestowal of the majestic Son"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Puissent l’amour, le dévouement et l’effusion du Fils majestueux"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2863,14 +2863,14 @@
       "standardReferenceId": "144:5.99",
       "pageReference": "1624.2",
       "sortId": "4.144.005.099",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Make available life everlasting with your endless mercy and love."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Nous procurer la vie éternelle avec ta miséricorde et ton amour sans fin."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2881,14 +2881,14 @@
       "standardReferenceId": "144:5.100",
       "pageReference": "1624.3",
       "sortId": "4.144.005.100",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;May the God of universes bestow upon us the full measure of his spirit;"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Puisse le Dieu des univers effuser sur nous la pleine mesure de son esprit ;"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2899,14 +2899,14 @@
       "standardReferenceId": "144:5.101",
       "pageReference": "1624.4",
       "sortId": "4.144.005.101",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Give us grace to yield to the leading of this spirit."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Donne-nous la grâce de nous plier aux directives de cet esprit."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2917,14 +2917,14 @@
       "standardReferenceId": "144:5.102",
       "pageReference": "1624.5",
       "sortId": "4.144.005.102",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;By the loving ministry of devoted seraphic hosts"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Par le ministère aimant d’armées séraphiques dévouées."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2935,14 +2935,14 @@
       "standardReferenceId": "144:5.103",
       "pageReference": "1624.6",
       "sortId": "4.144.005.103",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;May the Son guide and lead us to the end of the age."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Puisse le Fils nous guider et nous mener jusqu’à la fin de l’âge."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2953,14 +2953,14 @@
       "standardReferenceId": "144:5.104",
       "pageReference": "1624.7",
       "sortId": "4.144.005.104",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Make us ever and increasingly like yourself"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Rends-nous toujours de plus en plus semblables à toi-même,"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2971,14 +2971,14 @@
       "standardReferenceId": "144:5.105",
       "pageReference": "1624.8",
       "sortId": "4.144.005.105",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And at our end receive us into the eternal Paradise embrace."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Et, lors de notre fin, reçois-nous dans l’embrassement éternel du Paradis."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -2989,14 +2989,14 @@
       "standardReferenceId": "144:5.106",
       "pageReference": "1624.9",
       "sortId": "4.144.005.106",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;Even so, in the name of the bestowal Son"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;Ainsi soit-il, au nom du Fils d’effusion"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -3007,14 +3007,14 @@
       "standardReferenceId": "144:5.107",
       "pageReference": "1624.10",
       "sortId": "4.144.005.107",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;And for the honor and glory of the Supreme Father."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Et pour l’honneur et la gloire du Père Suprême."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "5",
@@ -3025,14 +3025,14 @@
       "standardReferenceId": "144:5.108",
       "pageReference": "1624.11",
       "sortId": "4.144.005.108",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Other Forms of Prayer",
-      "markdown": "Though the apostles were not at liberty to present these prayer lessons in their public teachings, they profited much from all of these revelations in their personal religious experiences. Jesus utilized these and other prayer models as illustrations in connection with the intimate instruction of the twelve, and specific permission has been granted for transcribing these seven specimen prayers into this record."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Autres formes de prière",
+      "markdown": "Bien que les apôtres ne fussent pas libres de présenter ces leçons sur la prière dans leurs enseignements publics, ils profitèrent beaucoup de toutes ces révélations dans leur expérience religieuse personnelle. Jésus utilisa ces modèles de prière et d’autres encore comme exemples liés à l’instruction intime des douze. La permission de reproduire ces sept spécimens de prière dans le présent exposé a été spécifiquement accordée."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "6",
@@ -3043,14 +3043,14 @@
       "standardReferenceId": "144:6.0",
       "pageReference": null,
       "sortId": "4.144.006.000",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Conference with John’s Apostles",
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Conférence avec les apôtres de Jean",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "6",
@@ -3061,14 +3061,14 @@
       "standardReferenceId": "144:6.1",
       "pageReference": "1624.12",
       "sortId": "4.144.006.001",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Conference with John’s Apostles",
-      "markdown": "Around the first of October, Philip and some of his fellow apostles were in a near-by village buying food when they met some of the apostles of John the Baptist. As a result of this chance meeting in the market place there came about a three weeks’ conference at the Gilboa camp between the apostles of Jesus and the apostles of John, for John had recently appointed twelve of his leaders to be apostles, following the precedent of Jesus. John had done this in response to the urging of Abner, the chief of his loyal supporters. Jesus was present at the Gilboa camp throughout the first week of this joint conference but absented himself the last two weeks."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Conférence avec les apôtres de Jean",
+      "markdown": "Vers le 1er octobre, Philippe et plusieurs autres apôtres se trouvaient dans un village voisin, achetant des vivres, lorsqu’ils rencontrèrent quelques-uns des apôtres de Jean le Baptiste. Cette rencontre fortuite sur la place du marché eut pour résultat une conférence de trois semaines, au camp de Gilboa, entre les apôtres de Jésus et les apôtres de Jean, car Jean, imitant le précédent de Jésus, avait récemment nommé apôtres douze de ses principaux disciples. Il l’avait fait en réponse à la demande pressante d’Abner, chef de ses loyaux partisans. Jésus resta présent au camp de Gilboa durant toute la première semaine de cette conférence commune, mais s’absenta durant les deux dernières semaines."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "6",
@@ -3079,14 +3079,14 @@
       "standardReferenceId": "144:6.2",
       "pageReference": "1624.13",
       "sortId": "4.144.006.002",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Conference with John’s Apostles",
-      "markdown": "By the beginning of the second week of this month, Abner had assembled all of his associates at the Gilboa camp and was prepared to go into council with the apostles of Jesus. For three weeks these twenty-four men were in session three times a day and for six days each week. The first week Jesus mingled with them between their forenoon, afternoon, and evening sessions. They wanted the Master to meet with them and preside over their joint deliberations, but he steadfastly refused to participate in their discussions, though he did consent to speak to them on three occasions. These talks by Jesus to the twenty-four were on sympathy, co-operation, and tolerance."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Conférence avec les apôtres de Jean",
+      "markdown": "Vers le début de la deuxième semaine de ce mois, Abner avait rassemblé tous ses associés au camp de Gilboa et se trouvait prêt à conférer avec les apôtres de Jésus. Durant trois semaines, ces vingt-quatre hommes tinrent session trois fois par jour et six jours par semaine. La première semaine, Jésus se mêla à eux entre leurs sessions du matin, de l’après-midi et du soir. Ils voulaient que le Maitre se joigne à eux et préside leurs délibérations conjointes, mais il refusa fermement de participer à leurs discussions. Il consentit cependant à leur parler en trois occasions, et ces allocutions de Jésus aux vingt-quatre portèrent sur les sujets de la compassion, de la coopération et de la tolérance."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "6",
@@ -3097,14 +3097,14 @@
       "standardReferenceId": "144:6.3",
       "pageReference": "1624.14",
       "sortId": "4.144.006.003",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Conference with John’s Apostles",
-      "markdown": "Andrew and Abner alternated in presiding over these joint meetings of the two apostolic groups. These men had many difficulties to discuss and numerous problems to solve. Again and again would they take their troubles to Jesus, only to hear him say: “I am concerned only with your personal and purely religious problems. I am the representative of the Father to the *individual,* not to the group. If you are in personal difficulty in your relations with God, come to me, and I will hear you and counsel you in the solution of your problem. But when you enter upon the co-ordination of divergent human interpretations of religious questions and upon the socialization of religion, you are destined to solve all such problems by your own decisions. Albeit, I am ever sympathetic and always interested, and when you arrive at your conclusions touching these matters of nonspiritual import, provided you are all agreed, then I pledge in advance my full approval and hearty co-operation. And now, in order to leave you unhampered in your deliberations, I am leaving you for two weeks. Be not anxious about me, for I will return to you. I will be about my Father’s business, for we have other realms besides this one.”"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Conférence avec les apôtres de Jean",
+      "markdown": "André et Abner prirent alternativement la présidence de ces réunions communes des deux groupes apostoliques. Ces hommes avaient bien des difficultés à débattre et de nombreux problèmes à résoudre. Maintes et maintes fois, ils voulurent soumettre leurs ennuis à Jésus, sans autre résultat que de l’entendre dire : « Je ne m’occupe que de vos problèmes personnels et purement religieux. Je suis le représentant du Père auprès des *individus* et non auprès des groupes. Si vous êtes personnellement en difficulté dans vos relations avec Dieu, venez à moi ; je vous écouterai et vous conseillerai dans la solution de votre problème. Mais, si vous entreprenez de coordonner des interprétations humaines divergentes relatives à des questions religieuses et à la socialisation de la religion, il vous faut résoudre tous ces problèmes en prenant vos propres décisions. Toutefois, je vous accompagnerai toujours de ma sympathie et de mon intérêt. Quand vous arriverez à des conclusions sur ces affaires dépourvues d’importance spirituelle, et pourvu que vous soyez tous d’accord, je vous garantis d’avance ma pleine approbation et ma sincère coopération. Maintenant, pour ne pas vous gêner dans vos délibérations, je vous quitte pour quinze jours. Ne vous inquiétez pas de moi, je reviendrai à vous. Je m’occuperai des affaires de mon Père, car nous avons d’autres royaumes en dehors de celui-ci. »"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "6",
@@ -3115,14 +3115,14 @@
       "standardReferenceId": "144:6.4",
       "pageReference": "1625.1",
       "sortId": "4.144.006.004",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Conference with John’s Apostles",
-      "markdown": "After thus speaking, Jesus went down the mountainside, and they saw him no more for two full weeks. And they never knew where he went or what he did during these days. It was some time before the twenty-four could settle down to the serious consideration of their problems, they were so disconcerted by the absence of the Master. However, within a week they were again in the heart of their discussions, and they could not go to Jesus for help."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Conférence avec les apôtres de Jean",
+      "markdown": "Après avoir ainsi parlé, Jésus descendit de la pente de la montagne, et ils ne le virent plus pendant deux semaines entières. Ils ne surent jamais où il était allé ni ce qu’il avait fait durant ces jours-là. Il fallut quelque temps aux vingt-quatre pour s’atteler sérieusement à l’étude de leurs problèmes, tant ils étaient déconcertés par l’absence du Maitre. Toutefois, au bout d’une semaine, ils se retrouvèrent au cœur de leurs discussions, sans pouvoir faire appel à l’aide de Jésus."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "6",
@@ -3133,14 +3133,14 @@
       "standardReferenceId": "144:6.5",
       "pageReference": "1625.2",
       "sortId": "4.144.006.005",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Conference with John’s Apostles",
-      "markdown": "The first item the group agreed upon was the adoption of the prayer which Jesus had so recently taught them. It was unanimously voted to accept this prayer as the one to be taught believers by both groups of apostles."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Conférence avec les apôtres de Jean",
+      "markdown": "La première question sur laquelle le groupe se mit d’accord fut l’adoption de la prière que Jésus leur avait si récemment apprise. Ils votèrent à l’unanimité d’accepter cette prière comme celle qui devait être enseignée aux croyants par les deux groupes d’apôtres."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "6",
@@ -3151,14 +3151,14 @@
       "standardReferenceId": "144:6.6",
       "pageReference": "1625.3",
       "sortId": "4.144.006.006",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Conference with John’s Apostles",
-      "markdown": "They next decided that, as long as John lived, whether in prison or out, both groups of twelve apostles would go on with their work, and that joint meetings for one week would be held every three months at places to be agreed upon from time to time."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Conférence avec les apôtres de Jean",
+      "markdown": "Ils décidèrent ensuite qu’aussi longtemps que Jean vivrait, soit en prison, soit en liberté, les deux groupes de douze apôtres poursuivraient leur propre travail et tiendraient, tous les trois mois, des réunions communes d’une semaine en des lieux à convenir de temps en temps."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "6",
@@ -3169,14 +3169,14 @@
       "standardReferenceId": "144:6.7",
       "pageReference": "1625.4",
       "sortId": "4.144.006.007",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Conference with John’s Apostles",
-      "markdown": "But the most serious of all their problems was the question of baptism. Their difficulties were all the more aggravated because Jesus had refused to make any pronouncement upon the subject. They finally agreed: As long as John lived, or until they might jointly modify this decision, only the apostles of John would baptize believers, and only the apostles of Jesus would finally instruct the new disciples. Accordingly, from that time until after the death of John, two of the apostles of John accompanied Jesus and his apostles to baptize believers, for the joint council had unanimously voted that baptism was to become the initial step in the outward alliance with the affairs of the kingdom."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Conférence avec les apôtres de Jean",
+      "markdown": "De tous leurs problèmes, le plus sérieux était cependant la question du baptême. Leurs difficultés étaient d’autant plus graves que Jésus avait refusé de faire une déclaration quelconque sur le sujet. Ils parvinrent finalement à l’accord suivant : Tant que Jean vivrait, ou tant qu’ils n’auraient pas éventuellement modifié cette décision d’un commun accord, seuls les apôtres de Jean baptiseraient les croyants et seuls les apôtres de Jésus complèteraient l’instruction des nouveaux disciples. En conséquence, depuis ce moment-là et jusqu’après la mort de Jean, deux apôtres de Jean accompagnèrent Jésus et ses apôtres pour baptiser les croyants, car le conseil conjoint avait voté unanimement que le baptême deviendrait l’étape initiale comme signe extérieur de l’alliance avec les affaires du royaume."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "6",
@@ -3187,14 +3187,14 @@
       "standardReferenceId": "144:6.8",
       "pageReference": "1625.5",
       "sortId": "4.144.006.008",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Conference with John’s Apostles",
-      "markdown": "It was next agreed, in case of the death of John, that the apostles of John would present themselves to Jesus and become subject to his direction, and that they would baptize no more unless authorized by Jesus or his apostles."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Conférence avec les apôtres de Jean",
+      "markdown": "Il fut ensuite convenu que, si Jean mourait, les apôtres de Jean se présenteraient à Jésus et se soumettraient à ses directives ; ils cesseraient alors de baptiser, à moins d’y être autorisés par Jésus ou ses apôtres."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "6",
@@ -3205,14 +3205,14 @@
       "standardReferenceId": "144:6.9",
       "pageReference": "1625.6",
       "sortId": "4.144.006.009",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Conference with John’s Apostles",
-      "markdown": "And then was it voted that, in case of John’s death, the apostles of Jesus would begin to baptize with water as the emblem of the baptism of the divine Spirit. As to whether or not *repentance* should be attached to the preaching of baptism was left optional; no decision was made binding upon the group. John’s apostles preached, “Repent and be baptized.” Jesus’ apostles proclaimed, “Believe and be baptized.”"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Conférence avec les apôtres de Jean",
+      "markdown": "Ils votèrent ensuite qu’au cas où Jean mourrait, les apôtres de Jésus commenceraient à baptiser avec de l’eau en symbole du baptême de l’Esprit divin. La *repentance* devait-elle ou non être attachée à la prédication du baptême ? La question fut laissée au choix de chacun, et aucune décision obligatoire pour le groupe ne fut prise. Les apôtres de Jean prêchaient : « Repentez-vous et soyez baptisés » et les apôtres de Jésus proclamaient : « Croyez et soyez baptisés. »"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "6",
@@ -3223,14 +3223,14 @@
       "standardReferenceId": "144:6.10",
       "pageReference": "1625.7",
       "sortId": "4.144.006.010",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Conference with John’s Apostles",
-      "markdown": "And this is the story of the first attempt of Jesus’ followers to co-ordinate divergent efforts, compose differences of opinion, organize group undertakings, legislate on outward observances, and socialize personal religious practices."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Conférence avec les apôtres de Jean",
+      "markdown": "Telle est l’histoire de la première tentative des disciples de Jésus pour coordonner des efforts divergents, régler des différences d’opinion, organiser des entreprises collectives, légiférer sur des observances extérieures et socialiser les pratiques religieuses personnelles."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "6",
@@ -3241,14 +3241,14 @@
       "standardReferenceId": "144:6.11",
       "pageReference": "1625.8",
       "sortId": "4.144.006.011",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Conference with John’s Apostles",
-      "markdown": "Many other minor matters were considered and their solutions unanimously agreed upon. These twenty-four men had a truly remarkable experience these two weeks when they were compelled to face problems and compose difficulties without Jesus. They learned to differ, to debate, to contend, to pray, and to compromise, and throughout it all to remain sympathetic with the other person’s viewpoint and to maintain at least some degree of tolerance for his honest opinions."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Conférence avec les apôtres de Jean",
+      "markdown": "Ils étudièrent bien d’autres questions mineures et se mirent unanimement d’accord sur les solutions. Ces vingt-quatre hommes eurent une expérience vraiment remarquable pendant les deux semaines où ils furent obligés d’affronter les problèmes et de régler les difficultés sans Jésus. Ils apprirent à différer d’opinion, à discuter, à lutter, à prier et à transiger, tout en respectant le point de vue de l’interlocuteur et en maintenant au moins un certain degré de tolérance pour ses opinions sincères."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "6",
@@ -3259,14 +3259,14 @@
       "standardReferenceId": "144:6.12",
       "pageReference": "1625.9",
       "sortId": "4.144.006.012",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Conference with John’s Apostles",
-      "markdown": "On the afternoon of their final discussion of financial questions, Jesus returned, heard of their deliberations, listened to their decisions, and said: “These, then, are your conclusions, and I shall help you each to carry out the spirit of your united decisions.”"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Conférence avec les apôtres de Jean",
+      "markdown": "L’après-midi de leur discussion finale sur les questions financières, Jésus revint, entendit le récit de leurs délibérations, écouta leurs décisions et dit : « Telles sont donc vos conclusions ; j’aiderai chacun de vous à mettre en pratique l’esprit de vos décisions communes. »"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "6",
@@ -3277,14 +3277,14 @@
       "standardReferenceId": "144:6.13",
       "pageReference": "1626.1",
       "sortId": "4.144.006.013",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Conference with John’s Apostles",
-      "markdown": "Two months and a half from this time John was executed, and throughout this period the apostles of John remained with Jesus and the twelve. They all worked together and baptized believers during this season of labor in the cities of the Decapolis. The Gilboa camp was broken up on November 2, A.D. 27."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Conférence avec les apôtres de Jean",
+      "markdown": "Deux mois et demi plus tard, Jean fut exécuté. Durant tout ce temps, les apôtres de Jean restèrent avec Jésus et les douze. Ils travaillèrent tous ensemble et baptisèrent des croyants au cours de cette période d’apostolat dans les villes de la Décapole. Le camp de Gilboa fut levé le 2 novembre de l’an 27."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "7",
@@ -3295,14 +3295,14 @@
       "standardReferenceId": "144:7.0",
       "pageReference": null,
       "sortId": "4.144.007.000",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "In the Decapolis Cities",
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Dans les villes de la Décapole",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "7",
@@ -3313,14 +3313,14 @@
       "standardReferenceId": "144:7.1",
       "pageReference": "1626.2",
       "sortId": "4.144.007.001",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "In the Decapolis Cities",
-      "markdown": "Throughout the months of November and December, Jesus and the twenty-four worked quietly in the Greek cities of the Decapolis, chiefly in Scythopolis, Gerasa, Abila, and Gadara. This was really the end of that preliminary period of taking over John’s work and organization. Always does the socialized religion of a new revelation pay the price of compromise with the established forms and usages of the preceding religion which it seeks to salvage. Baptism was the price which the followers of Jesus paid in order to carry with them, as a socialized religious group, the followers of John the Baptist. John’s followers, in joining Jesus’ followers, gave up just about everything except water baptism."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Dans les villes de la Décapole",
+      "markdown": "Durant les mois de novembre et de décembre, Jésus et les vingt-quatre travaillèrent tranquillement dans les villes grecques de la Décapole, principalement à Scythopolis, Gérasa, Abila et Gadara. Ce fut réellement la fin de la période préliminaire de prise en mains de l’œuvre et de l’organisation de Jean. L’organisation sociale de la religion d’une nouvelle révélation doit toujours payer le prix du compromis avec les formes et usages établis de la religion précédente qu’elle cherche à sauver. Les disciples de Jésus durent accepter le principe du baptême pour entrainer avec eux, en tant que groupe religieux social, les disciples de Jean le Baptiste. Quant aux disciples de Jean, en se joignant à ceux de Jésus, ils renoncèrent à presque tout, sauf au baptême avec de l’eau."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "7",
@@ -3331,14 +3331,14 @@
       "standardReferenceId": "144:7.2",
       "pageReference": "1626.3",
       "sortId": "4.144.007.002",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "In the Decapolis Cities",
-      "markdown": "Jesus did little public teaching on this mission to the cities of the Decapolis. He spent considerable time teaching the twenty-four and had many special sessions with John’s twelve apostles. In time they became more understanding as to why Jesus did not go to visit John in prison, and why he made no effort to secure his release. But they never could understand why Jesus did no marvelous works, why he refused to produce outward signs of his divine authority. Before coming to the Gilboa camp, they had believed in Jesus mostly because of John’s testimony, but soon they were beginning to believe as a result of their own contact with the Master and his teachings."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Dans les villes de la Décapole",
+      "markdown": "Jésus enseigna peu en public au cours de cette mission dans les villes de la Décapole. Il passa beaucoup de temps à instruire les vingt-quatre et tint de nombreuses sessions spéciales avec les douze apôtres de Jean. Avec le temps, ils comprirent mieux pourquoi Jésus n’allait pas visiter Jean en prison et ne faisait aucun effort pour assurer sa libération. Mais ils ne purent jamais comprendre pourquoi Jésus n’accomplissait pas d’œuvres miraculeuses, pourquoi il refusait de manifester des signes extérieurs de son autorité divine. Avant de venir au camp de Gilboa, ils avaient surtout cru en Jésus à cause du témoignage de Jean, mais bientôt ils commencèrent à croire par suite de leur propre contact avec le Maitre et ses enseignements."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "7",
@@ -3349,14 +3349,14 @@
       "standardReferenceId": "144:7.3",
       "pageReference": "1626.4",
       "sortId": "4.144.007.003",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "In the Decapolis Cities",
-      "markdown": "For these two months the group worked most of the time in pairs, one of Jesus’ apostles going out with one of John’s. The apostle of John baptized, the apostle of Jesus instructed, while they both preached the gospel of the kingdom as they understood it. And they won many souls among these gentiles and apostate Jews."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Dans les villes de la Décapole",
+      "markdown": "Durant ces deux mois, les membres du groupe travaillèrent, la plupart du temps, deux par deux, un apôtre de Jésus avec un apôtre de Jean. L’apôtre de Jean baptisait, l’apôtre de Jésus instruisait et tous deux prêchaient l’évangile du royaume tel qu’ils le comprenaient. Et ils gagnèrent beaucoup d’âmes parmi ces Juifs apostats et ces Gentils."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "7",
@@ -3367,14 +3367,14 @@
       "standardReferenceId": "144:7.4",
       "pageReference": "1626.5",
       "sortId": "4.144.007.004",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "In the Decapolis Cities",
-      "markdown": "Abner, the chief of John’s apostles, became a devout believer in Jesus and was later on made the head of a group of seventy teachers whom the Master commissioned to preach the gospel."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Dans les villes de la Décapole",
+      "markdown": "Abner, chef des apôtres de Jean, devint un dévoué croyant en Jésus et il fut nommé plus tard chef d’un groupe de soixante-dix éducateurs chargés par le Maitre de prêcher l’évangile."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "8",
@@ -3385,14 +3385,14 @@
       "standardReferenceId": "144:8.0",
       "pageReference": null,
       "sortId": "4.144.008.000",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "In Camp Near Pella",
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Au camp près de Pella",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "8",
@@ -3403,14 +3403,14 @@
       "standardReferenceId": "144:8.1",
       "pageReference": "1626.6",
       "sortId": "4.144.008.001",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "In Camp Near Pella",
-      "markdown": "The latter part of December they all went over near the Jordan, close by Pella, where they again began to teach and preach. Both Jews and gentiles came to this camp to hear the gospel. It was while Jesus was teaching the multitude one afternoon that some of John’s special friends brought the Master the last message which he ever had from the Baptist."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Au camp près de Pella",
+      "markdown": "À la fin de décembre, ils allèrent tous près du Jourdain, à proximité de Pella, où ils recommencèrent à enseigner et à prêcher. Aussi bien les Juifs que les Gentils venaient à ce camp pour entendre l’évangile. Un après-midi, pendant que Jésus enseignait la foule, certains amis intimes de Jean apportèrent au Maitre le dernier message qu’il devait recevoir du Baptiste."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "8",
@@ -3421,14 +3421,14 @@
       "standardReferenceId": "144:8.2",
       "pageReference": "1626.7",
       "sortId": "4.144.008.002",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "In Camp Near Pella",
-      "markdown": "John had now been in prison a year and a half, and most of this time Jesus had labored very quietly; so it was not strange that John should be led to wonder about the kingdom. John’s friends interrupted Jesus’ teaching to say to him: “John the Baptist has sent us to ask—are you truly the Deliverer, or shall we look for another?”"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Au camp près de Pella",
+      "markdown": "Jean était maintenant en prison depuis un an et demi et, durant presque tout ce temps-là, Jésus avait travaillé très discrètement ; il n’était donc pas étonnant que Jean fût amené à s’inquiéter du royaume. Les amis de Jean interrompirent la leçon de Jésus en lui disant : « Jean le Baptiste nous a envoyés te demander si tu es vraiment le Libérateur ou si nous devons en chercher un autre ? »"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "8",
@@ -3439,14 +3439,14 @@
       "standardReferenceId": "144:8.3",
       "pageReference": "1626.8",
       "sortId": "4.144.008.003",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "In Camp Near Pella",
-      "markdown": "Jesus paused to say to John’s friends: “Go back and tell John that he is not forgotten. Tell him what you have seen and heard, that the poor have good tidings preached to them.” And when Jesus had spoken further to the messengers of John, he turned again to the multitude and said: “Do not think that John doubts the gospel of the kingdom. He makes inquiry only to assure his disciples who are also my disciples. John is no weakling. Let me ask you who heard John preach before Herod put him in prison: What did you behold in John—a reed shaken with the wind? A man of changeable moods and clothed in soft raiment? As a rule they who are gorgeously appareled and who live delicately are in kings’ courts and in the mansions of the rich. But what did you see when you beheld John? A prophet? Yes, I say to you, and much more than a prophet. Of John it was written: ‘Behold, I send my messenger before your face; he shall prepare the way before you.’"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Au camp près de Pella",
+      "markdown": "Jésus s’arrêta pour dire aux amis de Jean : « Retournez dire à Jean qu’il n’est pas oublié. Dites-lui ce que vous avez vu et entendu, que la bonne nouvelle est prêchée aux pauvres. » Après avoir dit encore quelques mots aux messagers de Jean, Jésus se tourna de nouveau vers la foule et dit : « Ne croyez pas que Jean mette en doute l’évangile du royaume. Il s’enquiert seulement pour rassurer ses disciples qui sont aussi mes disciples. Jean n’est pas faible. À vous qui avez entendu Jean prêcher avant qu’Hérode ne le mette en prison, laissez-moi vous demander ce que vous avez vu en lui. Un roseau secoué par le vent ? Un homme d’humeur changeante et habillé de vêtements douillets ? En règle générale, ceux qui sont vêtus somptueusement et vivent en sybarites se rencontrent dans les cours des rois et les demeures des riches. Mais qu’avez-vous aperçu en voyant Jean ? Un prophète ? Oui, je vous le dis, et bien plus qu’un prophète. Il a été écrit de Jean : “Voici, j’envoie mon messager devant ta face ; il préparera le chemin devant toi.”"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "8",
@@ -3457,14 +3457,14 @@
       "standardReferenceId": "144:8.4",
       "pageReference": "1627.1",
       "sortId": "4.144.008.004",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "In Camp Near Pella",
-      "markdown": "“Verily, verily, I say to you, among those born of women there has not arisen a greater than John the Baptist; yet he who is but small in the kingdom of heaven is greater because he has been born of the spirit and knows that he has become a son of God.”"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Au camp près de Pella",
+      "markdown": "« En vérité, en vérité, je vous le dis, parmi ceux qui sont nés de femmes, il ne s’en est pas élevé de plus grand que Jean le Baptiste ; pourtant, même le plus petit dans le royaume des cieux est plus grand que lui, parce qu’il est né d’esprit et sait qu’il est devenu un fils de Dieu. »"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "8",
@@ -3475,14 +3475,14 @@
       "standardReferenceId": "144:8.5",
       "pageReference": "1627.2",
       "sortId": "4.144.008.005",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "In Camp Near Pella",
-      "markdown": "Many who heard Jesus that day submitted themselves to John’s baptism, thereby publicly professing entrance into the kingdom. And the apostles of John were firmly knit to Jesus from that day forward. This occurrence marked the real union of John’s and Jesus’ followers."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Au camp près de Pella",
+      "markdown": "Beaucoup de ceux qui entendirent Jésus ce jour-là se soumirent au baptême de Jean, proclamant ainsi publiquement leur entrée dans le royaume. Et, depuis lors, les apôtres de Jean restèrent étroitement liés à Jésus. Cette circonstance marqua l’union réelle des disciples de Jean et de ceux de Jésus."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "8",
@@ -3493,14 +3493,14 @@
       "standardReferenceId": "144:8.6",
       "pageReference": "1627.3",
       "sortId": "4.144.008.006",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "In Camp Near Pella",
-      "markdown": "After the messengers had conversed with Abner, they departed for Machaerus to tell all this to John. He was greatly comforted, and his faith was strengthened by the words of Jesus and the message of Abner."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Au camp près de Pella",
+      "markdown": "Après que les messagers se furent entretenus avec Abner, ils partirent pour Macharée raconter tout cela à Jean, qui fut très réconforté et fortifié dans sa foi par les paroles de Jésus et le message d’Abner."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "8",
@@ -3511,14 +3511,14 @@
       "standardReferenceId": "144:8.7",
       "pageReference": "1627.4",
       "sortId": "4.144.008.007",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "In Camp Near Pella",
-      "markdown": "On this afternoon Jesus continued to teach, saying: “But to what shall I liken this generation? Many of you will receive neither John’s message nor my teaching. You are like the children playing in the market place who call to their fellows and say: ‘We piped for you and you did not dance; we wailed and you did not mourn.’ And so with some of you. John came neither eating nor drinking, and they said he had a devil. The Son of Man comes eating and drinking, and these same people say: ‘Behold, a gluttonous man and a winebibber, a friend of publicans and sinners!’ Truly, wisdom is justified by her children."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Au camp près de Pella",
+      "markdown": "Ce même après-midi, Jésus continua à enseigner, disant : « À quoi comparerai-je cette génération ? Beaucoup d’entre vous ne recevront ni le message de Jean ni mon enseignement. Vous ressemblez à des enfants jouant sur la place du marché, qui appellent leurs camarades et disent : “Nous avons joué de la flute pour vous et vous n’avez pas dansé ; nous avons gémi et vous ne vous êtes pas affligés.” Il en est de même pour certains d’entre vous. Jean est venu ne mangeant pas et ne buvant pas, et ils ont dit qu’il était possédé par un démon. Le Fils de l’Homme vient, mangeant et buvant, et les mêmes personnes disent : “Voyez, il est un gourmand et un buveur de vin, un ami des publicains et des pécheurs !” En vérité, la sagesse est justifiée par ses enfants."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "8",
@@ -3529,14 +3529,14 @@
       "standardReferenceId": "144:8.8",
       "pageReference": "1627.5",
       "sortId": "4.144.008.008",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "In Camp Near Pella",
-      "markdown": "“It would appear that the Father in heaven has hidden some of these truths from the wise and haughty, while he has revealed them to babes. But the Father does all things well; the Father reveals himself to the universe by the methods of his own choosing. Come, therefore, all you who labor and are heavy laden, and you shall find rest for your souls. Take upon you the divine yoke, and you will experience the peace of God, which passes all understanding.”"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "Au camp près de Pella",
+      "markdown": "« Il semble que le Père céleste ait caché quelques-unes de ces vérités aux sages et aux arrogants, tandis qu’il les a dévoilées à de petits enfants. Mais le Père fait bien toutes choses ; il se révèle à l’univers par les méthodes de son propre choix. Venez donc, vous tous qui peinez et portez de lourds fardeaux, et vous trouverez du repos pour votre âme. Prenez sur vous le joug divin, et vous éprouverez la paix de Dieu, qui dépasse tout entendement. »"
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "9",
@@ -3547,14 +3547,14 @@
       "standardReferenceId": "144:9.0",
       "pageReference": null,
       "sortId": "4.144.009.000",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Death of John the Baptist",
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La mort de Jean le Baptiste",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "9",
@@ -3565,14 +3565,14 @@
       "standardReferenceId": "144:9.1",
       "pageReference": "1627.6",
       "sortId": "4.144.009.001",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Death of John the Baptist",
-      "markdown": "John the Baptist was executed by order of Herod Antipas on the evening of January 10, A.D. 28. The next day a few of John’s disciples who had gone to Machaerus heard of his execution and, going to Herod, made request for his body, which they put in a tomb, later giving it burial at Sebaste, the home of Abner. The following day, January 12, they started north to the camp of John’s and Jesus’ apostles near Pella, and they told Jesus about the death of John. When Jesus heard their report, he dismissed the multitude and, calling the twenty-four together, said: “John is dead. Herod has beheaded him. Tonight go into joint council and arrange your affairs accordingly. There shall be delay no longer. The hour has come to proclaim the kingdom openly and with power. Tomorrow we go into Galilee.”"
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La mort de Jean le Baptiste",
+      "markdown": "Jean le Baptiste fut exécuté, par ordre d’Hérode Antipas, le soir du 10 janvier de l’an 28. Le lendemain, quelques disciples de Jean, qui étaient allés à Macharée, entendirent parler de son exécution. Ils allèrent trouver Hérode et réclamèrent le corps, qu’ils placèrent dans une sépulture. Plus tard, ils l’inhumèrent à Sébaste, le village où habitait Abner. Le lendemain 12 janvier, ils partirent vers le nord, en direction du camp des apôtres de Jean et de Jésus près de Pella, et racontèrent à Jésus la mort de Jean. Quand Jésus eut entendu leur rapport, il congédia la multitude, appela les vingt-quatre autour de lui et leur dit : « Jean est mort. Hérode l’a fait décapiter. Tenez ensemble, ce soir, une séance de conseil et arrangez vos affaires en conséquence. Il n’y aura plus de délai. L’heure est venue de proclamer le royaume ouvertement et avec puissance. Demain, nous irons en Galilée. »"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": "144",
       "sectionId": "9",
@@ -3583,9 +3583,9 @@
       "standardReferenceId": "144:9.2",
       "pageReference": "1627.7",
       "sortId": "4.144.009.002",
-      "paperTitle": "At Gilboa and in the Decapolis",
-      "sectionTitle": "Death of John the Baptist",
-      "markdown": "Accordingly, early on the morning of January 13, A.D. 28, Jesus and the apostles, accompanied by some twenty-five disciples, made their way to Capernaum and lodged that night in Zebedee’s house."
+      "paperTitle": "À Gilboa et dans la Décapole",
+      "sectionTitle": "La mort de Jean le Baptiste",
+      "markdown": "En conséquence, de bonne heure le matin du 13 janvier de l’an 28, Jésus et les apôtres, accompagnés de quelque vingt-cinq disciples, se rendirent à Capharnaüm et logèrent pour la nuit dans la maison de Zébédée."
     }
   ]
 }

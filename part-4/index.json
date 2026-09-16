@@ -1,14 +1,14 @@
 {
-  "language": "eng",
-  "version_id": "UF-ENG-001-1955-1.22",
+  "language": "fre",
+  "version_id": "UF-FRE-001-1960-3.5",
   "pipeline_version": 3,
   "source_file": "part-4/index.md",
-  "source_sha256": "49097d1366857be9048ee0f49c95c38d01e8ac068943e62825c3177479e1c1df",
+  "source_sha256": "4961df97d1c64f60799d0f6ed4b73242f2c986b2004b29c53005b94deca5faf0",
   "rows": [
     {
       "type": "part",
       "typeRank": 0,
-      "language": "eng",
+      "language": "fre",
       "partId": "4",
       "paperId": null,
       "sectionId": null,
@@ -22,8 +22,8 @@
       "paperTitle": null,
       "sectionTitle": null,
       "markdown": null,
-      "partTitle": "The Life and Teachings of Jesus",
-      "partSponsorship": "This group of papers was sponsored by a commission of twelve Urantia midwayers acting under the supervision of a Melchizedek revelatory director."
+      "partTitle": "La vie et les enseignements de Jésus",
+      "partSponsorship": "Ce groupe de fascicules fut parrainé par une commission de douze médians d’Urantia agissant sous la supervision d’un Melchizédek directeur de la révélation."
     }
   ]
 }

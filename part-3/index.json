@@ -1,14 +1,14 @@
 {
-  "language": "eng",
-  "version_id": "UF-ENG-001-1955-1.22",
+  "language": "fre",
+  "version_id": "UF-FRE-001-1960-3.5",
   "pipeline_version": 3,
   "source_file": "part-3/index.md",
-  "source_sha256": "7bc812deb57222f40ebee42aaecefdde61e05796ea92f19dffa905c3190e2794",
+  "source_sha256": "6ef07fcd35b881dcb3c8c13d1a2cb97b13b291047c2665049e15116103bbb0f1",
   "rows": [
     {
       "type": "part",
       "typeRank": 0,
-      "language": "eng",
+      "language": "fre",
       "partId": "3",
       "paperId": null,
       "sectionId": null,
@@ -22,8 +22,8 @@
       "paperTitle": null,
       "sectionTitle": null,
       "markdown": null,
-      "partTitle": "The History of Urantia",
-      "partSponsorship": "These papers were sponsored by a Corps of Local Universe Personalities acting by authority of Gabriel of Salvington"
+      "partTitle": "L’histoire d’Urantia",
+      "partSponsorship": "Ces fascicules furent parrainés par un corps de personnalités de l’univers local de Nébadon agissant sous l’autorité de Gabriel de Salvington."
     }
   ]
 }
