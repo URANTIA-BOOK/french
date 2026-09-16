@@ -1,427 +1,427 @@
-<h1 align="center"><a name="Titles"></a>The Urantia Book</h1>
+<h1 align="center"><a name="Titles"></a>Le Livre d’Urantia</h1>
 
-<hr /><p align="center">&#60;&#60;&#160;<a href="parts.md" title="The Parts of the Book">The Parts of the Book</a> | <a href="contents.md" title="Contents of the Book">Contents of the Book</a>&#160;&#62;&#62;</p><hr />
+<hr /><p align="center">&#60;&#60;&#160;<a href="parts.md" title="Les parties du livre">Les parties du livre</a> | <a href="contents.md" title="Table des matières détaillée">Table des matières détaillée</a>&#160;&#62;&#62;</p><hr />
 
-## The Titles of the Papers
+## Table des matières résumée
 
-Nr. . Paper . Author . Page
+No. . Fascicule . Auteur . Page
 
-000 . [Foreword](000-foreword.md "Paper 0") . Divine Counselor . 1
+000 . [Introduction](000-foreword.md "Fascicule 0") . Un Conseiller Divin . 1
 
-### [PART I](part-1/index.md "The Central and Superuniverses")
+### [Première partie](part-1/index.md "L’univers central et les superunivers")
 
-### The Central and Superuniverses
+### L’univers central et les superunivers
 
-Nr. . Paper . Author . Page
+No. . Fascicule . Auteur . Page
 
-001 . [The Universal Father](part-1/001.md "Paper 1") . Divine Counselor . 21
+001 . [Le Père Universel](part-1/001.md "Fascicule 1") . Un Conseiller Divin . 21
 
-002 . [The Nature of God](part-1/002.md "Paper 2") . Divine Counselor . 33
+002 . [La nature de Dieu](part-1/002.md "Fascicule 2") . Un Conseiller Divin . 33
 
-003 . [The Attributes of God](part-1/003.md "Paper 3") . Divine Counselor . 44
+003 . [Les attributs de Dieu](part-1/003.md "Fascicule 3") . Un Conseiller Divin . 44
 
-004 . [God’s Relation to the Universe](part-1/004.md "Paper 4") . Divine Counselor . 54
+004 . [Relations de Dieu avec l’univers](part-1/004.md "Fascicule 4") . Un Conseiller Divin . 54
 
-005 . [God’s Relation to the Individual](part-1/005.md "Paper 5") . Divine Counselor . 62
+005 . [Relations de Dieu avec l’individu](part-1/005.md "Fascicule 5") . Un Conseiller Divin . 62
 
-006 . [The Eternal Son](part-1/006.md "Paper 6") . Divine Counselor . 73
+006 . [Le Fils Éternel](part-1/006.md "Fascicule 6") . Un Conseiller Divin . 73
 
-007 . [Relation of the Eternal Son to the Universe](part-1/007.md "Paper 7") . Divine Counselor . 81
+007 . [Position du Fils Éternel par rapport à l’univers](part-1/007.md "Fascicule 7") . Un Conseiller Divin . 81
 
-008 . [The Infinite Spirit](part-1/008.md "Paper 8") . Divine Counselor . 90
+008 . [L’Esprit Infini](part-1/008.md "Fascicule 8") . Un Conseiller Divin . 90
 
-009 . [Relation of the Infinite Spirit to the Universe](part-1/009.md "Paper 9") . Divine Counselor . 98
+009 . [Position de l’Esprit Infini par rapport à l’univers](part-1/009.md "Fascicule 9") . Un Conseiller Divin . 98
 
-010 . [The Paradise Trinity](part-1/010.md "Paper 10") . Universal Censor . 108
+010 . [La Trinité du Paradis](part-1/010.md "Fascicule 10") . Un Censeur Universel . 108
 
-011 . [The Eternal Isle of Paradise](part-1/011.md "Paper 11") . Perfector of Wisdom . 118
+011 . [L’Ile éternelle du Paradis](part-1/011.md "Fascicule 11") . Un Perfecteur de Sagesse . 118
 
-012 . [The Universe of Universes](part-1/012.md "Paper 12") . Perfector of Wisdom . 128
+012 . [L’univers des univers](part-1/012.md "Fascicule 12") . Un Perfecteur de Sagesse . 128
 
-013 . [The Sacred Spheres of Paradise](part-1/013.md "Paper 13") . Perfector of Wisdom . 143
+013 . [Les sphères sacrées du Paradis](part-1/013.md "Fascicule 13") . Un Perfecteur de Sagesse . 143
 
-014 . [The Central and Divine Universe](part-1/014.md "Paper 14") . Perfector of Wisdom . 152
+014 . [L’univers central et divin](part-1/014.md "Fascicule 14") . Un Perfecteur de Sagesse . 152
 
-015 . [The Seven Superuniverses](part-1/015.md "Paper 15") . Universal Censor . 164
+015 . [Les sept superunivers](part-1/015.md "Fascicule 15") . Un Censeur Universel . 164
 
-016 . [The Seven Master Spirits](part-1/016.md "Paper 16") . Universal Censor . 184
+016 . [Les Sept Maitres Esprits](part-1/016.md "Fascicule 16") . Un Censeur Universel . 184
 
-017 . [The Seven Supreme Spirit Groups](part-1/017.md "Paper 17") . Divine Counselor . 197
+017 . [Les sept groupes d’Esprits Suprêmes](part-1/017.md "Fascicule 17") . Un Conseiller Divin . 197
 
-018 . [The Supreme Trinity Personalities](part-1/018.md "Paper 18") . Divine Counselor . 207
+018 . [Les Personnalités Suprêmes de la Trinité](part-1/018.md "Fascicule 18") . Un Conseiller Divin . 207
 
-019 . [The Co-ordinate Trinity-Origin Beings](part-1/019.md "Paper 19") . Divine Counselor . 214
+019 . [Les Êtres Coordonnés d’origine Trinitaire](part-1/019.md "Fascicule 19") . Un Conseiller Divin . 214
 
-020 . [The Paradise Sons of God](part-1/020.md "Paper 20") . Perfector of Wisdom . 223
+020 . [Les Fils Paradisiaques de Dieu](part-1/020.md "Fascicule 20") . Un Perfecteur de Sagesse . 223
 
-021 . [The Paradise Creator Sons](part-1/021.md "Paper 21") . Perfector of Wisdom . 234
+021 . [Les Fils Créateurs Paradisiaques](part-1/021.md "Fascicule 21") . Un Perfecteur de Sagesse . 234
 
-022 . [The Trinitized Sons of God](part-1/022.md "Paper 22") . Mighty Messenger . 243
+022 . [Les Fils de Dieu Trinitisés](part-1/022.md "Fascicule 22") . Un Puissant Messager . 243
 
-023 . [The Solitary Messengers](part-1/023.md "Paper 23") . Divine Counselor . 256
+023 . [Les Messagers Solitaires](part-1/023.md "Fascicule 23") . Un Conseiller Divin . 256
 
-024 . [Higher Personalities of the Infinite Spirit](part-1/024.md "Paper 24") . Divine Counselor . 264
+024 . [Personnalités Supérieures de l’Esprit Infini](part-1/024.md "Fascicule 24") . Un Conseiller Divin . 264
 
-025 . [The Messenger Hosts of Space](part-1/025.md "Paper 25") . One High in Authority . 273
+025 . [Les Armées des Messagers de l’Espace](part-1/025.md "Fascicule 25") . Un Élevé en Autorité . 273
 
-026 . [Ministering Spirits of the Central Universe](part-1/026.md "Paper 26") . Perfector of Wisdom . 285
+026 . [Les esprits tutélaires de l’univers central](part-1/026.md "Fascicule 26") . Un Perfecteur de Sagesse . 285
 
-027 . [Ministry of the Primary Supernaphim](part-1/027.md "Paper 27") . Perfector of Wisdom . 298
+027 . [Le ministère des supernaphins primaires](part-1/027.md "Fascicule 27") . Un Perfecteur de Sagesse . 298
 
-028 . [Ministering Spirits of the Superuniverses](part-1/028.md "Paper 28") . Mighty Messenger . 306
+028 . [Les esprits tutélaires des superunivers](part-1/028.md "Fascicule 28") . Un Puissant Messager . 306
 
-029 . [The Universe Power Directors](part-1/029.md "Paper 29") . Universal Censor . 319
+029 . [Les Directeurs de Pouvoir d’Univers](part-1/029.md "Fascicule 29") . Un Censeur Universel . 319
 
-030 . [Personalities of the Grand Universe](part-1/030.md "Paper 30") . Mighty Messenger . 330
+030 . [Personnalités du grand univers](part-1/030.md "Fascicule 30") . Un Puissant Messager . 330
 
-031 . [The Corps of the Finality](part-1/031.md "Paper 31") . Divine Counselor and One Without Name and Number . 345
+031 . [Le Corps de la Finalité](part-1/031.md "Fascicule 31") . Un Conseiller Divin et un Dépourvu de Nom et de Nombre . 345
 
-### [PART II](part-2/index.md "The Local Universe")
+### [Deuxième partie](part-2/index.md "L’univers local")
 
-### The Local Universe
+### L’univers local
 
-Nr. . Paper . Author . Page
+No. . Fascicule . Auteur . Page
 
-032 . [The Evolution of Local Universes](part-2/032.md "Paper 32") . Mighty Messenger . 357
+032 . [L’évolution des univers locaux](part-2/032.md "Fascicule 32") . Un Puissant Messager . 357
 
-033 . [Administration of the Local Universe](part-2/033.md "Paper 33") . Chief of Archangels . 366
+033 . [Administration de l’univers local](part-2/033.md "Fascicule 33") . Le chef des archanges . 366
 
-034 . [The Local Universe Mother Spirit](part-2/034.md "Paper 34") . Mighty Messenger . 374
+034 . [L’Esprit-Mère de l’univers local](part-2/034.md "Fascicule 34") . Un Puissant Messager . 374
 
-035 . [The Local Universe Sons of God](part-2/035.md "Paper 35") . Chief of Archangels . 384
+035 . [Les Fils de Dieu de l’univers local](part-2/035.md "Fascicule 35") . Le chef des archanges . 384
 
-036 . [The Life Carriers](part-2/036.md "Paper 36") . Vorondadek Son . 396
+036 . [Les Porteurs de Vie](part-2/036.md "Fascicule 36") . Un Fils Vorondadek . 396
 
-037 . [Personalities of the Local Universe](part-2/037.md "Paper 37") . Brilliant Evening Star . 406
+037 . [Personnalités de l’univers local](part-2/037.md "Fascicule 37") . Une Brillante Étoile du Soir . 406
 
-038 . [Ministering Spirits of the Local Universe](part-2/038.md "Paper 38") . Melchizedek . 418
+038 . [Esprits tutélaires de l’univers local](part-2/038.md "Fascicule 38") . Un Melchizédek . 418
 
-039 . [The Seraphic Hosts](part-2/039.md "Paper 39") . Melchizedek . 426
+039 . [Les armées séraphiques](part-2/039.md "Fascicule 39") . Un Melchizédek . 426
 
-040 . [The Ascending Sons of God](part-2/040.md "Paper 40") . Mighty Messenger . 443
+040 . [Les Fils Ascendants de Dieu](part-2/040.md "Fascicule 40") . Un Puissant Messager . 443
 
-041 . [Physical Aspects of the Local Universe](part-2/041.md "Paper 41") . Archangel . 455
+041 . [Aspects physiques de l’univers local](part-2/041.md "Fascicule 41") . Un archange . 455
 
-042 . [Energy—Mind and Matter](part-2/042.md "Paper 42") . Mighty Messenger . 467
+042 . [Énergie — mental et matière](part-2/042.md "Fascicule 42") . Un Puissant Messager . 467
 
-043 . [The Constellations](part-2/043.md "Paper 43") . Malavatia Melchizedek . 485
+043 . [Les constellations](part-2/043.md "Fascicule 43") . Malavatia Melchizédek . 485
 
-044 . [The Celestial Artisans](part-2/044.md "Paper 44") . Archangel . 497
+044 . [Les artisans célestes](part-2/044.md "Fascicule 44") . Un archange . 497
 
-045 . [The Local System Administration](part-2/045.md "Paper 45") . Melchizedek . 509
+045 . [L’administration du système local](part-2/045.md "Fascicule 45") . Un Melchizédek . 509
 
-046 . [The Local System Headquarters](part-2/046.md "Paper 46") . Archangel . 519
+046 . [Le siège du système local](part-2/046.md "Fascicule 46") . Un archange . 519
 
-047 . [The Seven Mansion Worlds](part-2/047.md "Paper 47") . Brilliant Evening Star . 530
+047 . [Les sept mondes des maisons](part-2/047.md "Fascicule 47") . Une Brillante Étoile du Soir . 530
 
-048 . [The Morontia Life](part-2/048.md "Paper 48") . Archangel . 541
+048 . [La vie morontielle](part-2/048.md "Fascicule 48") . Un archange . 541
 
-049 . [The Inhabited Worlds](part-2/049.md "Paper 49") . Melchizedek . 559
+049 . [Les mondes habités](part-2/049.md "Fascicule 49") . Un Melchizédek . 559
 
-050 . [The Planetary Princes](part-2/050.md "Paper 50") . Secondary Lanonandek . 572
+050 . [Les Princes Planétaires](part-2/050.md "Fascicule 50") . Un Lanonandek Secondaire . 572
 
-051 . [The Planetary Adams](part-2/051.md "Paper 51") . Secondary Lanonandek . 580
+051 . [Les Adams Planétaires](part-2/051.md "Fascicule 51") . Un Lanonandek Secondaire . 580
 
-052 . [Planetary Mortal Epochs](part-2/052.md "Paper 52") . Mighty Messenger . 589
+052 . [Époques planétaires des mortels](part-2/052.md "Fascicule 52") . Un Puissant Messager . 589
 
-053 . [The Lucifer Rebellion](part-2/053.md "Paper 53") . Manovandet Melchizedek . 601
+053 . [La rébellion de Lucifer](part-2/053.md "Fascicule 53") . Manovandet Melchizédek . 601
 
-054 . [Problems of the Lucifer Rebellion](part-2/054.md "Paper 54") . Mighty Messenger . 613
+054 . [Problèmes de la rébellion de Lucifer](part-2/054.md "Fascicule 54") . Un Puissant Messager . 613
 
-055 . [The Spheres of Light and Life](part-2/055.md "Paper 55") . Mighty Messenger . 621
+055 . [Les sphères de lumière et de vie](part-2/055.md "Fascicule 55") . Un Puissant Messager . 621
 
-056 . [Universal Unity](part-2/056.md "Paper 56") . Mighty Messenger and Machiventa Melchizedek . 637
+056 . [Unité universelle](part-2/056.md "Fascicule 56") . Un Puissant Messager et Machiventa Melchizédek . 637
 
-### [PART III](part-3/index.md "The History of Urantia")
+### [Troisième partie](part-3/index.md "L’histoire d’Urantia")
 
-### The History of Urantia
+### L’histoire d’Urantia
 
-Nr. . Paper . Author . Page
+No. . Fascicule . Auteur . Page
 
-057 . [The Origin of Urantia](part-3/057.md "Paper 57") . Life Carrier . 651
+057 . [L’origine d’Urantia](part-3/057.md "Fascicule 57") . Un Porteur de Vie . 651
 
-058 . [Life Establishment on Urantia](part-3/058.md "Paper 58") . Life Carrier . 664
+058 . [L’établissement de la vie sur Urantia](part-3/058.md "Fascicule 58") . Un Porteur de Vie . 664
 
-059 . [The Marine-Life Era on Urantia](part-3/059.md "Paper 59") . Life Carrier . 672
+059 . [L’ère de la vie marine sur Urantia](part-3/059.md "Fascicule 59") . Un Porteur de Vie . 672
 
-060 . [Urantia During the Early Land-Life Era](part-3/060.md "Paper 60") . Life Carrier . 685
+060 . [Urantia pendant l’ère de la vie terrestre primitive](part-3/060.md "Fascicule 60") . Un Porteur de Vie . 685
 
-061 . [The Mammalian Era on Urantia](part-3/061.md "Paper 61") . Life Carrier . 693
+061 . [L’ère des mammifères sur Urantia](part-3/061.md "Fascicule 61") . Un Porteur de Vie . 693
 
-062 . [The Dawn Races of Early Man](part-3/062.md "Paper 62") . Life Carrier . 703
+062 . [Les races à l’aurore de l’homme primitif](part-3/062.md "Fascicule 62") . Un Porteur de Vie . 703
 
-063 . [The First Human Family](part-3/063.md "Paper 63") . Life Carrier . 711
+063 . [La première famille humaine](part-3/063.md "Fascicule 63") . Un Porteur de Vie . 711
 
-064 . [The Evolutionary Races of Color](part-3/064.md "Paper 64") . Life Carrier . 718
+064 . [Les races évolutionnaires de couleur](part-3/064.md "Fascicule 64") . Un Porteur de Vie . 718
 
-065 . [The Overcontrol of Evolution](part-3/065.md "Paper 65") . Life Carrier . 730
+065 . [Le supercontrôle de l’évolution](part-3/065.md "Fascicule 65") . Un Porteur de Vie . 730
 
-066 . [The Planetary Prince of Urantia](part-3/066.md "Paper 66") . Melchizedek . 741
+066 . [Le Prince Planétaire d’Urantia](part-3/066.md "Fascicule 66") . Un Melchizédek . 741
 
-067 . [The Planetary Rebellion](part-3/067.md "Paper 67") . Melchizedek . 754
+067 . [La rébellion planétaire](part-3/067.md "Fascicule 67") . Un Melchizédek . 754
 
-068 . [The Dawn of Civilization](part-3/068.md "Paper 68") . Melchizedek . 763
+068 . [L’aurore de la civilisation](part-3/068.md "Fascicule 68") . Un Melchizédek . 763
 
-069 . [Primitive Human Institutions](part-3/069.md "Paper 69") . Melchizedek . 772
+069 . [Les institutions humaines primitives](part-3/069.md "Fascicule 69") . Un Melchizédek . 772
 
-070 . [The Evolution of Human Government](part-3/070.md "Paper 70") . Melchizedek . 783
+070 . [L’évolution du gouvernement humain](part-3/070.md "Fascicule 70") . Un Melchizédek . 783
 
-071 . [Development of the State](part-3/071.md "Paper 71") . Melchizedek . 800
+071 . [Développement de l’État](part-3/071.md "Fascicule 71") . Un Melchizédek . 800
 
-072 . [Government on a Neighboring Planet](part-3/072.md "Paper 72") . Melchizedek . 808
+072 . [Le gouvernement sur une planète voisine](part-3/072.md "Fascicule 72") . Un Melchizédek . 808
 
-073 . [The Garden of Eden](part-3/073.md "Paper 73") . Solonia . 821
+073 . [Le Jardin d’Éden](part-3/073.md "Fascicule 73") . Solonia . 821
 
-074 . [Adam and Eve](part-3/074.md "Paper 74") . Solonia . 828
+074 . [Adam et Ève](part-3/074.md "Fascicule 74") . Solonia . 828
 
-075 . [The Default of Adam and Eve](part-3/075.md "Paper 75") . Solonia . 839
+075 . [La faute d’Adam et d’Ève](part-3/075.md "Fascicule 75") . Solonia . 839
 
-076 . [The Second Garden](part-3/076.md "Paper 76") . Solonia . 847
+076 . [Le second jardin](part-3/076.md "Fascicule 76") . Solonia . 847
 
-077 . [The Midway Creatures](part-3/077.md "Paper 77") . Archangel . 855
+077 . [Les créatures médianes](part-3/077.md "Fascicule 77") . Un archange . 855
 
-078 . [The Violet Race After the Days of Adam](part-3/078.md "Paper 78") . Archangel . 868
+078 . [La race violette après les jours d’Adam](part-3/078.md "Fascicule 78") . Un archange . 868
 
-079 . [Andite Expansion in the Orient](part-3/079.md "Paper 79") . Archangel . 878
+079 . [L’expansion andite en Orient](part-3/079.md "Fascicule 79") . Un archange . 878
 
-080 . [Andite Expansion in the Occident](part-3/080.md "Paper 80") . Archangel . 889
+080 . [L’expansion andite en Occident](part-3/080.md "Fascicule 80") . Un archange . 889
 
-081 . [Development of Modern Civilization](part-3/081.md "Paper 81") . Archangel . 900
+081 . [Développement de la civilisation moderne](part-3/081.md "Fascicule 81") . Un archange . 900
 
-082 . [The Evolution of Marriage](part-3/082.md "Paper 82") . Chief of Seraphim . 913
+082 . [L’évolution du mariage](part-3/082.md "Fascicule 82") . Le chef des séraphins . 913
 
-083 . [The Marriage Institution](part-3/083.md "Paper 83") . Chief of Seraphim . 922
+083 . [L’institution du mariage](part-3/083.md "Fascicule 83") . Le chef des séraphins . 922
 
-084 . [Marriage and Family Life](part-3/084.md "Paper 84") . Chief of Seraphim . 931
+084 . [Le mariage et la vie familiale](part-3/084.md "Fascicule 84") . Le chef des séraphins . 931
 
-085 . [The Origins of Worship](part-3/085.md "Paper 85") . Brilliant Evening Star . 944
+085 . [Les origines de l’adoration](part-3/085.md "Fascicule 85") . Une Brillante Étoile du Soir . 944
 
-086 . [Early Evolution of Religion](part-3/086.md "Paper 86") . Brilliant Evening Star . 950
+086 . [L’évolution primitive de la religion](part-3/086.md "Fascicule 86") . Une Brillante Étoile du Soir . 950
 
-087 . [The Ghost Cults](part-3/087.md "Paper 87") . Brilliant Evening Star . 958
+087 . [Les cultes des fantômes](part-3/087.md "Fascicule 87") . Une Brillante Étoile du Soir . 958
 
-088 . [Fetishes, Charms, and Magic](part-3/088.md "Paper 88") . Brilliant Evening Star . 967
+088 . [Fétiches, charmes et magie](part-3/088.md "Fascicule 88") . Une Brillante Étoile du Soir . 967
 
-089 . [Sin, Sacrifice, and Atonement](part-3/089.md "Paper 89") . Brilliant Evening Star . 974
+089 . [Péché, sacrifice et expiation](part-3/089.md "Fascicule 89") . Une Brillante Étoile du Soir . 974
 
-090 . [Shamanism—Medicine Men and Priests](part-3/090.md "Paper 90") . Melchizedek . 986
+090 . [Le chamanisme, sorciers-guérisseurs et prêtres](part-3/090.md "Fascicule 90") . Un Melchizédek . 986
 
-091 . [The Evolution of Prayer](part-3/091.md "Paper 91") . Chief of Midwayers . 994
+091 . [L’évolution de la prière](part-3/091.md "Fascicule 91") . Le chef des médians . 994
 
-092 . [The Later Evolution of Religion](part-3/092.md "Paper 92") . Melchizedek . 1003
+092 . [L’évolution ultérieure de la religion](part-3/092.md "Fascicule 92") . Un Melchizédek . 1003
 
-093 . [Machiventa Melchizedek](part-3/093.md "Paper 93") . Melchizedek . 1014
+093 . [Machiventa Melchizédek](part-3/093.md "Fascicule 93") . Un Melchizédek . 1014
 
-094 . [The Melchizedek Teachings in the Orient](part-3/094.md "Paper 94") . Melchizedek . 1027
+094 . [Les enseignements de Melchizédek en Orient](part-3/094.md "Fascicule 94") . Un Melchizédek . 1027
 
-095 . [The Melchizedek Teachings in the Levant](part-3/095.md "Paper 95") . Melchizedek . 1042
+095 . [Les enseignements de Melchizédek dans le Levant](part-3/095.md "Fascicule 95") . Un Melchizédek . 1042
 
-096 . [Yahweh—God of the Hebrews](part-3/096.md "Paper 96") . Melchizedek . 1052
+096 . [Yahweh — le Dieu des Hébreux](part-3/096.md "Fascicule 96") . Un Melchizédek . 1052
 
-097 . [Evolution of the God Concept Among the Hebrews](part-3/097.md "Paper 97") . Melchizedek . 1062
+097 . [L’évolution du concept de Dieu chez les Hébreux](part-3/097.md "Fascicule 97") . Un Melchizédek . 1062
 
-098 . [The Melchizedek Teachings in the Occident](part-3/098.md "Paper 98") . Melchizedek . 1077
+098 . [Les enseignements de Melchizédek en Occident](part-3/098.md "Fascicule 98") . Un Melchizédek . 1077
 
-099 . [The Social Problems of Religion](part-3/099.md "Paper 99") . Melchizedek . 1086
+099 . [Les problèmes sociaux de la religion](part-3/099.md "Fascicule 99") . Un Melchizédek . 1086
 
-100 . [Religion in Human Experience](part-3/100.md "Paper 100") . Melchizedek . 1094
+100 . [La religion dans l’expérience humaine](part-3/100.md "Fascicule 100") . Un Melchizédek . 1094
 
-101 . [The Real Nature of Religion](part-3/101.md "Paper 101") . Melchizedek . 1104
+101 . [La nature réelle de la religion](part-3/101.md "Fascicule 101") . Un Melchizédek . 1104
 
-102 . [The Foundations of Religious Faith](part-3/102.md "Paper 102") . Melchizedek . 1118
+102 . [Les fondements de la foi religieuse](part-3/102.md "Fascicule 102") . Un Melchizédek . 1118
 
-103 . [The Reality of Religious Experience](part-3/103.md "Paper 103") . Melchizedek . 1129
+103 . [La réalité de l’expérience religieuse](part-3/103.md "Fascicule 103") . Un Melchizédek . 1129
 
-104 . [Growth of the Trinity Concept](part-3/104.md "Paper 104") . Melchizedek . 1143
+104 . [Croissance du concept de Trinité](part-3/104.md "Fascicule 104") . Un Melchizédek . 1143
 
-105 . [Deity and Reality](part-3/105.md "Paper 105") . Melchizedek . 1152
+105 . [Déité et réalité](part-3/105.md "Fascicule 105") . Un Melchizédek . 1152
 
-106 . [Universe Levels of Reality](part-3/106.md "Paper 106") . Melchizedek . 1162
+106 . [Niveaux de réalité de l’univers](part-3/106.md "Fascicule 106") . Un Melchizédek . 1162
 
-107 . [Origin and Nature of Thought Adjusters](part-3/107.md "Paper 107") . Solitary Messenger . 1176
+107 . [Origine et nature des Ajusteurs de Pensée](part-3/107.md "Fascicule 107") . Un Messager Solitaire . 1176
 
-108 . [Mission and Ministry of Thought Adjusters](part-3/108.md "Paper 108") . Solitary Messenger . 1185
+108 . [Mission et ministère des Ajusteurs de Pensée](part-3/108.md "Fascicule 108") . Un Messager Solitaire . 1185
 
-109 . [Relation of Adjusters to Universe Creatures](part-3/109.md "Paper 109") . Solitary Messenger . 1195
+109 . [Position des Ajusteurs par rapport aux créatures de l’univers](part-3/109.md "Fascicule 109") . Un Messager Solitaire . 1195
 
-110 . [Relation of Adjusters to Individual Mortals](part-3/110.md "Paper 110") . Solitary Messenger . 1203
+110 . [Position des Ajusteurs par rapport aux mortels individuels](part-3/110.md "Fascicule 110") . Un Messager Solitaire . 1203
 
-111 . [The Adjuster and the Soul](part-3/111.md "Paper 111") . Solitary Messenger . 1215
+111 . [L’Ajusteur et l’âme](part-3/111.md "Fascicule 111") . Un Messager Solitaire . 1215
 
-112 . [Personality Survival](part-3/112.md "Paper 112") . Solitary Messenger . 1225
+112 . [La survie de la personnalité](part-3/112.md "Fascicule 112") . Un Messager Solitaire . 1225
 
-113 . [Seraphic Guardians of Destiny](part-3/113.md "Paper 113") . Chief of Seraphim . 1241
+113 . [Les gardiens séraphiques de la destinée](part-3/113.md "Fascicule 113") . Le chef des séraphins . 1241
 
-114 . [Seraphic Planetary Government](part-3/114.md "Paper 114") . Chief of Seraphim . 1250
+114 . [Le gouvernement planétaire des séraphins](part-3/114.md "Fascicule 114") . Le chef des séraphins . 1250
 
-115 . [The Supreme Being](part-3/115.md "Paper 115") . Mighty Messenger . 1260
+115 . [L’Être Suprême](part-3/115.md "Fascicule 115") . Un Puissant Messager . 1260
 
-116 . [The Almighty Supreme](part-3/116.md "Paper 116") . Mighty Messenger . 1268
+116 . [Le Tout-Puissant Suprême](part-3/116.md "Fascicule 116") . Un Puissant Messager . 1268
 
-117 . [God the Supreme](part-3/117.md "Paper 117") . Mighty Messenger . 1278
+117 . [Dieu le Suprême](part-3/117.md "Fascicule 117") . Un Puissant Messager . 1278
 
-118 . [Supreme and Ultimate—Time and Space](part-3/118.md "Paper 118") . Mighty Messenger . 1294
+118 . [Le Suprême et l’Ultime — temps et espace](part-3/118.md "Fascicule 118") . Un Puissant Messager . 1294
 
-119 . [The Bestowals of Christ Michael](part-3/119.md "Paper 119") . Chief of Evening Stars . 1308
+119 . [Les effusions de Christ Micaël](part-3/119.md "Fascicule 119") . Le chef des Étoiles du Soir . 1308
 
-### [PART IV](part-4/index.md "The Life and Teachings of Jesus")
+### [Quatrième partie](part-4/index.md "La vie et les enseignements de Jésus")
 
-### The Life and Teachings of Jesus
+### La vie et les enseignements de Jésus
 
-Nr. . Paper . Author . Page
+No. . Fascicule . Auteur . Page
 
-120 . [The Bestowal of Michael on Urantia](part-4/120.md "Paper 120") . Mantutia Melchizedek . 1323
+120 . [L’effusion de Micaël sur Urantia](part-4/120.md "Fascicule 120") . Mantutia Melchizédek . 1323
 
-121 . [The Times of Michael’s Bestowal](part-4/121.md "Paper 121") . Midwayer Commission . 1332
+121 . [L’époque de l’effusion de Micaël](part-4/121.md "Fascicule 121") . Commission de médians . 1332
 
-122 . [Birth and Infancy of Jesus](part-4/122.md "Paper 122") . Midwayer Commission . 1344
+122 . [Naissance et petite enfance de Jésus](part-4/122.md "Fascicule 122") . Commission de médians . 1344
 
-123 . [The Early Childhood of Jesus](part-4/123.md "Paper 123") . Midwayer Commission . 1355
+123 . [La prime enfance de Jésus](part-4/123.md "Fascicule 123") . Commission de médians . 1355
 
-124 . [The Later Childhood of Jesus](part-4/124.md "Paper 124") . Midwayer Commission . 1366
+124 . [La dernière partie de l’enfance de Jésus](part-4/124.md "Fascicule 124") . Commission de médians . 1366
 
-125 . [Jesus at Jerusalem](part-4/125.md "Paper 125") . Midwayer Commission . 1377
+125 . [Jésus à Jérusalem](part-4/125.md "Fascicule 125") . Commission de médians . 1377
 
-126 . [The Two Crucial Years](part-4/126.md "Paper 126") . Midwayer Commission . 1386
+126 . [Les deux années cruciales](part-4/126.md "Fascicule 126") . Commission de médians . 1386
 
-127 . [The Adolescent Years](part-4/127.md "Paper 127") . Midwayer Commission . 1395
+127 . [Les années d’adolescence](part-4/127.md "Fascicule 127") . Commission de médians . 1395
 
-128 . [Jesus’ Early Manhood](part-4/128.md "Paper 128") . Midwayer Commission . 1407
+128 . [La vie de jeune homme de Jésus](part-4/128.md "Fascicule 128") . Commission de médians . 1407
 
-129 . [The Later Adult Life of Jesus](part-4/129.md "Paper 129") . Midwayer Commission . 1419
+129 . [Suite de la vie d’adulte de Jésus](part-4/129.md "Fascicule 129") . Commission de médians . 1419
 
-130 . [On the Way to Rome](part-4/130.md "Paper 130") . Midwayer Commission . 1427
+130 . [Sur le chemin de Rome](part-4/130.md "Fascicule 130") . Commission de médians . 1427
 
-131 . [The World’s Religions](part-4/131.md "Paper 131") . Midwayer Commission . 1442
+131 . [Les religions du monde](part-4/131.md "Fascicule 131") . Commission de médians . 1442
 
-132 . [The Sojourn at Rome](part-4/132.md "Paper 132") . Midwayer Commission . 1455
+132 . [Le séjour à Rome](part-4/132.md "Fascicule 132") . Commission de médians . 1455
 
-133 . [The Return from Rome](part-4/133.md "Paper 133") . Midwayer Commission . 1468
+133 . [Le retour de Rome](part-4/133.md "Fascicule 133") . Commission de médians . 1468
 
-134 . [The Transition Years](part-4/134.md "Paper 134") . Midwayer Commission . 1483
+134 . [Les années de transition](part-4/134.md "Fascicule 134") . Commission de médians . 1483
 
-135 . [John the Baptist](part-4/135.md "Paper 135") . Midwayer Commission . 1496
+135 . [Jean le Baptiste](part-4/135.md "Fascicule 135") . Commission de médians . 1496
 
-136 . [Baptism and the Forty Days](part-4/136.md "Paper 136") . Midwayer Commission . 1509
+136 . [Le baptême et les quarante jours](part-4/136.md "Fascicule 136") . Commission de médians . 1509
 
-137 . [Tarrying Time in Galilee](part-4/137.md "Paper 137") . Midwayer Commission . 1524
+137 . [Séjour d’attente en Galilée](part-4/137.md "Fascicule 137") . Commission de médians . 1524
 
-138 . [Training the Kingdom’s Messengers](part-4/138.md "Paper 138") . Midwayer Commission . 1538
+138 . [La formation des messagers du royaume](part-4/138.md "Fascicule 138") . Commission de médians . 1538
 
-139 . [The Twelve Apostles](part-4/139.md "Paper 139") . Midwayer Commission . 1548
+139 . [Les douze apôtres](part-4/139.md "Fascicule 139") . Commission de médians . 1548
 
-140 . [The Ordination of the Twelve](part-4/140.md "Paper 140") . Midwayer Commission . 1568
+140 . [L’ordination des douze](part-4/140.md "Fascicule 140") . Commission de médians . 1568
 
-141 . [Beginning the Public Work](part-4/141.md "Paper 141") . Midwayer Commission . 1587
+141 . [Le commencement de l’œuvre publique](part-4/141.md "Fascicule 141") . Commission de médians . 1587
 
-142 . [The Passover at Jerusalem](part-4/142.md "Paper 142") . Midwayer Commission . 1596
+142 . [La Pâque à Jérusalem](part-4/142.md "Fascicule 142") . Commission de médians . 1596
 
-143 . [Going Through Samaria](part-4/143.md "Paper 143") . Midwayer Commission . 1607
+143 . [Traversée de la Samarie](part-4/143.md "Fascicule 143") . Commission de médians . 1607
 
-144 . [At Gilboa and in the Decapolis](part-4/144.md "Paper 144") . Midwayer Commission . 1617
+144 . [À Gilboa et dans la Décapole](part-4/144.md "Fascicule 144") . Commission de médians . 1617
 
-145 . [Four Eventful Days at Capernaum](part-4/145.md "Paper 145") . Midwayer Commission . 1628
+145 . [Quatre journées mémorables à Capharnaüm](part-4/145.md "Fascicule 145") . Commission de médians . 1628
 
-146 . [First Preaching Tour of Galilee](part-4/146.md "Paper 146") . Midwayer Commission . 1637
+146 . [La première tournée de prédication en Galilée](part-4/146.md "Fascicule 146") . Commission de médians . 1637
 
-147 . [The Interlude Visit to Jerusalem](part-4/147.md "Paper 147") . Midwayer Commission . 1647
+147 . [L’intermède de la visite à Jérusalem](part-4/147.md "Fascicule 147") . Commission de médians . 1647
 
-148 . [Training Evangelists at Bethsaida](part-4/148.md "Paper 148") . Midwayer Commission . 1657
+148 . [La formation d’évangélistes à Bethsaïde](part-4/148.md "Fascicule 148") . Commission de médians . 1657
 
-149 . [The Second Preaching Tour](part-4/149.md "Paper 149") . Midwayer Commission . 1668
+149 . [La deuxième tournée de prédication](part-4/149.md "Fascicule 149") . Commission de médians . 1668
 
-150 . [The Third Preaching Tour](part-4/150.md "Paper 150") . Midwayer Commission . 1678
+150 . [La troisième tournée de prédication](part-4/150.md "Fascicule 150") . Commission de médians . 1678
 
-151 . [Tarrying and Teaching by the Seaside](part-4/151.md "Paper 151") . Midwayer Commission . 1688
+151 . [Séjour et enseignement au bord de la mer](part-4/151.md "Fascicule 151") . Commission de médians . 1688
 
-152 . [Events Leading up to the Capernaum Crisis](part-4/152.md "Paper 152") . Midwayer Commission . 1698
+152 . [Les prodromes de la crise de Capharnaüm](part-4/152.md "Fascicule 152") . Commission de médians . 1698
 
-153 . [The Crisis at Capernaum](part-4/153.md "Paper 153") . Midwayer Commission . 1707
+153 . [La crise à Capharnaüm](part-4/153.md "Fascicule 153") . Commission de médians . 1707
 
-154 . [Last Days at Capernaum](part-4/154.md "Paper 154") . Midwayer Commission . 1717
+154 . [Derniers jours à Capharnaüm](part-4/154.md "Fascicule 154") . Commission de médians . 1717
 
-155 . [Fleeing Through Northern Galilee](part-4/155.md "Paper 155") . Midwayer Commission . 1725
+155 . [En fuite à travers la Galilée du Nord](part-4/155.md "Fascicule 155") . Commission de médians . 1725
 
-156 . [The Sojourn at Tyre and Sidon](part-4/156.md "Paper 156") . Midwayer Commission . 1734
+156 . [Le séjour à Tyr et à Sidon](part-4/156.md "Fascicule 156") . Commission de médians . 1734
 
-157 . [At Caesarea-Philippi](part-4/157.md "Paper 157") . Midwayer Commission . 1743
+157 . [À Césarée de Philippe](part-4/157.md "Fascicule 157") . Commission de médians . 1743
 
-158 . [The Mount of Transfiguration](part-4/158.md "Paper 158") . Midwayer Commission . 1752
+158 . [Le mont de la transfiguration](part-4/158.md "Fascicule 158") . Commission de médians . 1752
 
-159 . [The Decapolis Tour](part-4/159.md "Paper 159") . Midwayer Commission . 1762
+159 . [La tournée en Décapole](part-4/159.md "Fascicule 159") . Commission de médians . 1762
 
-160 . [Rodan of Alexandria](part-4/160.md "Paper 160") . Midwayer Commission . 1772
+160 . [Rodan d’Alexandrie](part-4/160.md "Fascicule 160") . Commission de médians . 1772
 
-161 . [Further Discussions with Rodan](part-4/161.md "Paper 161") . Midwayer Commission . 1783
+161 . [Suite des discussions avec Rodan](part-4/161.md "Fascicule 161") . Commission de médians . 1783
 
-162 . [At the Feast of Tabernacles](part-4/162.md "Paper 162") . Midwayer Commission . 1788
+162 . [À la fête des Tabernacles](part-4/162.md "Fascicule 162") . Commission de médians . 1788
 
-163 . [Ordination of the Seventy at Magadan](part-4/163.md "Paper 163") . Midwayer Commission . 1800
+163 . [L’ordination des soixante-dix à Magadan](part-4/163.md "Fascicule 163") . Commission de médians . 1800
 
-164 . [At the Feast of Dedication](part-4/164.md "Paper 164") . Midwayer Commission . 1809
+164 . [La fête de la Dédicace](part-4/164.md "Fascicule 164") . Commission de médians . 1809
 
-165 . [The Perean Mission Begins](part-4/165.md "Paper 165") . Midwayer Commission . 1817
+165 . [La mission en Pérée commence](part-4/165.md "Fascicule 165") . Commission de médians . 1817
 
-166 . [Last Visit to Northern Perea](part-4/166.md "Paper 166") . Midwayer Commission . 1825
+166 . [Dernière tournée en Pérée du Nord](part-4/166.md "Fascicule 166") . Commission de médians . 1825
 
-167 . [The Visit to Philadelphia](part-4/167.md "Paper 167") . Midwayer Commission . 1833
+167 . [La visite à Philadelphie](part-4/167.md "Fascicule 167") . Commission de médians . 1833
 
-168 . [The Resurrection of Lazarus](part-4/168.md "Paper 168") . Midwayer Commission . 1842
+168 . [La résurrection de Lazare](part-4/168.md "Fascicule 168") . Commission de médians . 1842
 
-169 . [Last Teaching at Pella](part-4/169.md "Paper 169") . Midwayer Commission . 1850
+169 . [Derniers enseignements à Pella](part-4/169.md "Fascicule 169") . Commission de médians . 1850
 
-170 . [The Kingdom of Heaven](part-4/170.md "Paper 170") . Midwayer Commission . 1858
+170 . [Le royaume des cieux](part-4/170.md "Fascicule 170") . Commission de médians . 1858
 
-171 . [On the Way to Jerusalem](part-4/171.md "Paper 171") . Midwayer Commission . 1867
+171 . [Sur le chemin de Jérusalem](part-4/171.md "Fascicule 171") . Commission de médians . 1867
 
-172 . [Going into Jerusalem](part-4/172.md "Paper 172") . Midwayer Commission . 1878
+172 . [L’entrée à Jérusalem](part-4/172.md "Fascicule 172") . Commission de médians . 1878
 
-173 . [Monday in Jerusalem](part-4/173.md "Paper 173") . Midwayer Commission . 1888
+173 . [Le lundi à Jérusalem](part-4/173.md "Fascicule 173") . Commission de médians . 1888
 
-174 . [Tuesday Morning in the Temple](part-4/174.md "Paper 174") . Midwayer Commission . 1897
+174 . [Le mardi matin au temple](part-4/174.md "Fascicule 174") . Commission de médians . 1897
 
-175 . [The Last Temple Discourse](part-4/175.md "Paper 175") . Midwayer Commission . 1905
+175 . [Le dernier discours au temple](part-4/175.md "Fascicule 175") . Commission de médians . 1905
 
-176 . [Tuesday Evening on Mount Olivet](part-4/176.md "Paper 176") . Midwayer Commission . 1912
+176 . [Le mardi soir sur le mont Olivet](part-4/176.md "Fascicule 176") . Commission de médians . 1912
 
-177 . [Wednesday, the Rest Day](part-4/177.md "Paper 177") . Midwayer Commission . 1920
+177 . [Le mercredi, jour de repos](part-4/177.md "Fascicule 177") . Commission de médians . 1920
 
-178 . [Last Day at the Camp](part-4/178.md "Paper 178") . Midwayer Commission . 1929
+178 . [Le dernier jour au camp](part-4/178.md "Fascicule 178") . Commission de médians . 1929
 
-179 . [The Last Supper](part-4/179.md "Paper 179") . Midwayer Commission . 1936
+179 . [Le dernier souper](part-4/179.md "Fascicule 179") . Commission de médians . 1936
 
-180 . [The Farewell Discourse](part-4/180.md "Paper 180") . Midwayer Commission . 1944
+180 . [Le discours d’adieu](part-4/180.md "Fascicule 180") . Commission de médians . 1944
 
-181 . [Final Admonitions and Warnings](part-4/181.md "Paper 181") . Midwayer Commission . 1953
+181 . [Ultimes exhortations et avertissements](part-4/181.md "Fascicule 181") . Commission de médians . 1953
 
-182 . [In Gethsemane](part-4/182.md "Paper 182") . Midwayer Commission . 1963
+182 . [À Gethsémani](part-4/182.md "Fascicule 182") . Commission de médians . 1963
 
-183 . [The Betrayal and Arrest of Jesus](part-4/183.md "Paper 183") . Midwayer Commission . 1971
+183 . [Jésus trahi et arrêté](part-4/183.md "Fascicule 183") . Commission de médians . 1971
 
-184 . [Before the Sanhedrin Court](part-4/184.md "Paper 184") . Midwayer Commission . 1978
+184 . [Devant le tribunal du sanhédrin](part-4/184.md "Fascicule 184") . Commission de médians . 1978
 
-185 . [The Trial Before Pilate](part-4/185.md "Paper 185") . Midwayer Commission . 1987
+185 . [Le jugement devant Pilate](part-4/185.md "Fascicule 185") . Commission de médians . 1987
 
-186 . [Just Before the Crucifixion](part-4/186.md "Paper 186") . Midwayer Commission . 1997
+186 . [Peu avant la crucifixion](part-4/186.md "Fascicule 186") . Commission de médians . 1997
 
-187 . [The Crucifixion](part-4/187.md "Paper 187") . Midwayer Commission . 2004
+187 . [La crucifixion](part-4/187.md "Fascicule 187") . Commission de médians . 2004
 
-188 . [The Time of the Tomb](part-4/188.md "Paper 188") . Midwayer Commission . 2012
+188 . [L’heure du tombeau](part-4/188.md "Fascicule 188") . Commission de médians . 2012
 
-189 . [The Resurrection](part-4/189.md "Paper 189") . Midwayer Commission . 2020
+189 . [La résurrection](part-4/189.md "Fascicule 189") . Commission de médians . 2020
 
-190 . [Morontia Appearances of Jesus](part-4/190.md "Paper 190") . Midwayer Commission . 2029
+190 . [Les apparitions morontielles de Jésus](part-4/190.md "Fascicule 190") . Commission de médians . 2029
 
-191 . [Appearances to the Apostles and Other Leaders](part-4/191.md "Paper 191") . Midwayer Commission . 2037
+191 . [Apparitions aux apôtres et à d’autres disciples influents](part-4/191.md "Fascicule 191") . Commission de médians . 2037
 
-192 . [Appearances in Galilee](part-4/192.md "Paper 192") . Midwayer Commission . 2045
+192 . [Apparitions en Galilée](part-4/192.md "Fascicule 192") . Commission de médians . 2045
 
-193 . [Final Appearances and Ascension](part-4/193.md "Paper 193") . Midwayer Commission . 2052
+193 . [Apparitions finales et ascension](part-4/193.md "Fascicule 193") . Commission de médians . 2052
 
-194 . [Bestowal of the Spirit of Truth](part-4/194.md "Paper 194") . Midwayer Commission . 2059
+194 . [L’effusion de l’Esprit de Vérité](part-4/194.md "Fascicule 194") . Commission de médians . 2059
 
-195 . [After Pentecost](part-4/195.md "Paper 195") . Midwayer Commission . 2069
+195 . [Après la Pentecôte](part-4/195.md "Fascicule 195") . Commission de médians . 2069
 
-196 . [The Faith of Jesus](part-4/196.md "Paper 196") . Midwayer Commission . 2087
+196 . [La foi de Jésus](part-4/196.md "Fascicule 196") . Commission de médians . 2087
 
 
