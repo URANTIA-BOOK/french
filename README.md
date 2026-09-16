@@ -1,32 +1,30 @@
-# The Urantia Book
+# Le Livre d’Urantia
 
-First published 1955
+Traduction Française  
+French Translation, 2024 Release
 
-[UF-ENG-001-1955-1.22](https://www.urantia.org/sites/default/files/book/en/uf-eng-001-1955-1.22-md.zip)
+[UF-FRE-001-1960-3.5](https://www.urantia.org/sites/default/files/book/fr/uf-fre-001-1960-3.5-md.zip)
 
-- ISBN: 978-0911560-060 (eBook)
-- ISBN: 978-0911560-510 (paperback)
-- ISBN: 978-0911560-077 (hardcover)
-- ISBN: 978-0911560-183 (Cambridge gift edition)
-- ISBN: 978-0911560-138 (Blue and white gift edition)
+- ISBN: 978-0911560-152 (Livre numérique)
+- ISBN: 978-0911560-923 (Livre relié)
 
-Copyright © 1955 Urantia Foundation
+Copyright © 1960 Urantia Foundation
 
-<p align="center"><img src="Urantia.svg" title="The Urantia Book" alt="The Urantia Book" width="180" height="180" /></p>
+<p align="center"><img src="Urantia.svg" title="Le Livre d’Urantia" alt="Le Livre d’Urantia" width="180" height="180" /></p>
 
-[Publisher Page](front.md) · [The Parts of the Book](parts.md) · [The Titles of the Papers](titles.md) · [Contents of the Book](contents.md)
+[Page de l'éditeur](front.md) · [Les parties du livre](parts.md) · [Table des matières résumée](titles.md) · [Table des matières détaillée](contents.md)
 
 ## Structure
 
 | Part | Papers |
 |------|--------|
-| [Foreword](000-foreword.md) | [000](000-foreword.md) |
-| [The Central and Superuniverses](part-1/index.md) | [001–031](part-1/index.md) |
-| [The Local Universe](part-2/index.md) | [032–056](part-2/index.md) |
-| [The History of Urantia](part-3/index.md) | [057–119](part-3/index.md) |
-| [The Life and Teachings of Jesus](part-4/index.md) | [120–196](part-4/index.md) |
+| [Introduction](000-foreword.md) | [000](000-foreword.md) |
+| [L’univers central et les superunivers](part-1/index.md) | [001–031](part-1/index.md) |
+| [L’univers local](part-2/index.md) | [032–056](part-2/index.md) |
+| [L’histoire d’Urantia](part-3/index.md) | [057–119](part-3/index.md) |
+| [La vie et les enseignements de Jésus](part-4/index.md) | [120–196](part-4/index.md) |
 
 ## Contribution
 
-Each **Part** is developed on `eng/part/*`.
-Pull Requests target `release/eng-1.22`.
+Each **Part** is developed on `fre/part/*`.
+Pull Requests target `release/fre-3.5`.
