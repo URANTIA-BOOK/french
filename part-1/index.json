@@ -1,0 +1,29 @@
+{
+  "language": "eng",
+  "version_id": "UF-ENG-001-1955-1.22",
+  "pipeline_version": 3,
+  "source_file": "part-1/index.md",
+  "source_sha256": "450ef5de7b5c92a5cbcb707b789564d3e4b7074c8f8f16286d1fd6efa8d15f1f",
+  "rows": [
+    {
+      "type": "part",
+      "typeRank": 0,
+      "language": "eng",
+      "partId": "1",
+      "paperId": null,
+      "sectionId": null,
+      "paragraphId": null,
+      "paperSectionId": null,
+      "paperSectionParagraphId": null,
+      "globalId": "1:-.-.-",
+      "standardReferenceId": null,
+      "pageReference": null,
+      "sortId": "1.000.000.000",
+      "paperTitle": null,
+      "sectionTitle": null,
+      "markdown": null,
+      "partTitle": "The Central and Superuniverses",
+      "partSponsorship": "Sponsored by a Uversa Corps of Superuniverse Personalities acting by authority of the Orvonton Ancients of Days"
+    }
+  ]
+}
