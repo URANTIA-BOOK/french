@@ -1,140 +1,140 @@
-<h1 align="center"><a name="Part3"></a>The Urantia Book</h1>
+<h1 align="center"><a name="Part3"></a>Le Livre d’Urantia</h1>
 
-<hr /><p align="center">&#60;&#60;&#160;<a href="../part-2/056.md" title="Universal Unity">Paper 56</a> | <a href="../parts.md" title="The Parts of the Book">Parts</a> | <a href="../contents.md" title="Contents of the Book">Content</a> | <a href="057.md" title="The Origin of Urantia">Paper 57</a>&#160;&#62;&#62;</p><hr />
+<hr /><p align="center">&#60;&#60;&#160;<a href="../part-2/056.md" title="Unité universelle">Fascicule 56</a> | <a href="../parts.md" title="Les parties du livre">Parties</a> | <a href="../contents.md" title="Table des matières détaillée">Contenu</a> | <a href="057.md" title="L’origine d’Urantia">Fascicule 57</a>&#160;&#62;&#62;</p><hr />
 
-## PART III
+## Troisième partie
 
-## The History of Urantia
+## L’histoire d’Urantia
 
-These papers were sponsored by a Corps of Local Universe Personalities acting by authority of Gabriel of Salvington
+Ces fascicules furent parrainés par un corps de personnalités de l’univers local de Nébadon agissant sous l’autorité de Gabriel de Salvington.
 
 <hr />
 
-[Paper 57 - The Origin of Urantia](057.md "The Origin of Urantia")
+[Fascicule 57 - L’origine d’Urantia](057.md "L’origine d’Urantia")
 
-[Paper 58 - Life Establishment on Urantia](058.md "Life Establishment on Urantia")
+[Fascicule 58 - L’établissement de la vie sur Urantia](058.md "L’établissement de la vie sur Urantia")
 
-[Paper 59 - The Marine-Life Era on Urantia](059.md "The Marine-Life Era on Urantia")
+[Fascicule 59 - L’ère de la vie marine sur Urantia](059.md "L’ère de la vie marine sur Urantia")
 
-[Paper 60 - Urantia During the Early Land-Life Era](060.md "Urantia During the Early Land-Life Era")
+[Fascicule 60 - Urantia pendant l’ère de la vie terrestre primitive](060.md "Urantia pendant l’ère de la vie terrestre primitive")
 
-[Paper 61 - The Mammalian Era on Urantia](061.md "The Mammalian Era on Urantia")
+[Fascicule 61 - L’ère des mammifères sur Urantia](061.md "L’ère des mammifères sur Urantia")
 
-[Paper 62 - The Dawn Races of Early Man](062.md "The Dawn Races of Early Man")
+[Fascicule 62 - Les races à l’aurore de l’homme primitif](062.md "Les races à l’aurore de l’homme primitif")
 
-[Paper 63 - The First Human Family](063.md "The First Human Family")
+[Fascicule 63 - La première famille humaine](063.md "La première famille humaine")
 
-[Paper 64 - The Evolutionary Races of Color](064.md "The Evolutionary Races of Color")
+[Fascicule 64 - Les races évolutionnaires de couleur](064.md "Les races évolutionnaires de couleur")
 
-[Paper 65 - The Overcontrol of Evolution](065.md "The Overcontrol of Evolution")
+[Fascicule 65 - Le supercontrôle de l’évolution](065.md "Le supercontrôle de l’évolution")
 
-[Paper 66 - The Planetary Prince of Urantia](066.md "The Planetary Prince of Urantia")
+[Fascicule 66 - Le Prince Planétaire d’Urantia](066.md "Le Prince Planétaire d’Urantia")
 
-[Paper 67 - The Planetary Rebellion](067.md "The Planetary Rebellion")
+[Fascicule 67 - La rébellion planétaire](067.md "La rébellion planétaire")
 
-[Paper 68 - The Dawn of Civilization](068.md "The Dawn of Civilization")
+[Fascicule 68 - L’aurore de la civilisation](068.md "L’aurore de la civilisation")
 
-[Paper 69 - Primitive Human Institutions](069.md "Primitive Human Institutions")
+[Fascicule 69 - Les institutions humaines primitives](069.md "Les institutions humaines primitives")
 
-[Paper 70 - The Evolution of Human Government](070.md "The Evolution of Human Government")
+[Fascicule 70 - L’évolution du gouvernement humain](070.md "L’évolution du gouvernement humain")
 
-[Paper 71 - Development of the State](071.md "Development of the State")
+[Fascicule 71 - Développement de l’État](071.md "Développement de l’État")
 
-[Paper 72 - Government on a Neighboring Planet](072.md "Government on a Neighboring Planet")
+[Fascicule 72 - Le gouvernement sur une planète voisine](072.md "Le gouvernement sur une planète voisine")
 
-[Paper 73 - The Garden of Eden](073.md "The Garden of Eden")
+[Fascicule 73 - Le Jardin d’Éden](073.md "Le Jardin d’Éden")
 
-[Paper 74 - Adam and Eve](074.md "Adam and Eve")
+[Fascicule 74 - Adam et Ève](074.md "Adam et Ève")
 
-[Paper 75 - The Default of Adam and Eve](075.md "The Default of Adam and Eve")
+[Fascicule 75 - La faute d’Adam et d’Ève](075.md "La faute d’Adam et d’Ève")
 
-[Paper 76 - The Second Garden](076.md "The Second Garden")
+[Fascicule 76 - Le second jardin](076.md "Le second jardin")
 
-[Paper 77 - The Midway Creatures](077.md "The Midway Creatures")
+[Fascicule 77 - Les créatures médianes](077.md "Les créatures médianes")
 
-[Paper 78 - The Violet Race After the Days of Adam](078.md "The Violet Race After the Days of Adam")
+[Fascicule 78 - La race violette après les jours d’Adam](078.md "La race violette après les jours d’Adam")
 
-[Paper 79 - Andite Expansion in the Orient](079.md "Andite Expansion in the Orient")
+[Fascicule 79 - L’expansion andite en Orient](079.md "L’expansion andite en Orient")
 
-[Paper 80 - Andite Expansion in the Occident](080.md "Andite Expansion in the Occident")
+[Fascicule 80 - L’expansion andite en Occident](080.md "L’expansion andite en Occident")
 
-[Paper 81 - Development of Modern Civilization](081.md "Development of Modern Civilization")
+[Fascicule 81 - Développement de la civilisation moderne](081.md "Développement de la civilisation moderne")
 
-[Paper 82 - The Evolution of Marriage](082.md "The Evolution of Marriage")
+[Fascicule 82 - L’évolution du mariage](082.md "L’évolution du mariage")
 
-[Paper 83 - The Marriage Institution](083.md "The Marriage Institution")
+[Fascicule 83 - L’institution du mariage](083.md "L’institution du mariage")
 
-[Paper 84 - Marriage and Family Life](084.md "Marriage and Family Life")
+[Fascicule 84 - Le mariage et la vie familiale](084.md "Le mariage et la vie familiale")
 
-[Paper 85 - The Origins of Worship](085.md "The Origins of Worship")
+[Fascicule 85 - Les origines de l’adoration](085.md "Les origines de l’adoration")
 
-[Paper 86 - Early Evolution of Religion](086.md "Early Evolution of Religion")
+[Fascicule 86 - L’évolution primitive de la religion](086.md "L’évolution primitive de la religion")
 
-[Paper 87 - The Ghost Cults](087.md "The Ghost Cults")
+[Fascicule 87 - Les cultes des fantômes](087.md "Les cultes des fantômes")
 
-[Paper 88 - Fetishes, Charms, and Magic](088.md "Fetishes, Charms, and Magic")
+[Fascicule 88 - Fétiches, charmes et magie](088.md "Fétiches, charmes et magie")
 
-[Paper 89 - Sin, Sacrifice, and Atonement](089.md "Sin, Sacrifice, and Atonement")
+[Fascicule 89 - Péché, sacrifice et expiation](089.md "Péché, sacrifice et expiation")
 
-[Paper 90 - Shamanism—Medicine Men and Priests](090.md "Shamanism—Medicine Men and Priests")
+[Fascicule 90 - Le chamanisme, sorciers-guérisseurs et prêtres](090.md "Le chamanisme, sorciers-guérisseurs et prêtres")
 
-[Paper 91 - The Evolution of Prayer](091.md "The Evolution of Prayer")
+[Fascicule 91 - L’évolution de la prière](091.md "L’évolution de la prière")
 
-[Paper 92 - The Later Evolution of Religion](092.md "The Later Evolution of Religion")
+[Fascicule 92 - L’évolution ultérieure de la religion](092.md "L’évolution ultérieure de la religion")
 
-[Paper 93 - Machiventa Melchizedek](093.md "Machiventa Melchizedek")
+[Fascicule 93 - Machiventa Melchizédek](093.md "Machiventa Melchizédek")
 
-[Paper 94 - The Melchizedek Teachings in the Orient](094.md "The Melchizedek Teachings in the Orient")
+[Fascicule 94 - Les enseignements de Melchizédek en Orient](094.md "Les enseignements de Melchizédek en Orient")
 
-[Paper 95 - The Melchizedek Teachings in the Levant](095.md "The Melchizedek Teachings in the Levant")
+[Fascicule 95 - Les enseignements de Melchizédek dans le Levant](095.md "Les enseignements de Melchizédek dans le Levant")
 
-[Paper 96 - Yahweh—God of the Hebrews](096.md "Yahweh—God of the Hebrews")
+[Fascicule 96 - Yahweh — le Dieu des Hébreux](096.md "Yahweh — le Dieu des Hébreux")
 
-[Paper 97 - Evolution of the God Concept Among the Hebrews](097.md "Evolution of the God Concept Among the Hebrews")
+[Fascicule 97 - L’évolution du concept de Dieu chez les Hébreux](097.md "L’évolution du concept de Dieu chez les Hébreux")
 
-[Paper 98 - The Melchizedek Teachings in the Occident](098.md "The Melchizedek Teachings in the Occident")
+[Fascicule 98 - Les enseignements de Melchizédek en Occident](098.md "Les enseignements de Melchizédek en Occident")
 
-[Paper 99 - The Social Problems of Religion](099.md "The Social Problems of Religion")
+[Fascicule 99 - Les problèmes sociaux de la religion](099.md "Les problèmes sociaux de la religion")
 
-[Paper 100 - Religion in Human Experience](100.md "Religion in Human Experience")
+[Fascicule 100 - La religion dans l’expérience humaine](100.md "La religion dans l’expérience humaine")
 
-[Paper 101 - The Real Nature of Religion](101.md "The Real Nature of Religion")
+[Fascicule 101 - La nature réelle de la religion](101.md "La nature réelle de la religion")
 
-[Paper 102 - The Foundations of Religious Faith](102.md "The Foundations of Religious Faith")
+[Fascicule 102 - Les fondements de la foi religieuse](102.md "Les fondements de la foi religieuse")
 
-[Paper 103 - The Reality of Religious Experience](103.md "The Reality of Religious Experience")
+[Fascicule 103 - La réalité de l’expérience religieuse](103.md "La réalité de l’expérience religieuse")
 
-[Paper 104 - Growth of the Trinity Concept](104.md "Growth of the Trinity Concept")
+[Fascicule 104 - Croissance du concept de Trinité](104.md "Croissance du concept de Trinité")
 
-[Paper 105 - Deity and Reality](105.md "Deity and Reality")
+[Fascicule 105 - Déité et réalité](105.md "Déité et réalité")
 
-[Paper 106 - Universe Levels of Reality](106.md "Universe Levels of Reality")
+[Fascicule 106 - Niveaux de réalité de l’univers](106.md "Niveaux de réalité de l’univers")
 
-[Paper 107 - Origin and Nature of Thought Adjusters](107.md "Origin and Nature of Thought Adjusters")
+[Fascicule 107 - Origine et nature des Ajusteurs de Pensée](107.md "Origine et nature des Ajusteurs de Pensée")
 
-[Paper 108 - Mission and Ministry of Thought Adjusters](108.md "Mission and Ministry of Thought Adjusters")
+[Fascicule 108 - Mission et ministère des Ajusteurs de Pensée](108.md "Mission et ministère des Ajusteurs de Pensée")
 
-[Paper 109 - Relation of Adjusters to Universe Creatures](109.md "Relation of Adjusters to Universe Creatures")
+[Fascicule 109 - Position des Ajusteurs par rapport aux créatures de l’univers](109.md "Position des Ajusteurs par rapport aux créatures de l’univers")
 
-[Paper 110 - Relation of Adjusters to Individual Mortals](110.md "Relation of Adjusters to Individual Mortals")
+[Fascicule 110 - Position des Ajusteurs par rapport aux mortels individuels](110.md "Position des Ajusteurs par rapport aux mortels individuels")
 
-[Paper 111 - The Adjuster and the Soul](111.md "The Adjuster and the Soul")
+[Fascicule 111 - L’Ajusteur et l’âme](111.md "L’Ajusteur et l’âme")
 
-[Paper 112 - Personality Survival](112.md "Personality Survival")
+[Fascicule 112 - La survie de la personnalité](112.md "La survie de la personnalité")
 
-[Paper 113 - Seraphic Guardians of Destiny](113.md "Seraphic Guardians of Destiny")
+[Fascicule 113 - Les gardiens séraphiques de la destinée](113.md "Les gardiens séraphiques de la destinée")
 
-[Paper 114 - Seraphic Planetary Government](114.md "Seraphic Planetary Government")
+[Fascicule 114 - Le gouvernement planétaire des séraphins](114.md "Le gouvernement planétaire des séraphins")
 
-[Paper 115 - The Supreme Being](115.md "The Supreme Being")
+[Fascicule 115 - L’Être Suprême](115.md "L’Être Suprême")
 
-[Paper 116 - The Almighty Supreme](116.md "The Almighty Supreme")
+[Fascicule 116 - Le Tout-Puissant Suprême](116.md "Le Tout-Puissant Suprême")
 
-[Paper 117 - God the Supreme](117.md "God the Supreme")
+[Fascicule 117 - Dieu le Suprême](117.md "Dieu le Suprême")
 
-[Paper 118 - Supreme and Ultimate—Time and Space](118.md "Supreme and Ultimate—Time and Space")
+[Fascicule 118 - Le Suprême et l’Ultime — temps et espace](118.md "Le Suprême et l’Ultime — temps et espace")
 
-[Paper 119 - The Bestowals of Christ Michael](119.md "The Bestowals of Christ Michael")
+[Fascicule 119 - Les effusions de Christ Micaël](119.md "Les effusions de Christ Micaël")
 
 <hr />
 
