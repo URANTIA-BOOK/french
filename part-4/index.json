@@ -1,0 +1,29 @@
+{
+  "language": "eng",
+  "version_id": "UF-ENG-001-1955-1.22",
+  "pipeline_version": 3,
+  "source_file": "part-4/index.md",
+  "source_sha256": "49097d1366857be9048ee0f49c95c38d01e8ac068943e62825c3177479e1c1df",
+  "rows": [
+    {
+      "type": "part",
+      "typeRank": 0,
+      "language": "eng",
+      "partId": "4",
+      "paperId": null,
+      "sectionId": null,
+      "paragraphId": null,
+      "paperSectionId": null,
+      "paperSectionParagraphId": null,
+      "globalId": "4:-.-.-",
+      "standardReferenceId": null,
+      "pageReference": null,
+      "sortId": "4.000.000.000",
+      "paperTitle": null,
+      "sectionTitle": null,
+      "markdown": null,
+      "partTitle": "The Life and Teachings of Jesus",
+      "partSponsorship": "This group of papers was sponsored by a commission of twelve Urantia midwayers acting under the supervision of a Melchizedek revelatory director."
+    }
+  ]
+}

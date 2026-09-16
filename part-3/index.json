@@ -1,0 +1,29 @@
+{
+  "language": "eng",
+  "version_id": "UF-ENG-001-1955-1.22",
+  "pipeline_version": 3,
+  "source_file": "part-3/index.md",
+  "source_sha256": "7bc812deb57222f40ebee42aaecefdde61e05796ea92f19dffa905c3190e2794",
+  "rows": [
+    {
+      "type": "part",
+      "typeRank": 0,
+      "language": "eng",
+      "partId": "3",
+      "paperId": null,
+      "sectionId": null,
+      "paragraphId": null,
+      "paperSectionId": null,
+      "paperSectionParagraphId": null,
+      "globalId": "3:-.-.-",
+      "standardReferenceId": null,
+      "pageReference": null,
+      "sortId": "3.000.000.000",
+      "paperTitle": null,
+      "sectionTitle": null,
+      "markdown": null,
+      "partTitle": "The History of Urantia",
+      "partSponsorship": "These papers were sponsored by a Corps of Local Universe Personalities acting by authority of Gabriel of Salvington"
+    }
+  ]
+}

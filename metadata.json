@@ -1,0 +1,1280 @@
+{
+  "source_file": "UF-ENG-001-1955-1.22.md",
+  "source_sha256": "857ad20f283e9b764a17764844a2bf229591888659710469d5457978ad14bba8",
+  "source_layout": "monolith",
+  "source_url": "https://www.urantia.org/sites/default/files/book/en/uf-eng-001-1955-1.22-md.zip",
+  "pipeline_version": 3,
+  "front_matter": [
+    {
+      "role": "FrontMatter",
+      "path": "front.md",
+      "label": "Publisher Page"
+    },
+    {
+      "role": "Parts",
+      "path": "parts.md",
+      "label": "The Parts of the Book"
+    },
+    {
+      "role": "Titles",
+      "path": "titles.md",
+      "label": "The Titles of the Papers"
+    },
+    {
+      "role": "Contents",
+      "path": "contents.md",
+      "label": "Contents of the Book"
+    }
+  ],
+  "language_code": "eng",
+  "region_code": "001",
+  "version_id": "UF-ENG-001-1955-1.22",
+  "version_stamp": "UF-202412132348",
+  "version_number": "1.22",
+  "first_published": 1955,
+  "copyright_year": 1955,
+  "edition_native": "",
+  "edition_english": "First published 1955",
+  "isbns": [
+    "978-0911560-060 (eBook)",
+    "978-0911560-510 (paperback)",
+    "978-0911560-077 (hardcover)",
+    "978-0911560-183 (Cambridge gift edition)",
+    "978-0911560-138 (Blue and white gift edition)"
+  ],
+  "book_title": "The Urantia Book",
+  "release_branch": "release/eng-1.22",
+  "git_author_name": "URANTIA FOUNDATION",
+  "git_author_email": "foundation@urantia.org",
+  "parts": [
+    {
+      "id": 0,
+      "label": "Foreword",
+      "title": "Foreword",
+      "branch": "part/0-foreword",
+      "subdir": null,
+      "papers": [
+        0
+      ]
+    },
+    {
+      "id": 1,
+      "label": "PART I — The Central and Superuniverses",
+      "title": "The Central and Superuniverses",
+      "branch": "part/1-the-central-and-superuniverses",
+      "subdir": "part-1",
+      "papers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ]
+    },
+    {
+      "id": 2,
+      "label": "PART II — The Local Universe",
+      "title": "The Local Universe",
+      "branch": "part/2-the-local-universe",
+      "subdir": "part-2",
+      "papers": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "id": 3,
+      "label": "PART III — The History of Urantia",
+      "title": "The History of Urantia",
+      "branch": "part/3-the-history-of-urantia",
+      "subdir": "part-3",
+      "papers": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119
+      ]
+    },
+    {
+      "id": 4,
+      "label": "PART IV — The Life and Teachings of Jesus",
+      "title": "The Life and Teachings of Jesus",
+      "branch": "part/4-the-life-and-teachings-of-jesus",
+      "subdir": "part-4",
+      "papers": [
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196
+      ]
+    }
+  ],
+  "papers": {
+    "0": {
+      "title": "Foreword",
+      "author": "Divine Counselor",
+      "page": 1
+    },
+    "1": {
+      "title": "The Universal Father",
+      "author": "Divine Counselor",
+      "page": 21
+    },
+    "2": {
+      "title": "The Nature of God",
+      "author": "Divine Counselor",
+      "page": 33
+    },
+    "3": {
+      "title": "The Attributes of God",
+      "author": "Divine Counselor",
+      "page": 44
+    },
+    "4": {
+      "title": "God’s Relation to the Universe",
+      "author": "Divine Counselor",
+      "page": 54
+    },
+    "5": {
+      "title": "God’s Relation to the Individual",
+      "author": "Divine Counselor",
+      "page": 62
+    },
+    "6": {
+      "title": "The Eternal Son",
+      "author": "Divine Counselor",
+      "page": 73
+    },
+    "7": {
+      "title": "Relation of the Eternal Son to the Universe",
+      "author": "Divine Counselor",
+      "page": 81
+    },
+    "8": {
+      "title": "The Infinite Spirit",
+      "author": "Divine Counselor",
+      "page": 90
+    },
+    "9": {
+      "title": "Relation of the Infinite Spirit to the Universe",
+      "author": "Divine Counselor",
+      "page": 98
+    },
+    "10": {
+      "title": "The Paradise Trinity",
+      "author": "Universal Censor",
+      "page": 108
+    },
+    "11": {
+      "title": "The Eternal Isle of Paradise",
+      "author": "Perfector of Wisdom",
+      "page": 118
+    },
+    "12": {
+      "title": "The Universe of Universes",
+      "author": "Perfector of Wisdom",
+      "page": 128
+    },
+    "13": {
+      "title": "The Sacred Spheres of Paradise",
+      "author": "Perfector of Wisdom",
+      "page": 143
+    },
+    "14": {
+      "title": "The Central and Divine Universe",
+      "author": "Perfector of Wisdom",
+      "page": 152
+    },
+    "15": {
+      "title": "The Seven Superuniverses",
+      "author": "Universal Censor",
+      "page": 164
+    },
+    "16": {
+      "title": "The Seven Master Spirits",
+      "author": "Universal Censor",
+      "page": 184
+    },
+    "17": {
+      "title": "The Seven Supreme Spirit Groups",
+      "author": "Divine Counselor",
+      "page": 197
+    },
+    "18": {
+      "title": "The Supreme Trinity Personalities",
+      "author": "Divine Counselor",
+      "page": 207
+    },
+    "19": {
+      "title": "The Co-ordinate Trinity-Origin Beings",
+      "author": "Divine Counselor",
+      "page": 214
+    },
+    "20": {
+      "title": "The Paradise Sons of God",
+      "author": "Perfector of Wisdom",
+      "page": 223
+    },
+    "21": {
+      "title": "The Paradise Creator Sons",
+      "author": "Perfector of Wisdom",
+      "page": 234
+    },
+    "22": {
+      "title": "The Trinitized Sons of God",
+      "author": "Mighty Messenger",
+      "page": 243
+    },
+    "23": {
+      "title": "The Solitary Messengers",
+      "author": "Divine Counselor",
+      "page": 256
+    },
+    "24": {
+      "title": "Higher Personalities of the Infinite Spirit",
+      "author": "Divine Counselor",
+      "page": 264
+    },
+    "25": {
+      "title": "The Messenger Hosts of Space",
+      "author": "One High in Authority",
+      "page": 273
+    },
+    "26": {
+      "title": "Ministering Spirits of the Central Universe",
+      "author": "Perfector of Wisdom",
+      "page": 285
+    },
+    "27": {
+      "title": "Ministry of the Primary Supernaphim",
+      "author": "Perfector of Wisdom",
+      "page": 298
+    },
+    "28": {
+      "title": "Ministering Spirits of the Superuniverses",
+      "author": "Mighty Messenger",
+      "page": 306
+    },
+    "29": {
+      "title": "The Universe Power Directors",
+      "author": "Universal Censor",
+      "page": 319
+    },
+    "30": {
+      "title": "Personalities of the Grand Universe",
+      "author": "Mighty Messenger",
+      "page": 330
+    },
+    "31": {
+      "title": "The Corps of the Finality",
+      "author": "Divine Counselor and One Without Name and Number",
+      "page": 345
+    },
+    "32": {
+      "title": "The Evolution of Local Universes",
+      "author": "Mighty Messenger",
+      "page": 357
+    },
+    "33": {
+      "title": "Administration of the Local Universe",
+      "author": "Chief of Archangels",
+      "page": 366
+    },
+    "34": {
+      "title": "The Local Universe Mother Spirit",
+      "author": "Mighty Messenger",
+      "page": 374
+    },
+    "35": {
+      "title": "The Local Universe Sons of God",
+      "author": "Chief of Archangels",
+      "page": 384
+    },
+    "36": {
+      "title": "The Life Carriers",
+      "author": "Vorondadek Son",
+      "page": 396
+    },
+    "37": {
+      "title": "Personalities of the Local Universe",
+      "author": "Brilliant Evening Star",
+      "page": 406
+    },
+    "38": {
+      "title": "Ministering Spirits of the Local Universe",
+      "author": "Melchizedek",
+      "page": 418
+    },
+    "39": {
+      "title": "The Seraphic Hosts",
+      "author": "Melchizedek",
+      "page": 426
+    },
+    "40": {
+      "title": "The Ascending Sons of God",
+      "author": "Mighty Messenger",
+      "page": 443
+    },
+    "41": {
+      "title": "Physical Aspects of the Local Universe",
+      "author": "Archangel",
+      "page": 455
+    },
+    "42": {
+      "title": "Energy—Mind and Matter",
+      "author": "Mighty Messenger",
+      "page": 467
+    },
+    "43": {
+      "title": "The Constellations",
+      "author": "Malavatia Melchizedek",
+      "page": 485
+    },
+    "44": {
+      "title": "The Celestial Artisans",
+      "author": "Archangel",
+      "page": 497
+    },
+    "45": {
+      "title": "The Local System Administration",
+      "author": "Melchizedek",
+      "page": 509
+    },
+    "46": {
+      "title": "The Local System Headquarters",
+      "author": "Archangel",
+      "page": 519
+    },
+    "47": {
+      "title": "The Seven Mansion Worlds",
+      "author": "Brilliant Evening Star",
+      "page": 530
+    },
+    "48": {
+      "title": "The Morontia Life",
+      "author": "Archangel",
+      "page": 541
+    },
+    "49": {
+      "title": "The Inhabited Worlds",
+      "author": "Melchizedek",
+      "page": 559
+    },
+    "50": {
+      "title": "The Planetary Princes",
+      "author": "Secondary Lanonandek",
+      "page": 572
+    },
+    "51": {
+      "title": "The Planetary Adams",
+      "author": "Secondary Lanonandek",
+      "page": 580
+    },
+    "52": {
+      "title": "Planetary Mortal Epochs",
+      "author": "Mighty Messenger",
+      "page": 589
+    },
+    "53": {
+      "title": "The Lucifer Rebellion",
+      "author": "Manovandet Melchizedek",
+      "page": 601
+    },
+    "54": {
+      "title": "Problems of the Lucifer Rebellion",
+      "author": "Mighty Messenger",
+      "page": 613
+    },
+    "55": {
+      "title": "The Spheres of Light and Life",
+      "author": "Mighty Messenger",
+      "page": 621
+    },
+    "56": {
+      "title": "Universal Unity",
+      "author": "Mighty Messenger and Machiventa Melchizedek",
+      "page": 637
+    },
+    "57": {
+      "title": "The Origin of Urantia",
+      "author": "Life Carrier",
+      "page": 651
+    },
+    "58": {
+      "title": "Life Establishment on Urantia",
+      "author": "Life Carrier",
+      "page": 664
+    },
+    "59": {
+      "title": "The Marine-Life Era on Urantia",
+      "author": "Life Carrier",
+      "page": 672
+    },
+    "60": {
+      "title": "Urantia During the Early Land-Life Era",
+      "author": "Life Carrier",
+      "page": 685
+    },
+    "61": {
+      "title": "The Mammalian Era on Urantia",
+      "author": "Life Carrier",
+      "page": 693
+    },
+    "62": {
+      "title": "The Dawn Races of Early Man",
+      "author": "Life Carrier",
+      "page": 703
+    },
+    "63": {
+      "title": "The First Human Family",
+      "author": "Life Carrier",
+      "page": 711
+    },
+    "64": {
+      "title": "The Evolutionary Races of Color",
+      "author": "Life Carrier",
+      "page": 718
+    },
+    "65": {
+      "title": "The Overcontrol of Evolution",
+      "author": "Life Carrier",
+      "page": 730
+    },
+    "66": {
+      "title": "The Planetary Prince of Urantia",
+      "author": "Melchizedek",
+      "page": 741
+    },
+    "67": {
+      "title": "The Planetary Rebellion",
+      "author": "Melchizedek",
+      "page": 754
+    },
+    "68": {
+      "title": "The Dawn of Civilization",
+      "author": "Melchizedek",
+      "page": 763
+    },
+    "69": {
+      "title": "Primitive Human Institutions",
+      "author": "Melchizedek",
+      "page": 772
+    },
+    "70": {
+      "title": "The Evolution of Human Government",
+      "author": "Melchizedek",
+      "page": 783
+    },
+    "71": {
+      "title": "Development of the State",
+      "author": "Melchizedek",
+      "page": 800
+    },
+    "72": {
+      "title": "Government on a Neighboring Planet",
+      "author": "Melchizedek",
+      "page": 808
+    },
+    "73": {
+      "title": "The Garden of Eden",
+      "author": "Solonia",
+      "page": 821
+    },
+    "74": {
+      "title": "Adam and Eve",
+      "author": "Solonia",
+      "page": 828
+    },
+    "75": {
+      "title": "The Default of Adam and Eve",
+      "author": "Solonia",
+      "page": 839
+    },
+    "76": {
+      "title": "The Second Garden",
+      "author": "Solonia",
+      "page": 847
+    },
+    "77": {
+      "title": "The Midway Creatures",
+      "author": "Archangel",
+      "page": 855
+    },
+    "78": {
+      "title": "The Violet Race After the Days of Adam",
+      "author": "Archangel",
+      "page": 868
+    },
+    "79": {
+      "title": "Andite Expansion in the Orient",
+      "author": "Archangel",
+      "page": 878
+    },
+    "80": {
+      "title": "Andite Expansion in the Occident",
+      "author": "Archangel",
+      "page": 889
+    },
+    "81": {
+      "title": "Development of Modern Civilization",
+      "author": "Archangel",
+      "page": 900
+    },
+    "82": {
+      "title": "The Evolution of Marriage",
+      "author": "Chief of Seraphim",
+      "page": 913
+    },
+    "83": {
+      "title": "The Marriage Institution",
+      "author": "Chief of Seraphim",
+      "page": 922
+    },
+    "84": {
+      "title": "Marriage and Family Life",
+      "author": "Chief of Seraphim",
+      "page": 931
+    },
+    "85": {
+      "title": "The Origins of Worship",
+      "author": "Brilliant Evening Star",
+      "page": 944
+    },
+    "86": {
+      "title": "Early Evolution of Religion",
+      "author": "Brilliant Evening Star",
+      "page": 950
+    },
+    "87": {
+      "title": "The Ghost Cults",
+      "author": "Brilliant Evening Star",
+      "page": 958
+    },
+    "88": {
+      "title": "Fetishes, Charms, and Magic",
+      "author": "Brilliant Evening Star",
+      "page": 967
+    },
+    "89": {
+      "title": "Sin, Sacrifice, and Atonement",
+      "author": "Brilliant Evening Star",
+      "page": 974
+    },
+    "90": {
+      "title": "Shamanism—Medicine Men and Priests",
+      "author": "Melchizedek",
+      "page": 986
+    },
+    "91": {
+      "title": "The Evolution of Prayer",
+      "author": "Chief of Midwayers",
+      "page": 994
+    },
+    "92": {
+      "title": "The Later Evolution of Religion",
+      "author": "Melchizedek",
+      "page": 1003
+    },
+    "93": {
+      "title": "Machiventa Melchizedek",
+      "author": "Melchizedek",
+      "page": 1014
+    },
+    "94": {
+      "title": "The Melchizedek Teachings in the Orient",
+      "author": "Melchizedek",
+      "page": 1027
+    },
+    "95": {
+      "title": "The Melchizedek Teachings in the Levant",
+      "author": "Melchizedek",
+      "page": 1042
+    },
+    "96": {
+      "title": "Yahweh—God of the Hebrews",
+      "author": "Melchizedek",
+      "page": 1052
+    },
+    "97": {
+      "title": "Evolution of the God Concept Among the Hebrews",
+      "author": "Melchizedek",
+      "page": 1062
+    },
+    "98": {
+      "title": "The Melchizedek Teachings in the Occident",
+      "author": "Melchizedek",
+      "page": 1077
+    },
+    "99": {
+      "title": "The Social Problems of Religion",
+      "author": "Melchizedek",
+      "page": 1086
+    },
+    "100": {
+      "title": "Religion in Human Experience",
+      "author": "Melchizedek",
+      "page": 1094
+    },
+    "101": {
+      "title": "The Real Nature of Religion",
+      "author": "Melchizedek",
+      "page": 1104
+    },
+    "102": {
+      "title": "The Foundations of Religious Faith",
+      "author": "Melchizedek",
+      "page": 1118
+    },
+    "103": {
+      "title": "The Reality of Religious Experience",
+      "author": "Melchizedek",
+      "page": 1129
+    },
+    "104": {
+      "title": "Growth of the Trinity Concept",
+      "author": "Melchizedek",
+      "page": 1143
+    },
+    "105": {
+      "title": "Deity and Reality",
+      "author": "Melchizedek",
+      "page": 1152
+    },
+    "106": {
+      "title": "Universe Levels of Reality",
+      "author": "Melchizedek",
+      "page": 1162
+    },
+    "107": {
+      "title": "Origin and Nature of Thought Adjusters",
+      "author": "Solitary Messenger",
+      "page": 1176
+    },
+    "108": {
+      "title": "Mission and Ministry of Thought Adjusters",
+      "author": "Solitary Messenger",
+      "page": 1185
+    },
+    "109": {
+      "title": "Relation of Adjusters to Universe Creatures",
+      "author": "Solitary Messenger",
+      "page": 1195
+    },
+    "110": {
+      "title": "Relation of Adjusters to Individual Mortals",
+      "author": "Solitary Messenger",
+      "page": 1203
+    },
+    "111": {
+      "title": "The Adjuster and the Soul",
+      "author": "Solitary Messenger",
+      "page": 1215
+    },
+    "112": {
+      "title": "Personality Survival",
+      "author": "Solitary Messenger",
+      "page": 1225
+    },
+    "113": {
+      "title": "Seraphic Guardians of Destiny",
+      "author": "Chief of Seraphim",
+      "page": 1241
+    },
+    "114": {
+      "title": "Seraphic Planetary Government",
+      "author": "Chief of Seraphim",
+      "page": 1250
+    },
+    "115": {
+      "title": "The Supreme Being",
+      "author": "Mighty Messenger",
+      "page": 1260
+    },
+    "116": {
+      "title": "The Almighty Supreme",
+      "author": "Mighty Messenger",
+      "page": 1268
+    },
+    "117": {
+      "title": "God the Supreme",
+      "author": "Mighty Messenger",
+      "page": 1278
+    },
+    "118": {
+      "title": "Supreme and Ultimate—Time and Space",
+      "author": "Mighty Messenger",
+      "page": 1294
+    },
+    "119": {
+      "title": "The Bestowals of Christ Michael",
+      "author": "Chief of Evening Stars",
+      "page": 1308
+    },
+    "120": {
+      "title": "The Bestowal of Michael on Urantia",
+      "author": "Mantutia Melchizedek",
+      "page": 1323
+    },
+    "121": {
+      "title": "The Times of Michael’s Bestowal",
+      "author": "Midwayer Commission",
+      "page": 1332
+    },
+    "122": {
+      "title": "Birth and Infancy of Jesus",
+      "author": "Midwayer Commission",
+      "page": 1344
+    },
+    "123": {
+      "title": "The Early Childhood of Jesus",
+      "author": "Midwayer Commission",
+      "page": 1355
+    },
+    "124": {
+      "title": "The Later Childhood of Jesus",
+      "author": "Midwayer Commission",
+      "page": 1366
+    },
+    "125": {
+      "title": "Jesus at Jerusalem",
+      "author": "Midwayer Commission",
+      "page": 1377
+    },
+    "126": {
+      "title": "The Two Crucial Years",
+      "author": "Midwayer Commission",
+      "page": 1386
+    },
+    "127": {
+      "title": "The Adolescent Years",
+      "author": "Midwayer Commission",
+      "page": 1395
+    },
+    "128": {
+      "title": "Jesus’ Early Manhood",
+      "author": "Midwayer Commission",
+      "page": 1407
+    },
+    "129": {
+      "title": "The Later Adult Life of Jesus",
+      "author": "Midwayer Commission",
+      "page": 1419
+    },
+    "130": {
+      "title": "On the Way to Rome",
+      "author": "Midwayer Commission",
+      "page": 1427
+    },
+    "131": {
+      "title": "The World’s Religions",
+      "author": "Midwayer Commission",
+      "page": 1442
+    },
+    "132": {
+      "title": "The Sojourn at Rome",
+      "author": "Midwayer Commission",
+      "page": 1455
+    },
+    "133": {
+      "title": "The Return from Rome",
+      "author": "Midwayer Commission",
+      "page": 1468
+    },
+    "134": {
+      "title": "The Transition Years",
+      "author": "Midwayer Commission",
+      "page": 1483
+    },
+    "135": {
+      "title": "John the Baptist",
+      "author": "Midwayer Commission",
+      "page": 1496
+    },
+    "136": {
+      "title": "Baptism and the Forty Days",
+      "author": "Midwayer Commission",
+      "page": 1509
+    },
+    "137": {
+      "title": "Tarrying Time in Galilee",
+      "author": "Midwayer Commission",
+      "page": 1524
+    },
+    "138": {
+      "title": "Training the Kingdom’s Messengers",
+      "author": "Midwayer Commission",
+      "page": 1538
+    },
+    "139": {
+      "title": "The Twelve Apostles",
+      "author": "Midwayer Commission",
+      "page": 1548
+    },
+    "140": {
+      "title": "The Ordination of the Twelve",
+      "author": "Midwayer Commission",
+      "page": 1568
+    },
+    "141": {
+      "title": "Beginning the Public Work",
+      "author": "Midwayer Commission",
+      "page": 1587
+    },
+    "142": {
+      "title": "The Passover at Jerusalem",
+      "author": "Midwayer Commission",
+      "page": 1596
+    },
+    "143": {
+      "title": "Going Through Samaria",
+      "author": "Midwayer Commission",
+      "page": 1607
+    },
+    "144": {
+      "title": "At Gilboa and in the Decapolis",
+      "author": "Midwayer Commission",
+      "page": 1617
+    },
+    "145": {
+      "title": "Four Eventful Days at Capernaum",
+      "author": "Midwayer Commission",
+      "page": 1628
+    },
+    "146": {
+      "title": "First Preaching Tour of Galilee",
+      "author": "Midwayer Commission",
+      "page": 1637
+    },
+    "147": {
+      "title": "The Interlude Visit to Jerusalem",
+      "author": "Midwayer Commission",
+      "page": 1647
+    },
+    "148": {
+      "title": "Training Evangelists at Bethsaida",
+      "author": "Midwayer Commission",
+      "page": 1657
+    },
+    "149": {
+      "title": "The Second Preaching Tour",
+      "author": "Midwayer Commission",
+      "page": 1668
+    },
+    "150": {
+      "title": "The Third Preaching Tour",
+      "author": "Midwayer Commission",
+      "page": 1678
+    },
+    "151": {
+      "title": "Tarrying and Teaching by the Seaside",
+      "author": "Midwayer Commission",
+      "page": 1688
+    },
+    "152": {
+      "title": "Events Leading up to the Capernaum Crisis",
+      "author": "Midwayer Commission",
+      "page": 1698
+    },
+    "153": {
+      "title": "The Crisis at Capernaum",
+      "author": "Midwayer Commission",
+      "page": 1707
+    },
+    "154": {
+      "title": "Last Days at Capernaum",
+      "author": "Midwayer Commission",
+      "page": 1717
+    },
+    "155": {
+      "title": "Fleeing Through Northern Galilee",
+      "author": "Midwayer Commission",
+      "page": 1725
+    },
+    "156": {
+      "title": "The Sojourn at Tyre and Sidon",
+      "author": "Midwayer Commission",
+      "page": 1734
+    },
+    "157": {
+      "title": "At Caesarea-Philippi",
+      "author": "Midwayer Commission",
+      "page": 1743
+    },
+    "158": {
+      "title": "The Mount of Transfiguration",
+      "author": "Midwayer Commission",
+      "page": 1752
+    },
+    "159": {
+      "title": "The Decapolis Tour",
+      "author": "Midwayer Commission",
+      "page": 1762
+    },
+    "160": {
+      "title": "Rodan of Alexandria",
+      "author": "Midwayer Commission",
+      "page": 1772
+    },
+    "161": {
+      "title": "Further Discussions with Rodan",
+      "author": "Midwayer Commission",
+      "page": 1783
+    },
+    "162": {
+      "title": "At the Feast of Tabernacles",
+      "author": "Midwayer Commission",
+      "page": 1788
+    },
+    "163": {
+      "title": "Ordination of the Seventy at Magadan",
+      "author": "Midwayer Commission",
+      "page": 1800
+    },
+    "164": {
+      "title": "At the Feast of Dedication",
+      "author": "Midwayer Commission",
+      "page": 1809
+    },
+    "165": {
+      "title": "The Perean Mission Begins",
+      "author": "Midwayer Commission",
+      "page": 1817
+    },
+    "166": {
+      "title": "Last Visit to Northern Perea",
+      "author": "Midwayer Commission",
+      "page": 1825
+    },
+    "167": {
+      "title": "The Visit to Philadelphia",
+      "author": "Midwayer Commission",
+      "page": 1833
+    },
+    "168": {
+      "title": "The Resurrection of Lazarus",
+      "author": "Midwayer Commission",
+      "page": 1842
+    },
+    "169": {
+      "title": "Last Teaching at Pella",
+      "author": "Midwayer Commission",
+      "page": 1850
+    },
+    "170": {
+      "title": "The Kingdom of Heaven",
+      "author": "Midwayer Commission",
+      "page": 1858
+    },
+    "171": {
+      "title": "On the Way to Jerusalem",
+      "author": "Midwayer Commission",
+      "page": 1867
+    },
+    "172": {
+      "title": "Going into Jerusalem",
+      "author": "Midwayer Commission",
+      "page": 1878
+    },
+    "173": {
+      "title": "Monday in Jerusalem",
+      "author": "Midwayer Commission",
+      "page": 1888
+    },
+    "174": {
+      "title": "Tuesday Morning in the Temple",
+      "author": "Midwayer Commission",
+      "page": 1897
+    },
+    "175": {
+      "title": "The Last Temple Discourse",
+      "author": "Midwayer Commission",
+      "page": 1905
+    },
+    "176": {
+      "title": "Tuesday Evening on Mount Olivet",
+      "author": "Midwayer Commission",
+      "page": 1912
+    },
+    "177": {
+      "title": "Wednesday, the Rest Day",
+      "author": "Midwayer Commission",
+      "page": 1920
+    },
+    "178": {
+      "title": "Last Day at the Camp",
+      "author": "Midwayer Commission",
+      "page": 1929
+    },
+    "179": {
+      "title": "The Last Supper",
+      "author": "Midwayer Commission",
+      "page": 1936
+    },
+    "180": {
+      "title": "The Farewell Discourse",
+      "author": "Midwayer Commission",
+      "page": 1944
+    },
+    "181": {
+      "title": "Final Admonitions and Warnings",
+      "author": "Midwayer Commission",
+      "page": 1953
+    },
+    "182": {
+      "title": "In Gethsemane",
+      "author": "Midwayer Commission",
+      "page": 1963
+    },
+    "183": {
+      "title": "The Betrayal and Arrest of Jesus",
+      "author": "Midwayer Commission",
+      "page": 1971
+    },
+    "184": {
+      "title": "Before the Sanhedrin Court",
+      "author": "Midwayer Commission",
+      "page": 1978
+    },
+    "185": {
+      "title": "The Trial Before Pilate",
+      "author": "Midwayer Commission",
+      "page": 1987
+    },
+    "186": {
+      "title": "Just Before the Crucifixion",
+      "author": "Midwayer Commission",
+      "page": 1997
+    },
+    "187": {
+      "title": "The Crucifixion",
+      "author": "Midwayer Commission",
+      "page": 2004
+    },
+    "188": {
+      "title": "The Time of the Tomb",
+      "author": "Midwayer Commission",
+      "page": 2012
+    },
+    "189": {
+      "title": "The Resurrection",
+      "author": "Midwayer Commission",
+      "page": 2020
+    },
+    "190": {
+      "title": "Morontia Appearances of Jesus",
+      "author": "Midwayer Commission",
+      "page": 2029
+    },
+    "191": {
+      "title": "Appearances to the Apostles and Other Leaders",
+      "author": "Midwayer Commission",
+      "page": 2037
+    },
+    "192": {
+      "title": "Appearances in Galilee",
+      "author": "Midwayer Commission",
+      "page": 2045
+    },
+    "193": {
+      "title": "Final Appearances and Ascension",
+      "author": "Midwayer Commission",
+      "page": 2052
+    },
+    "194": {
+      "title": "Bestowal of the Spirit of Truth",
+      "author": "Midwayer Commission",
+      "page": 2059
+    },
+    "195": {
+      "title": "After Pentecost",
+      "author": "Midwayer Commission",
+      "page": 2069
+    },
+    "196": {
+      "title": "The Faith of Jesus",
+      "author": "Midwayer Commission",
+      "page": 2087
+    }
+  }
+}
