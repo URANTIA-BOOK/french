@@ -1,14 +1,14 @@
 {
-  "language": "eng",
-  "version_id": "UF-ENG-001-1955-1.22",
+  "language": "fre",
+  "version_id": "UF-FRE-001-1960-3.5",
   "pipeline_version": 3,
   "source_file": "part-2/046.md",
-  "source_sha256": "c11e3ca49c262d65cacfc4e113727bc7a587063529ef60000f823eea4c6f60f9",
+  "source_sha256": "e2c23ee239d32bca373da1d13276ac2a71f25dec53f2e59d490a6dee3c07043d",
   "rows": [
     {
       "type": "paper",
       "typeRank": 1,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": null,
@@ -19,14 +19,14 @@
       "standardReferenceId": "46:0.0",
       "pageReference": null,
       "sortId": "2.046.000.000",
-      "paperTitle": "The Local System Headquarters",
+      "paperTitle": "Le siège du système local",
       "sectionTitle": null,
       "markdown": null
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "0",
@@ -37,14 +37,14 @@
       "standardReferenceId": "46:0.0",
       "pageReference": null,
       "sortId": "2.046.000.000",
-      "paperTitle": "The Local System Headquarters",
+      "paperTitle": "Le siège du système local",
       "sectionTitle": null,
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "0",
@@ -55,14 +55,14 @@
       "standardReferenceId": "46:0.1",
       "pageReference": "519.1",
       "sortId": "2.046.000.001",
-      "paperTitle": "The Local System Headquarters",
+      "paperTitle": "Le siège du système local",
       "sectionTitle": null,
-      "markdown": "JERUSEM, the headquarters of Satania, is an average capital of a local system, and aside from numerous irregularities occasioned by the Lucifer rebellion and the bestowal of Michael on Urantia, it is typical of similar spheres. Your local system has passed through some stormy experiences, but it is at present being administered most efficiently, and as the ages pass, the results of disharmony are being slowly but surely eradicated. Order and good will are being restored, and the conditions on Jerusem are more and more approaching the heavenly status of your traditions, for the system headquarters is truly the heaven visualized by the majority of twentieth-century religious believers."
+      "markdown": "JÉRUSEM, siège de Satania, est une capitale moyenne de système local et, à part de nombreuses anomalies provenant de la rébellion de Lucifer et de l’effusion de Micaël sur Urantia, elle est typique des sphères similaires. Votre système local a passé par quelques expériences orageuses, mais aujourd’hui il est administré fort efficacement et, à mesure que s’écoulent les âges, les résultats de la disharmonie sont lentement mais durement éliminés. L’ordre et la bonne volonté sont restaurés et les conditions sur Jérusem se rapprochent de plus en plus du statut céleste de vos traditions, car le siège du système est vraiment le ciel imaginé par la majorité des croyants religieux du vingtième siècle."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "1",
@@ -73,14 +73,14 @@
       "standardReferenceId": "46:1.0",
       "pageReference": null,
       "sortId": "2.046.001.000",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Physical Aspects of Jerusem",
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Aspects physiques de Jérusem",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "1",
@@ -91,14 +91,14 @@
       "standardReferenceId": "46:1.1",
       "pageReference": "519.2",
       "sortId": "2.046.001.001",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Physical Aspects of Jerusem",
-      "markdown": "Jerusem is divided into one thousand latitudinal sectors and ten thousand longitudinal zones. The sphere has seven major capitals and seventy minor administrative centers. The seven sectional capitals are concerned with diverse activities, and the System Sovereign is present in each at least once a year."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Aspects physiques de Jérusem",
+      "markdown": "Jérusem est divisé en mille secteurs de latitude et dix-mille zones longitudinales. La sphère a sept capitales majeures et soixante-dix centres administratifs mineurs. Les sept capitales de section s’occupent de diverses activités, et le Souverain du Système les visite chacune au moins une fois par an."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "1",
@@ -109,14 +109,14 @@
       "standardReferenceId": "46:1.2",
       "pageReference": "519.3",
       "sortId": "2.046.001.002",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Physical Aspects of Jerusem",
-      "markdown": "The standard mile of Jerusem is equivalent to about seven Urantia miles. The standard weight, the “gradant,” is built up through the decimal system from the mature ultimaton and represents almost exactly ten ounces of your weight. The Satania day equals three days of Urantia time, less one hour, four minutes, and fifteen seconds, that being the time of the axial revolution of Jerusem. The system year consists of one hundred Jerusem days. The time of the system is broadcast by the master chronoldeks."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Aspects physiques de Jérusem",
+      "markdown": "Le mile standard de Jérusem équivaut à peu près à sept miles [11,2 km] d’Urantia. Le poids standard, le « gradant », y est établi par le système décimal à partir de l’ultimaton complet et représente environ 280 grammes de chez vous. Le jour de Satania équivaut à trois jours d’Urantia moins une heure quatre minutes quinze secondes, et représente la durée de la rotation axiale de Jérusem. L’année du système comporte cent jours de Jérusem. L’heure du système est télédiffusée par les maitres chronoldeks."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "1",
@@ -127,14 +127,14 @@
       "standardReferenceId": "46:1.3",
       "pageReference": "519.4",
       "sortId": "2.046.001.003",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Physical Aspects of Jerusem",
-      "markdown": "The energy of Jerusem is superbly controlled and circulates about the sphere in the zone channels, which are directly fed from the energy charges of space and expertly administered by the Master Physical Controllers. The natural resistance to the passage of these energies through the physical channels of conduction yields the heat required for the production of the equable temperature of Jerusem. The full-light temperature is maintained at about 70 degrees Fahrenheit, while during the period of light recession it falls to a little lower than 50 degrees."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Aspects physiques de Jérusem",
+      "markdown": "L’énergie de Jérusem est magnifiquement contrôlée et circule autour de la sphère dans des canaux longitudinaux directement alimentés par les charges d’énergie de l’espace, et elle est habilement distribuée par les Maitres Contrôleurs Physiques. La résistance naturelle au passage de ces énergies dans les canaux conducteurs physiques fournit la chaleur nécessaire pour produire la température régulière de Jérusem. En pleine lumière, cette température est maintenue aux environs de 21 degrés Celsius, tandis que, pendant la période de régression de la lumière, elle tombe un peu au-dessous de 10 degrés."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "1",
@@ -145,14 +145,14 @@
       "standardReferenceId": "46:1.4",
       "pageReference": "519.5",
       "sortId": "2.046.001.004",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Physical Aspects of Jerusem",
-      "markdown": "The lighting system of Jerusem should not be so difficult for you to comprehend. There are no days and nights, no seasons of heat and cold. The power transformers maintain one hundred thousand centers from which rarefied energies are projected upward through the planetary atmosphere, undergoing certain changes, until they reach the electric air-ceiling of the sphere; and then these energies are reflected back and down as a gentle, sifting, and even light of about the intensity of Urantia sunlight when the sun is shining overhead at ten o’clock in the morning."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Aspects physiques de Jérusem",
+      "markdown": "La compréhension du système d’éclairage de Jérusem ne devrait pas vous être bien difficile. Il n’y a ni jours ni nuits, ni saisons de chaleur et de froid. Les transformateurs de pouvoir entretiennent cent-mille centres d’où des énergies raréfiées sont projetées vers le haut à travers l’atmosphère planétaire. Elles y subissent certaines modifications jusqu’à ce qu’elles atteignent le plafond électrique atmosphérique de la sphère. Ensuite, ces énergies sont réfléchies vers le bas sous forme d’une lumière douce, égale et tamisée, ayant à peu près l’intensité de la lumière solaire d’Urantia quand le soleil brille sur vos têtes à dix heures du matin."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "1",
@@ -163,14 +163,14 @@
       "standardReferenceId": "46:1.5",
       "pageReference": "520.1",
       "sortId": "2.046.001.005",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Physical Aspects of Jerusem",
-      "markdown": "Under such conditions of lighting, the light rays do not seem to come from one place; they just sift out of the sky, emanating equally from all space directions. This light is very similar to natural sunlight except that it contains very much less heat. Thus it will be recognized that such headquarters worlds are not luminous in space; if Jerusem were very near Urantia, it would not be visible."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Aspects physiques de Jérusem",
+      "markdown": "Dans ces conditions d’éclairage, les rayons lumineux ne paraissent pas venir d’un point ; ils ne font que filtrer hors du ciel en émanant uniformément de toutes les directions de l’espace. Cette lumière est très semblable à la lumière naturelle du soleil, sauf qu’elle contient beaucoup moins de chaleur. On voit ainsi pourquoi les mondes-sièges ne sont pas lumineux dans l’espace. Même si Jérusem était très proche d’Urantia, elle en resterait invisible."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "1",
@@ -181,14 +181,14 @@
       "standardReferenceId": "46:1.6",
       "pageReference": "520.2",
       "sortId": "2.046.001.006",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Physical Aspects of Jerusem",
-      "markdown": "The gases which reflect this light-energy from the Jerusem upper ionosphere back to the ground are very similar to those in the Urantia upper air belts which are concerned with the auroral phenomena of your so-called northern lights, although these are produced by different causes. On Urantia it is this same gas shield which prevents the escape of the terrestrial broadcast waves, reflecting them earthward when they strike this gas belt in their direct outward flight. In this way broadcasts are held near the surface as they journey through the air around your world."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Aspects physiques de Jérusem",
+      "markdown": "Les gaz de l’ionosphère supérieure de Jérusem qui réfléchissent l’énergie lumineuse vers le sol sont très semblables à ceux des couches atmosphériques supérieures d’Urantia où se produisent les phénomènes que vous appelez aurores boréales, bien que ceux-ci soient dus à des causes différentes. Sur Urantia, c’est la même couche gazeuse qui empêche les ondes hertziennes de s’échapper et les réfléchit vers la terre quand elles heurtent cette ceinture gazeuse dans leur trajectoire directe vers l’extérieur. Les ondes de radiodiffusion sont ainsi gardées à proximité de la surface pendant qu’elles voyagent dans l’air autour de votre monde."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "1",
@@ -199,14 +199,14 @@
       "standardReferenceId": "46:1.7",
       "pageReference": "520.3",
       "sortId": "2.046.001.007",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Physical Aspects of Jerusem",
-      "markdown": "This lighting of the sphere is uniformly maintained for seventy-five per cent of the Jerusem day, and then there is a gradual recession until, at the time of minimum illumination, the light is about that of your full moon on a clear night. This is the quiet hour for all Jerusem. Only the broadcast-receiving stations are in operation during this period of rest and rehabilitation."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Aspects physiques de Jérusem",
+      "markdown": "L’éclairage de la sphère est maintenu uniforme pendant soixante-quinze pour cent du jour de Jérusem, et ensuite son intensité diminue graduellement jusqu’au point minimum où elle est à peu près celle de votre pleine lune par nuit claire. C’est l’heure tranquille pour tout Jérusem. Seules les stations réceptrices des télédiffusions fonctionnent pendant cette période de repos et de récupération."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "1",
@@ -217,14 +217,14 @@
       "standardReferenceId": "46:1.8",
       "pageReference": "520.4",
       "sortId": "2.046.001.008",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Physical Aspects of Jerusem",
-      "markdown": "Jerusem receives faint light from several near-by suns—a sort of brilliant starlight—but it is not dependent on them; worlds like Jerusem are not subject to the vicissitudes of sun disturbances, neither are they confronted with the problem of a cooling or dying sun."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Aspects physiques de Jérusem",
+      "markdown": "Jérusem reçoit une faible lumière de plusieurs soleils voisins — une sorte de brillante lumière stellaire — mais ne dépend pas d’eux. Les mondes tels que Jérusem ne sont pas soumis aux vicissitudes des perturbations solaires ni confrontés au problème d’un soleil qui se refroidit ou qui meurt."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "1",
@@ -235,14 +235,14 @@
       "standardReferenceId": "46:1.9",
       "pageReference": "520.5",
       "sortId": "2.046.001.009",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Physical Aspects of Jerusem",
-      "markdown": "The seven transitional study worlds and their forty-nine satellites are heated, lighted, energized, and watered by the Jerusem technique."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Aspects physiques de Jérusem",
+      "markdown": "Les sept mondes d’études transitionnelles et leurs quarante-neuf satellites sont chauffés, éclairés, alimentés en énergie et irrigués selon la technique de Jérusem."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "2",
@@ -253,14 +253,14 @@
       "standardReferenceId": "46:2.0",
       "pageReference": null,
       "sortId": "2.046.002.000",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Physical Features of Jerusem",
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Caractéristiques physiques de Jérusem",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "2",
@@ -271,14 +271,14 @@
       "standardReferenceId": "46:2.1",
       "pageReference": "520.6",
       "sortId": "2.046.002.001",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Physical Features of Jerusem",
-      "markdown": "On Jerusem you will miss the rugged mountain ranges of Urantia and other evolved worlds since there are neither earthquakes nor rainfalls, but you will enjoy the beauteous highlands and other unique variations of topography and landscape. Enormous areas of Jerusem are preserved in a “natural state,” and the grandeur of such districts is quite beyond the powers of human imagination."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Caractéristiques physiques de Jérusem",
+      "markdown": "Sur Jérusem, les chaines de montagnes escarpées d’Urantia et d’autres mondes évolués vous manqueront, car il n’y a ni tremblements de terre ni chutes de pluie, mais vous jouirez des magnifiques hautes terres et autres variantes extraordinaires de topographie et de paysages. D’immenses surfaces de Jérusem sont conservées « à l’état naturel », et la splendeur de ces districts dépasse de beaucoup la puissance de l’imagination humaine."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "2",
@@ -289,14 +289,14 @@
       "standardReferenceId": "46:2.2",
       "pageReference": "520.7",
       "sortId": "2.046.002.002",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Physical Features of Jerusem",
-      "markdown": "There are thousands upon thousands of small lakes but no raging rivers nor expansive oceans. There is no rainfall, neither storms nor blizzards, on any of the architectural worlds, but there is the daily precipitation of the condensation of moisture during the time of lowest temperature attending the light recession. (The dew point is higher on a three-gas world than on a two-gas planet like Urantia.) The physical plant life and the morontia world of living things both require moisture, but this is largely supplied by the subsoil system of circulation which extends all over the sphere, even up to the very tops of the highlands. This water system is not entirely subsurface, for there are many canals interconnecting the sparkling lakes of Jerusem."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Caractéristiques physiques de Jérusem",
+      "markdown": "Il y a des milliers et des milliers de petits lacs, mais ni rivières torrentielles ni océans immenses. Il ne pleut pas et il n’y a ni orages ni ouragans sur aucun des mondes architecturaux, mais la condensation de l’humidité donne lieu à une précipitation quotidienne au moment du minimum de température qui accompagne la régression de la lumière. (Le point de rosée est plus élevé sur un monde à trois gaz que sur un monde à deux gaz comme Urantia). La vie physique des plantes et le monde morontiel des créatures vivantes exigent tous deux de l’humidité, mais celle-ci est largement fournie par le système souterrain de circulation des eaux qui couvre toute la sphère, même jusqu’au sommet des hautes terres. Cette circulation d’eau ne se fait pas tout entière dans le sous-sol, car de nombreux canaux réunissent les lacs étincelants de Jérusem."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "2",
@@ -307,14 +307,14 @@
       "standardReferenceId": "46:2.3",
       "pageReference": "520.8",
       "sortId": "2.046.002.003",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Physical Features of Jerusem",
-      "markdown": "The atmosphere of Jerusem is a three-gas mixture. This air is very similar to that of Urantia with the addition of a gas adapted to the respiration of the morontia order of life. This third gas in no way unfits the air for the respiration of animals or plants of the material orders."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Caractéristiques physiques de Jérusem",
+      "markdown": "L’atmosphère de Jérusem est un mélange de trois gaz. L’air est très semblable à celui d’Urantia avec l’addition d’un gaz adapté à la respiration de l’ordre de vie morontiel. En aucune manière ce troisième gaz ne rend l’air impropre à la respiration des animaux et des plantes des ordres matériels."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "2",
@@ -325,14 +325,14 @@
       "standardReferenceId": "46:2.4",
       "pageReference": "521.1",
       "sortId": "2.046.002.004",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Physical Features of Jerusem",
-      "markdown": "The transportation system is allied with the circulatory streams of energy movement, these main energy currents being located at ten-mile intervals. By adjustment of physical mechanisms the material beings of the planet can proceed at a pace varying from two to five hundred miles per hour. The transport birds fly at about one hundred miles an hour. The air mechanisms of the Material Sons travel around five hundred miles per hour. Material and early morontia beings must utilize these mechanical means of transport, but spirit personalities proceed by liaison with the superior forces and spirit sources of energy."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Caractéristiques physiques de Jérusem",
+      "markdown": "Le système des transports est conjugué avec les courants circulatoires de mouvements d’énergie, les courants d’énergie principaux étant espacés de seize kilomètres. Par une adaptation de mécanismes physiques, les êtres matériels de la planète peuvent se déplacer à une vitesse horaire allant de 300 à 800 kilomètres. Les oiseaux transporteurs volent à environ 160 kilomètres à l’heure. Les machines aériennes des Fils Matériels font environ 800 kilomètres à l’heure. Les êtres matériels et les jeunes êtres morontiels doivent employer ces mécaniques de transport, mais les personnalités spirituelles se déplacent par liaison avec les forces supérieures et les sources spirituelles d’énergie."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "2",
@@ -343,14 +343,14 @@
       "standardReferenceId": "46:2.5",
       "pageReference": "521.2",
       "sortId": "2.046.002.005",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Physical Features of Jerusem",
-      "markdown": "Jerusem and its associated worlds are endowed with the ten standard divisions of physical life characteristic of the architectural spheres of Nebadon. And since there is no organic evolution on Jerusem, there are no conflicting forms of life, no struggle for existence, no survival of the fittest. Rather is there a creative adaptation which foreshadows the beauty, the harmony, and the perfection of the eternal worlds of the central and divine universe. And in all this creative perfection there is the most amazing intermingling of physical and of morontia life, artistically contrasted by the celestial artisans and their fellows."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Caractéristiques physiques de Jérusem",
+      "markdown": "Jérusem et ses mondes associés sont dotés des dix divisions normales de vie physique caractéristiques des sphères architecturales de Nébadon. Et, comme il n’y a pas d’évolution organique sur Jérusem, il n’y a pas non plus de formes antagonistes de vie, ni de lutte pour l’existence, ni de survie des plus aptes. On y trouve plutôt une adaptation créative qui laisse prévoir la beauté, l’harmonie et la perfection des mondes éternels de l’univers central et divin. Toute cette perfection créative contient un étonnant mélange de vies physiques et morontielles dont les artisans célestes et leurs compagnons font artistiquement ressortir les contrastes."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "2",
@@ -361,14 +361,14 @@
       "standardReferenceId": "46:2.6",
       "pageReference": "521.3",
       "sortId": "2.046.002.006",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Physical Features of Jerusem",
-      "markdown": "Jerusem is indeed a foretaste of paradisiacal glory and grandeur. But you can never hope to gain an adequate idea of these glorious architectural worlds by any attempted description. There is so little that can be compared with aught on your world, and even then the things of Jerusem so transcend the things of Urantia that the comparison is almost grotesque. Until you actually arrive on Jerusem, you can hardly entertain anything like a true concept of the heavenly worlds, but that is not so long a time in the future when your coming experience on the system capital is compared with your sometime arrival on the more remote training spheres of the universe, the superuniverse, and Havona."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Caractéristiques physiques de Jérusem",
+      "markdown": "Jérusem donne vraiment un avant-gout de gloire et de splendeur paradisiaques. Mais il faut perdre l’espoir de se faire une idée exacte de ces glorieux mondes architecturaux par des tentatives de description. Il ne s’y trouve presque rien de comparable aux choses de votre monde, et, même alors, les choses de Jérusem transcendent tellement celles d’Urantia que la comparaison devient presque grotesque. Avant d’arriver effectivement sur Jérusem, vous ne pouvez guère avoir une conception des mondes célestes qui se rapproche de la vérité, mais ensuite il ne vous faudra pas beaucoup de temps pour comparer votre prochaine expérience sur la capitale systémique avec votre future arrivée sur les sphères éducatives plus lointaines de l’univers, du superunivers et de Havona."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "2",
@@ -379,14 +379,14 @@
       "standardReferenceId": "46:2.7",
       "pageReference": "521.4",
       "sortId": "2.046.002.007",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Physical Features of Jerusem",
-      "markdown": "The manufacturing or laboratory sector of Jerusem is an extensive domain, one which Urantians would hardly recognize since it has no smoking chimneys; nevertheless, there is an intricate material economy associated with these special worlds, and there is a perfection of mechanical technique and physical achievement which would astonish and even awe your most experienced chemists and inventors. Pause to consider that this first world of detention in the Paradise journey is far more material than spiritual. Throughout your stay on Jerusem and its transition worlds you are far nearer your earth life of material things than your later life of advancing spirit existence."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Caractéristiques physiques de Jérusem",
+      "markdown": "Le secteur des manufactures ou des laboratoires de Jérusem occupe une superficie étendue que les Urantiens auraient de la peine à reconnaitre, car les cheminées fumantes sont absentes. Il existe cependant une économie matérielle complexe associée à ces mondes spéciaux ; la perfection de leurs techniques mécaniques et de leurs réalisations physiques étonnerait et même confondrait vos chimistes et vos inventeurs les plus expérimentés. Arrêtez-vous pour considérer que, dans le voyage vers le Paradis, ce premier monde où l’on vous retient est beaucoup plus matériel que spirituel. Pendant tout votre séjour sur Jérusem et ses mondes de transition, vous restez bien plus proches de votre vie terrestre à facteurs matériels que de votre vie ultérieure d’existence spirituelle progressive."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "2",
@@ -397,14 +397,14 @@
       "standardReferenceId": "46:2.8",
       "pageReference": "521.5",
       "sortId": "2.046.002.008",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Physical Features of Jerusem",
-      "markdown": "Mount Seraph is the highest elevation on Jerusem, almost fifteen thousand feet, and is the point of departure for all transport seraphim. Numerous mechanical developments are used in providing initial energy for escaping the planetary gravity and overcoming the air resistance. A seraphic transport departs every three seconds of Urantia time throughout the light period and, sometimes, far into the recession. The transporters take off at about twenty-five standard miles per second of Urantia time and do not attain standard velocity until they are over two thousand miles away from Jerusem."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Caractéristiques physiques de Jérusem",
+      "markdown": "Le Mont Séraph est le sommet le plus élevé de Jérusem ; il a environ quatre-mille-cinq-cents mètres d’altitude, et il est le point de départ de tous les séraphins transporteurs. De nombreux dispositifs mécaniques sont employés à fournir l’énergie initiale nécessaire pour échapper à la gravité planétaire et pour triompher de la résistance de l’air. Un transport séraphique part toutes les trois secondes du temps d’Urantia pendant toute la partie du jour où il fait clair, et parfois jusqu’à un moment tardif de la régression lumineuse. Les transporteurs partent à la vitesse d’environ vingt-cinq miles standards par seconde de temps d’Urantia et n’atteignent leur vitesse normale qu’après s’être éloignés de Jérusem de plus de deux-mille miles."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "2",
@@ -415,14 +415,14 @@
       "standardReferenceId": "46:2.9",
       "pageReference": "521.6",
       "sortId": "2.046.002.009",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Physical Features of Jerusem",
-      "markdown": "Transports arrive on the crystal field, the so-called sea of glass. Around this area are the receiving stations for the various orders of beings who traverse space by seraphic transport. Near the polar crystal receiving station for student visitors you may ascend the pearly observatory and view the immense relief map of the entire headquarters planet."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Caractéristiques physiques de Jérusem",
+      "markdown": "Les transports arrivent sur le champ de cristal, aussi appelé la mer de verre. Autour de cette zone se trouvent les stations réceptrices pour les divers ordres d’êtres qui traversent l’espace par transport séraphique. Près de la station réceptrice du cristal polaire destinée aux étudiants visiteurs, vous pourrez monter sur l’observatoire nacré et regarder l’immense carte en relief de toute la planète capitale de votre système."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "3",
@@ -433,14 +433,14 @@
       "standardReferenceId": "46:3.0",
       "pageReference": null,
       "sortId": "2.046.003.000",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Broadcasts",
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les télédiffusions de Jérusem",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "3",
@@ -451,14 +451,14 @@
       "standardReferenceId": "46:3.1",
       "pageReference": "522.1",
       "sortId": "2.046.003.001",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Broadcasts",
-      "markdown": "The superuniverse and Paradise-Havona broadcasts are received on Jerusem in liaison with Salvington and by a technique involving the polar crystal, the sea of glass. In addition to provisions for the reception of these extra-Nebadon communications, there are three distinct groups of receiving stations. These separate but tricircular groups of stations are adjusted to the reception of broadcasts from the local worlds, from the constellation headquarters, and from the capital of the local universe. All these broadcasts are automatically displayed so as to be discernible by all types of beings present in the central broadcast amphitheater; of all preoccupations for an ascendant mortal on Jerusem, none is more engaging and engrossing than that of listening in on the never-ending stream of universe space reports."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les télédiffusions de Jérusem",
+      "markdown": "Les télédiffusions du superunivers et du Paradis-Havona sont reçues sur Jérusem en liaison avec Salvington et par une technique mettant en jeu le cristal polaire, la mer de verre. En plus des dispositifs pour recevoir ces communications venant de l’extérieur de Nébadon, il existe trois groupes distincts de stations réceptrices. Ces groupes de stations séparées, mais disposées sur trois cercles concentriques, sont adaptées à la réception des télédiffusions venant des mondes locaux, du siège de la constellation et de la capitale de l’univers local. Tous ces messages sont automatiquement publiés de manière à être discernables par tous les types d’êtres présents dans l’amphithéâtre central de la télédiffusion. Parmi toutes les occupations d’un mortel ascendant sur Jérusem, aucune n’est plus attrayante et passionnante que d’écouter le flot incessant des rapports spatiaux de l’univers."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "3",
@@ -469,14 +469,14 @@
       "standardReferenceId": "46:3.2",
       "pageReference": "522.2",
       "sortId": "2.046.003.002",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Broadcasts",
-      "markdown": "This Jerusem broadcast-receiving station is encircled by an enormous amphitheater, constructed of scintillating materials largely unknown on Urantia and seating over five billion beings—material and morontia—besides accommodating innumerable spirit personalities. It is the favorite diversion for all Jerusem to spend their leisure at the broadcast station, there to learn of the welfare and state of the universe. And this is the only planetary activity which is not slowed down during the recession of light."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les télédiffusions de Jérusem",
+      "markdown": "Cette station réceptrice de Jérusem est entourée par un immense amphithéâtre construit de matériaux scintillants pour la plupart inconnus sur Urantia ; elle contient des places pour cinq-milliards de personnes — matérielles et morontielles — sans compter la place pour d’innombrables personnalités spirituelles. Tous les habitants de Jérusem ont pour distraction favorite de passer leurs loisirs à la station de radiodiffusion pour y apprendre des nouvelles du bienêtre et de l’état de l’univers. C’est l’unique activité planétaire qui ne se ralentisse pas pendant la régression de la lumière."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "3",
@@ -487,14 +487,14 @@
       "standardReferenceId": "46:3.3",
       "pageReference": "522.3",
       "sortId": "2.046.003.003",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Broadcasts",
-      "markdown": "At this broadcast-receiving amphitheater the Salvington messages are coming in continuously. Near by, the Edentia word of the Most High Constellation Fathers is received at least once a day. Periodically the regular and special broadcasts of Uversa are relayed through Salvington, and when Paradise messages are in reception, the entire population is assembled around the sea of glass, and the Uversa friends add the reflectivity phenomena to the technique of the Paradise broadcast so that everything heard becomes visible. And it is in this manner that continual foretastes of advancing beauty and grandeur are afforded the mortal survivors as they journey inward on the eternal adventure."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les télédiffusions de Jérusem",
+      "markdown": "Dans cet amphithéâtre récepteur, les messages de Salvington arrivent d’une manière continue. Non loin de là, venant d’Édentia, la parole des Très Hauts Pères de la Constellation est reçue au moins une fois par jour. Les télécommunications régulières et spéciales d’Uversa sont relayées périodiquement par Salvington et, quand il arrive des messages du Paradis, toute la population se rassemble autour de la mer de verre. Les amis d’Uversa ajoutent alors le phénomène de réflectivité à la technique des diffusions du Paradis, de sorte que tout ce que l’on entend devient visible. C’est ainsi que des avant-gouts continuels de beauté et de grandeur progressives sont procurés aux survivants mortels pendant leur voyage vers l’aventure intérieure éternelle."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "3",
@@ -505,14 +505,14 @@
       "standardReferenceId": "46:3.4",
       "pageReference": "522.4",
       "sortId": "2.046.003.004",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Broadcasts",
-      "markdown": "The Jerusem sending station is located at the opposite pole of the sphere. All broadcasts to the individual worlds are relayed from the system capitals except the Michael messages, which sometimes go direct to their destinations over the archangels’ circuit."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les télédiffusions de Jérusem",
+      "markdown": "La station émettrice de Jérusem est située au pôle opposé de la sphère. Toutes les télédiffusions destinées aux mondes individuels sont relayées à partir des capitales des systèmes, sauf les messages de Micaël ; ceux-ci vont parfois directement à leur destination par le circuit des archanges."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "4",
@@ -523,14 +523,14 @@
       "standardReferenceId": "46:4.0",
       "pageReference": null,
       "sortId": "2.046.004.000",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Residential and Administrative Areas",
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Zones résidentielles et administratives",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "4",
@@ -541,14 +541,14 @@
       "standardReferenceId": "46:4.1",
       "pageReference": "522.5",
       "sortId": "2.046.004.001",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Residential and Administrative Areas",
-      "markdown": "Considerable portions of Jerusem are assigned as residential areas, while other portions of the system capital are given over to the necessary administrative functions involving the supervision of the affairs of 619 inhabited spheres, 56 transitional-culture worlds, and the system capital itself. On Jerusem and in Nebadon these arrangements are designed as follows:"
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Zones résidentielles et administratives",
+      "markdown": "Des portions considérables de Jérusem sont réservées comme zones résidentielles, tandis que d’autres portions de la capitale systémique sont affectées aux fonctions administratives nécessaires impliquant la supervision des affaires de 619 sphères habitées, de 56 mondes de culture transitionnelle et de la capitale même du système. Sur Jérusem et dans Nébadon, les dispositifs sont prévus comme suit :"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "4",
@@ -559,14 +559,14 @@
       "standardReferenceId": "46:4.2",
       "pageReference": "522.6",
       "sortId": "2.046.004.002",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Residential and Administrative Areas",
-      "markdown": "1. *The circles—*the nonnative residential areas."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Zones résidentielles et administratives",
+      "markdown": "1. *Les cercles —* les zones résidentielles des non natifs."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "4",
@@ -577,14 +577,14 @@
       "standardReferenceId": "46:4.3",
       "pageReference": "522.7",
       "sortId": "2.046.004.003",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Residential and Administrative Areas",
-      "markdown": "2. *The squares—*the system executive-administrative areas."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Zones résidentielles et administratives",
+      "markdown": "2. *Les carrés —* les zones administratives-exécutives du système."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "4",
@@ -595,14 +595,14 @@
       "standardReferenceId": "46:4.4",
       "pageReference": "522.8",
       "sortId": "2.046.004.004",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Residential and Administrative Areas",
-      "markdown": "3. *The rectangles—*the rendezvous of the lower native life."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Zones résidentielles et administratives",
+      "markdown": "3. *Les rectangles —* les lieux de rencontre de la vie indigène inférieure."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "4",
@@ -613,14 +613,14 @@
       "standardReferenceId": "46:4.5",
       "pageReference": "522.9",
       "sortId": "2.046.004.005",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Residential and Administrative Areas",
-      "markdown": "4. *The triangles—*the local or Jerusem administrative areas."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Zones résidentielles et administratives",
+      "markdown": "4. *Les triangles —* les zones administratives locales ou de Jérusem."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "4",
@@ -631,14 +631,14 @@
       "standardReferenceId": "46:4.6",
       "pageReference": "522.10",
       "sortId": "2.046.004.006",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Residential and Administrative Areas",
-      "markdown": "This arrangement of the system activities into circles, squares, rectangles, and triangles is common to all the system capitals of Nebadon. In another universe an entirely different arrangement might prevail. These are matters determined by the diverse plans of the Creator Sons."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Zones résidentielles et administratives",
+      "markdown": "Ce dispositif des activités du système en cercles, carrés, rectangles et triangles est commun à toutes les capitales systémiques de Nébadon. Dans un autre univers, un dispositif entièrement différent peut prévaloir. Ce sont des affaires déterminées par les divers plans des Fils Créateurs."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "4",
@@ -649,14 +649,14 @@
       "standardReferenceId": "46:4.7",
       "pageReference": "523.1",
       "sortId": "2.046.004.007",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Residential and Administrative Areas",
-      "markdown": "Our narrative of these residential and administrative areas takes no account of the vast and beautiful estates of the Material Sons of God, the permanent citizens of Jerusem, neither do we mention numerous other fascinating orders of spirit and near-spirit creatures. For example: Jerusem enjoys the efficient services of the spironga of design for system function. These beings are devoted to spiritual ministry in behalf of the supermaterial residents and visitors. They are a wonderful group of intelligent and beautiful beings who are the transition servants of the higher morontia creatures and of the morontia helpers who labor for the upkeep and embellishment of all morontia creations. They are on Jerusem what the midway creatures are on Urantia, midway helpers functioning between the material and the spiritual."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Zones résidentielles et administratives",
+      "markdown": "Notre description des zones résidentielles et administratives ne fait pas entrer en ligne de compte les vastes et magnifiques propriétés des Fils Matériels de Dieu, les citoyens permanents de Jérusem, et nous ne mentionnons pas non plus de nombreux autres ordres séduisants de créatures spirituelles et quasi spirituelles. Par exemple, Jérusem bénéficie des services efficaces des spirongas conçus pour travailler dans le système. Ceux-ci se consacrent à un ministère spirituel en faveur des résidents et visiteurs supramatériels. Ils forment un groupe merveilleux d’êtres intelligents et beaux qui sont des serviteurs de transition pour les créatures morontielles supérieures et pour les aides morontiels qui travaillent à entretenir et à embellir toutes les créations morontielles. Ils représentent sur Jérusem ce que les créatures médianes représentent sur Urantia, des aides médians opérant entre le matériel et le spirituel."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "4",
@@ -667,14 +667,14 @@
       "standardReferenceId": "46:4.8",
       "pageReference": "523.2",
       "sortId": "2.046.004.008",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Residential and Administrative Areas",
-      "markdown": "The system capitals are unique in that they are the only worlds which exhibit well-nigh perfectly all three phases of universe existence: the material, the morontial, and the spiritual. Whether you are a material, morontia, or spirit personality, you will feel at home on Jerusem; so also do the combined beings, such as the midway creatures and the Material Sons."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Zones résidentielles et administratives",
+      "markdown": "Les capitales des systèmes sont uniques en ce sens qu’elles sont les seuls mondes où l’on peut observer à peu près parfaitement les trois phases matérielle, morontielle et spirituelle de l’existence universelle. Que vous soyez une personnalité matérielle, morontielle ou spirituelle, vous vous sentirez chez vous sur Jérusem. Il en est de même pour les êtres mixtes tels que les créatures médianes et les Fils Matériels."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "4",
@@ -685,14 +685,14 @@
       "standardReferenceId": "46:4.9",
       "pageReference": "523.3",
       "sortId": "2.046.004.009",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "Residential and Administrative Areas",
-      "markdown": "Jerusem has great buildings of both material and morontia types, while the embellishment of the purely spiritual zones is no less exquisite and replete. If I only had words to tell you of the morontia counterparts of the marvelous physical equipment of Jerusem! If I could only go on to portray the sublime grandeur and exquisite perfection of the spiritual appointments of this headquarters world! Your most imaginative concept of perfection of beauty and repleteness of appointment would hardly approach these grandeurs. And Jerusem is but the first step on the way to the supernal perfection of Paradise beauty."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Zones résidentielles et administratives",
+      "markdown": "Jérusem possède de grands bâtiments du type matériel aussi bien que du type morontiel, et l’embellissement des zones purement spirituelles n’est pas moins délicieux et surabondant. Si seulement j’avais des mots pour vous parler des contreparties morontielles du merveilleux équipement physique de Jérusem ! Si seulement je pouvais poursuivre ma description de la sublime grandeur et de l’exquise perfection des installations spirituelles de ce monde-siège ! Vos conceptions les plus audacieuses de perfection dans la beauté et de plénitude dans les installations n’approcheraient guère de ces splendeurs. Et Jérusem n’est que le premier pas sur le chemin vers la perfection céleste de la beauté du Paradis."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -703,14 +703,14 @@
       "standardReferenceId": "46:5.0",
       "pageReference": null,
       "sortId": "2.046.005.000",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -721,14 +721,14 @@
       "standardReferenceId": "46:5.1",
       "pageReference": "523.4",
       "sortId": "2.046.005.001",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "The residential reservations assigned to the major groups of universe life are designated the Jerusem circles. Those circle groups which find mention in these narratives are the following:"
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "Les réserves résidentielles affectées aux groupes majeurs de la vie de l’univers s’appellent les cercles de Jérusem. Les groupes circulaires mentionnés dans ces exposés sont les suivants :"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -739,14 +739,14 @@
       "standardReferenceId": "46:5.2",
       "pageReference": "523.5",
       "sortId": "2.046.005.002",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "1. The circles of the Sons of God."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "1. Les cercles des Fils de Dieu."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -757,14 +757,14 @@
       "standardReferenceId": "46:5.3",
       "pageReference": "523.6",
       "sortId": "2.046.005.003",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "2. The circles of the angels and higher spirits."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "2. Les cercles des anges et des esprits supérieurs."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -775,14 +775,14 @@
       "standardReferenceId": "46:5.4",
       "pageReference": "523.7",
       "sortId": "2.046.005.004",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "3. The circles of the Universe Aids, including the creature-trinitized sons not assigned to the Trinity Teacher Sons."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "3. Les cercles des Aides d’Univers, y compris les fils trinitisés par des créatures non affectés auprès des Fils Instructeurs de la Trinité."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -793,14 +793,14 @@
       "standardReferenceId": "46:5.5",
       "pageReference": "523.8",
       "sortId": "2.046.005.005",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "4. The circles of the Master Physical Controllers."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "4. Les cercles des Maitres Contrôleurs Physiques."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -811,14 +811,14 @@
       "standardReferenceId": "46:5.6",
       "pageReference": "523.9",
       "sortId": "2.046.005.006",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "5. The circles of the assigned ascending mortals, including the midway creatures."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "5. Les cercles des mortels ascendants affectés y compris les créatures médianes."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -829,14 +829,14 @@
       "standardReferenceId": "46:5.7",
       "pageReference": "523.10",
       "sortId": "2.046.005.007",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "6. The circles of the courtesy colonies."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "6. Les cercles des colonies de courtoisie."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -847,14 +847,14 @@
       "standardReferenceId": "46:5.8",
       "pageReference": "523.11",
       "sortId": "2.046.005.008",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "7. The circles of the Corps of the Finality."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "7. Les cercles du Corps de la Finalité."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -865,14 +865,14 @@
       "standardReferenceId": "46:5.9",
       "pageReference": "523.12",
       "sortId": "2.046.005.009",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "Each of these residential groupings consists of seven concentric and successively elevated circles. They are all constructed along the same lines but are of different sizes and are fashioned of differing materials. They are all surrounded by far-reaching enclosures, which mount up to form extensive promenades entirely encompassing every group of seven concentric circles."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "Chacun de ces groupements résidentiels consiste en sept cercles concentriques et de plus en plus élevés. Ils sont tous construits sur le même modèle, mais leurs dimensions sont différentes et ils sont faits de matériaux dissemblables. Ils sont tous entourés d’enceintes de grande envergure qui s’élèvent en formant des promenades étendues ceinturant chaque groupe de sept cercles concentriques."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -883,14 +883,14 @@
       "standardReferenceId": "46:5.10",
       "pageReference": "524.1",
       "sortId": "2.046.005.010",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "1. *Circles of the Sons of God.* Though the Sons of God possess a social planet of their own, one of the transitional-culture worlds, they also occupy these extensive domains on Jerusem. On their transitional-culture world the ascending mortals freely mingle with all orders of divine sonship. There you will personally know and love these Sons, but their social life is largely confined to this special world and its satellites. In the Jerusem circles, however, these various groups of sonship may be observed at work. And since morontia vision is of enormous range, you can walk about on the Sons’ promenades and overlook the intriguing activities of their numerous orders."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "1. *Les cercles des Fils de Dieu.* Bien que les Fils de Dieu possèdent une planète sociale à eux, l’un des mondes de culture transitionnelle, ils occupent aussi ces domaines étendus sur Jérusem. Sur leur monde de culture transitionnelle, les mortels ascendants se mêlent librement à tous les ordres de filiation divine. Vous y aimerez et connaitrez personnellement ces Fils, mais leur vie sociale est surtout confinée dans ce monde spécial et ses satellites. Toutefois, dans les cercles de Jérusem, on peut voir à l’œuvre ces groupes variés de filiation. Et, du fait que la vision morontielle a une portée énorme, vous pourrez circuler sur les promenades des Fils et observer les activités mystérieuses de leurs nombreux ordres."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -901,14 +901,14 @@
       "standardReferenceId": "46:5.11",
       "pageReference": "524.2",
       "sortId": "2.046.005.011",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "These seven circles of the Sons are concentric and successively elevated so that each of the outer and larger circles overlooks the inner and smaller ones, each being surrounded by a public promenade wall. These walls are constructed of crystal gems of gleaming brightness and are so elevated as to overlook all of their respective residential circles. The many gates—from fifty to one hundred and fifty thousand—which penetrate each of these walls consist of single pearly crystals."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "Ces sept cercles des Fils sont concentriques et successivement plus élevés, de sorte que chacun des cercles extérieurs plus grands domine les cercles intérieurs plus petits, chacun d’eux étant entouré d’un mur formant un promenoir public. Ces murs sont construits de gemmes cristallines d’un éclat miroitant. Leur hauteur leur permet de dominer tout le cercle de résidence qu’ils entourent. Les nombreuses portes — de cinquante-mille à cent-cinquante-mille — qui s’ouvrent dans chacun de ces murs sont faites d’un seul cristal nacré."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -919,14 +919,14 @@
       "standardReferenceId": "46:5.12",
       "pageReference": "524.3",
       "sortId": "2.046.005.012",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "The first circle of the domain of the Sons is occupied by the Magisterial Sons and their personal staffs. Here center all of the plans and immediate activities of the bestowal and adjudicational services of these juridical Sons. It is also through this center that the Avonals of the system maintain contact with the universe."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "Le premier cercle du domaine des Fils est occupé par les Fils Magistraux et leurs états-majors personnels. C’est là que se concentrent tous les plans et les activités immédiates des services de ces Fils judiciaires concernant les effusions et les jugements. C’est également par ce centre que les Avonals du système maintiennent le contact avec l’univers."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -937,14 +937,14 @@
       "standardReferenceId": "46:5.13",
       "pageReference": "524.4",
       "sortId": "2.046.005.013",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "The second circle is occupied by the Trinity Teacher Sons. In this sacred domain the Daynals and their associates carry forward the training of the newly arrived primary Teacher Sons. And in all of this work they are ably assisted by a division of certain co-ordinates of the Brilliant Evening Stars. The creature-trinitized sons occupy a sector of the Daynal circle. The Trinity Teacher Sons come the nearest to being the personal representatives of the Universal Father in a local system; they are at least Trinity-origin beings. This second circle is a domain of extraordinary interest to all the peoples of Jerusem."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "Le deuxième cercle est occupé par les Fils Instructeurs de la Trinité. Dans ce domaine sacré, les Daynals et leurs associés poursuivent l’entrainement des Fils Instructeurs primaires nouvellement arrivés. Et, dans tout ce travail, ils sont habilement aidés par une division de certains êtres coordonnés des Brillantes Étoiles du Soir. Les fils trinitisés par des créatures occupent un secteur du cercle des Daynals. Dans un système local, ce sont les Fils Instructeurs de la Trinité qui sont le plus près de représenter le Père Universel ; ils sont pour le moins issus de la Trinité. Ce deuxième cercle est un domaine qui présente un intérêt extraordinaire pour toutes les populations de Jérusem."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -955,14 +955,14 @@
       "standardReferenceId": "46:5.14",
       "pageReference": "524.5",
       "sortId": "2.046.005.014",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "The third circle is devoted to the Melchizedeks. Here the system chiefs reside and supervise the almost endless activities of these versatile Sons. From the first of the mansion worlds on through all the Jerusem career of ascending mortals, the Melchizedeks are foster fathers and ever-present advisers. It would not be amiss to say that they are the dominant influence on Jerusem aside from the ever-present activities of the Material Sons and Daughters."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "Le troisième cercle est consacré aux Melchizédeks. C’est là que résident les chefs systémiques qui supervisent les activités à peu près illimitées de ces Fils aux talents variés. Depuis le premier monde des maisons et pendant toute la carrière des mortels ascendants sur Jérusem, les Melchizédeks sont des pères adoptifs et des conseillers toujours présents. On peut dire sans erreur qu’ils représentent l’influence dominante sur Jérusem en dehors des activités continues des Fils et Filles Matériels."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -973,14 +973,14 @@
       "standardReferenceId": "46:5.15",
       "pageReference": "524.6",
       "sortId": "2.046.005.015",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "The fourth circle is the home of the Vorondadeks and all other orders of the visiting and observer Sons who are not otherwise provided for. The Most High Constellation Fathers take up their abode in this circle when on visits of inspection to the local system. Perfectors of Wisdom, Divine Counselors, and Universal Censors all reside in this circle when on duty in the system."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "Le quatrième cercle est la demeure des Vorondadeks et de tous les autres ordres de Fils visiteurs et observateurs qui ne sont pas logés ailleurs. Les Très Hauts Pères des Constellations habitent ce cercle au cours de leurs visites d’inspection dans le système local. Les Perfecteurs de Sagesse, les Conseillers Divins et les Censeurs Universels résident tous dans ce cercle quand ils sont de service dans le système."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -991,14 +991,14 @@
       "standardReferenceId": "46:5.16",
       "pageReference": "524.7",
       "sortId": "2.046.005.016",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "The fifth circle is the abode of the Lanonandeks, the sonship order of the System Sovereigns and the Planetary Princes. The three groups mingle as one when at home in this domain. The system reserves are held in this circle, while the System Sovereign has a temple situated at the center of the governing group of structures on administration hill."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "Le cinquième cercle est la demeure des Lanonandeks, l’ordre de filiation des Souverains Systémiques et des Princes Planétaires. Les trois groupes se fondent en un quand ils habitent ce domaine. Les réserves du système sont maintenues sur ce cercle, et le Souverain du Système a un temple situé au centre des bâtiments du groupe gouvernemental sur la colline de l’administration."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -1009,14 +1009,14 @@
       "standardReferenceId": "46:5.17",
       "pageReference": "524.8",
       "sortId": "2.046.005.017",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "The sixth circle is the tarrying place of the system Life Carriers. All orders of these Sons are here assembled, and from here they go forth on their world assignments."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "Le sixième cercle est le lieu de séjour des Porteurs de Vie du système. Tous les ordres de ces Fils y sont rassemblés et en partent pour leurs missions dans les mondes."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -1027,14 +1027,14 @@
       "standardReferenceId": "46:5.18",
       "pageReference": "524.9",
       "sortId": "2.046.005.018",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "The seventh circle is the rendezvous of the ascending sons, those assigned mortals who may be temporarily functioning on the system headquarters, together with their seraphic consorts. All ex-mortals above the status of Jerusem citizens and below that of finaliters are reckoned as belonging to the group having its headquarters in this circle."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "Le septième cercle est le lieu de rencontre des fils ascendants, ces mortels affectés qui sont temporairement en fonction au siège du système, ainsi que leurs consorts séraphiques. Tous les ex-mortels ayant un statut supérieur à celui des citoyens de Jérusem et inférieur à celui des finalitaires sont comptés comme appartenant au groupe ayant son quartier général dans ce cercle."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -1045,14 +1045,14 @@
       "standardReferenceId": "46:5.19",
       "pageReference": "525.1",
       "sortId": "2.046.005.019",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "These circular reservations of the Sons occupy an enormous area, and until nineteen hundred years ago there existed a great open space at its center. This central region is now occupied by the Michael memorial, completed some five hundred years ago. Four hundred and ninety-five years ago, when this temple was dedicated, Michael was present in person, and all Jerusem heard the touching story of the Master Son’s bestowal on Urantia, the least of Satania. The Michael memorial is now the center of all activities embraced in the modified management of the system occasioned by Michael’s bestowal, including most of the more recently transplanted Salvington activities. The memorial staff consists of over one million personalities."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "Ces réserves circulaires des Fils occupent une surface énorme et, jusqu’à il y a mille-neuf-cents ans, il existait un grand espace libre en son centre. Cette région centrale est maintenant occupée par le monument commémoratif de Micaël, qui fut achevé il y a environ 500 ans. Il y a 495 ans, lors de la consécration de ce temple, Micaël était présent en personne, et tout Jérusem entendit la touchante histoire de l’effusion du Maitre Fils sur Urantia, la planète la plus insignifiante de Satania. Le monument de Micaël est maintenant le centre de toutes les activités incluses dans l’administration du système, modifiée par la suite de l’effusion de Micaël, y compris la plupart des activités de Salvington qui y furent récemment transférées. L’état-major commémoratif comprend plus d’un million de personnalités."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -1063,14 +1063,14 @@
       "standardReferenceId": "46:5.20",
       "pageReference": "525.2",
       "sortId": "2.046.005.020",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "2. *The circles of the angels.* Like the residential area of the Sons, these circles of the angels consist of seven concentric and successively elevated circles, each overlooking the inner areas."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "2. *Les cercles des anges.* De même que la zone résidentielle des Fils, les cercles des anges consistent en sept élévations circulaires concentriques successives ayant chacune la vue sur les zones intérieures."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -1081,14 +1081,14 @@
       "standardReferenceId": "46:5.21",
       "pageReference": "525.3",
       "sortId": "2.046.005.021",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "The first circle of the angels is occupied by the Higher Personalities of the Infinite Spirit who may be stationed on the headquarters world—Solitary Messengers and their associates. The second circle is dedicated to the messenger hosts, Technical Advisers, companions, inspectors, and recorders as they may chance to function on Jerusem from time to time. The third circle is held by the ministering spirits of the higher orders and groupings."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "Le premier des cercles des anges est occupé par les Personnalités Supérieures de l’Esprit Infini qui se trouvent stationnées sur les mondes-sièges — les Messagers Solitaires et leurs associés. Le deuxième cercle est consacré à l’armée des messagers, Conseillers Techniques, compagnons, inspecteurs et archivistes qui peuvent être amenés à opérer de temps en temps sur Jérusem. Le troisième cercle est occupé par les esprits tutélaires des ordres et groupements supérieurs."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -1099,14 +1099,14 @@
       "standardReferenceId": "46:5.22",
       "pageReference": "525.4",
       "sortId": "2.046.005.022",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "The fourth circle is held by the administrator seraphim, and the seraphim serving in a local system like Satania are an “innumerable host of angels.” The fifth circle is occupied by the planetary seraphim, while the sixth is the home of the transition ministers. The seventh circle is the tarrying sphere of certain unrevealed orders of seraphim. The recorders of all these groups of angels do not sojourn with their fellows, being domiciled in the Jerusem temple of records. All records are preserved in triplicate in this threefold hall of archives. On a system headquarters, records are always preserved in material, in morontia, and in spirit form."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "Le quatrième cercle est occupé par les séraphins administrateurs, et les séraphins qui servent dans un système local tel que Satania forment « une multitude innombrable d’anges ». Le cinquième cercle est occupé par les séraphins planétaires, tandis que le sixième est le foyer des ministres de transition. Le septième cercle est la sphère de séjour de certains ordres non révélés de séraphins. Les archivistes de tous ces groupes d’anges n’habitent pas avec leurs compagnons ; ils sont domiciliés au temple des archives de Jérusem. Tous les documents sont conservés en trois exemplaires dans cette triple salle des archives. Au siège d’un système, les documents sont toujours conservés sous formes matérielle, morontielle et spirituelle."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -1117,14 +1117,14 @@
       "standardReferenceId": "46:5.23",
       "pageReference": "525.5",
       "sortId": "2.046.005.023",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "These seven circles are surrounded by the exhibit panorama of Jerusem, five thousand standard miles in circumference, which is devoted to the presentation of the advancing status of the peopled worlds of Satania and is constantly revised so as to truly represent up-to-date conditions on the individual planets. I doubt not that this vast promenade overlooking the circles of the angels will be the first sight of Jerusem to claim your attention when you are permitted extended leisure on your earlier visits."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "Ces sept cercles des anges sont entourés par l’exposition panoramique de Jérusem, qui a cinq-mille miles standards de circonférence. On y présente le statut progressif des mondes habités de Satania sous une forme constamment révisée, de manière à représenter vraiment les conditions d’actualité sur les planètes individuelles. Je ne doute pas que cet immense promenoir dominant les cercles des anges sera la première vue de Jérusem qui attirera votre attention lorsque des loisirs étendus vous seront accordés au cours de vos visites initiales."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -1135,14 +1135,14 @@
       "standardReferenceId": "46:5.24",
       "pageReference": "525.6",
       "sortId": "2.046.005.024",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "These exhibits are in charge of the native life of Jerusem, but they are assisted by the ascenders from the various Satania worlds who are tarrying on Jerusem en route to Edentia. The portrayal of planetary conditions and world progress is effected by many methods, some known to you, but mostly by techniques unknown on Urantia. These exhibits occupy the outer edge of this vast wall. The remainder of the promenade is almost entirely open, being highly and magnificently embellished."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "Les natifs de Jérusem ont la responsabilité de ces expositions, mais sont aidés par les ascendeurs des divers mondes de Satania qui séjournent sur Jérusem en route vers Édentia. La description des conditions planétaires et des progrès mondiaux s’effectue par beaucoup de méthodes dont quelques-unes vous sont connues, mais principalement par des techniques inconnues sur Urantia. Ces expositions occupent la bordure extérieure de la vaste muraille. Le reste de la promenade est à peu près entièrement dégagé tout en étant très décoré, et d’une façon magnifique."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -1153,14 +1153,14 @@
       "standardReferenceId": "46:5.25",
       "pageReference": "525.7",
       "sortId": "2.046.005.025",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "3. *The circles of the Universe Aids* have the headquarters of the Evening Stars situated in the enormous central space. Here is located the system headquarters of Galantia, the associate head of this powerful group of superangels, being the first commissioned of all the ascendant Evening Stars. This is one of the most magnificent of all the administrative sectors of Jerusem, even though it is among the more recent constructions. This center is fifty miles in diameter. The Galantia headquarters is a monolithic cast crystal, wholly transparent. These material-morontia crystals are greatly appreciated by both morontia and material beings. The created Evening Stars exert their influence all over Jerusem, being possessed of such extrapersonality attributes. The entire world has been rendered spiritually fragrant since so many of their activities were transferred here from Salvington."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "3. *Les cercles des Aides de l’Univers.* Le quartier général des Étoiles du Soir est situé dans l’énorme espace central. C’est là que se trouve le siège systémique de Galantia, le chef adjoint de ce puissant groupe de superanges, le premier commissionné de toutes les Étoiles du Soir ascendantes. Bien qu’il s’agisse d’une des plus récentes constructions, c’est l’un des plus magnifiques secteurs administratifs de Jérusem. Ce centre a cinquante miles de diamètre. Le quartier général de Galantia est un cristal fondu monolithique, entièrement transparent. Les êtres matériels aussi bien que morontiels apprécient beaucoup ces cristaux matériels-morontiels. Les Étoiles du Soir créées exercent leur influence sur tout Jérusem et possèdent des attributs extrapersonnels. Ce monde tout entier a acquis un arôme spirituel du fait que beaucoup d’activités des Étoiles du Soir y ont été transférées de Salvington."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -1171,14 +1171,14 @@
       "standardReferenceId": "46:5.26",
       "pageReference": "526.1",
       "sortId": "2.046.005.026",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "4. *The circles of the Master Physical Controllers.* The various orders of the Master Physical Controllers are concentrically arranged around the vast temple of power, wherein presides the power chief of the system in association with the chief of the Morontia Power Supervisors. This temple of power is one of two sectors on Jerusem where ascending mortals and midway creatures are not permitted. The other one is the dematerializing sector in the area of the Material Sons, a series of laboratories wherein the transport seraphim transform material beings into a state quite like that of the morontia order of existence."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "4. *Les cercles des Maitres Contrôleurs Physiques.* Les divers ordres de Maitres Contrôleurs Physiques sont disposés concentriquement autour du vaste temple de pouvoir où préside le chef de pouvoir du système, en association avec le chef des Superviseurs de Pouvoir Morontiel. Ce temple de pouvoir est l’un des deux secteurs de Jérusem dont l’entrée est interdite aux mortels ascendants et aux créatures médianes. L’autre est le secteur de dématérialisation dans la zone des Fils Matériels, une série de laboratoires où les séraphins transporteurs transforment les êtres matériels en un état tout à fait semblable à celui de l’ordre morontiel d’existence."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -1189,14 +1189,14 @@
       "standardReferenceId": "46:5.27",
       "pageReference": "526.2",
       "sortId": "2.046.005.027",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "5. *The circles of the ascending mortals.* The central area of the circles of the ascending mortals is occupied by a group of 619 planetary memorials representative of the inhabited worlds of the system, and these structures periodically undergo extensive changes. It is the privilege of the mortals from each world to agree, from time to time, upon certain of the alterations or additions to their planetary memorials. Many changes are even now being made in the Urantia structures. The center of these 619 temples is occupied by a working model of Edentia and its many worlds of ascendant culture. This model is forty miles in diameter and is an actual reproduction of the Edentia system, true to the original in every detail."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "5. *Les cercles des mortels ascendants.* La zone centrale des cercles des mortels ascendants est occupée par un groupe de 619 monuments commémoratifs planétaires représentant les 619 mondes habités du système, et ces structures subissent périodiquement des transformations étendues. Les mortels de chaque monde ont le privilège de donner leur accord de temps en temps à certaines transformations ou additions à leurs monuments planétaires. Même aujourd’hui, de nombreux changements sont apportés à l’édifice concernant Urantia. Le centre des 619 temples est occupé par une maquette active d’Édentia et de ses nombreux mondes de culture ascendante. La maquette a un diamètre de quarante miles et reproduit véridiquement le système réel d’Édentia dans tous ses détails."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -1207,14 +1207,14 @@
       "standardReferenceId": "46:5.28",
       "pageReference": "526.3",
       "sortId": "2.046.005.028",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "Ascenders enjoy their Jerusem services and take pleasure in observing the techniques of other groups. Everything done in these various circles is open to the full observation of all Jerusem."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "Les ascendeurs ont plaisir à servir sur Jérusem et à observer les techniques des autres groupes. Tout ce qui se passe dans ces divers cercles est ouvert à l’inspection complète de tout Jérusem."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -1225,14 +1225,14 @@
       "standardReferenceId": "46:5.29",
       "pageReference": "526.4",
       "sortId": "2.046.005.029",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "The activities of such a world are of three distinct varieties: work, progress, and play. Stated otherwise, they are: service, study, and relaxation. The composite activities consist of social intercourse, group entertainment, and divine worship. There is great educational value in mingling with diverse groups of personalities, orders very different from one’s own fellows."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "Les activités de ce monde comportent trois variétés distinctes : le travail, le progrès et le jeu, autrement dit le service, l’étude et la détente. Les activités composites consistent en rapports sociaux, divertissements collectifs et adoration divine. Il y a grand profit au point de vue éducatif à se mêler à des groupes divers de personnalités appartenant à des ordres très différents de vos propres compagnons."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -1243,14 +1243,14 @@
       "standardReferenceId": "46:5.30",
       "pageReference": "526.5",
       "sortId": "2.046.005.030",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "6. *The circles of the courtesy colonies.* The seven circles of the courtesy colonies are graced by three enormous structures: the vast astronomic observatory of Jerusem, the gigantic art gallery of Satania, and the immense assembly hall of the reversion directors, the theater of morontia activities devoted to rest and recreation."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "6. *Les cercles des colonies de courtoisie.* Les sept cercles des colonies de courtoisie sont ornés de trois structures colossales : l’énorme observatoire astronomique de Jérusem, la gigantesque galerie d’art de Satania et l’immense salle de réunion des directeurs de la rétrospection, le théâtre des activités morontielles consacrées au repos et à la récréation."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -1261,14 +1261,14 @@
       "standardReferenceId": "46:5.31",
       "pageReference": "526.6",
       "sortId": "2.046.005.031",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "The celestial artisans direct the spornagia and provide the host of creative decorations and monumental memorials which abound in every place of public assembly. The studios of these artisans are among the largest and most beautiful of all the matchless structures of this wonderful world. The other courtesy colonies maintain extensive and beautiful headquarters. Many of these buildings are constructed wholly of crystal gems. All the architectural worlds abound in crystals and the so-called precious metals."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "Les artisans célestes dirigent les spornagias et fournissent la foule des décorations créatives et des monuments commémoratifs qui abondent dans tous les lieux de réunions publiques. Les ateliers de ces artisans comptent parmi les plus grands et les plus beaux des édifices incomparables de ce monde magnifique. Les autres colonies de courtoisie entretiennent de vastes et superbes quartiers généraux. Beaucoup de ces bâtiments sont entièrement construits de gemmes cristallines. Tous les mondes architecturaux regorgent de cristaux et de métaux dits précieux."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -1279,14 +1279,14 @@
       "standardReferenceId": "46:5.32",
       "pageReference": "527.1",
       "sortId": "2.046.005.032",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "7. *The circles of the finaliters* have a unique structure at the center. And this same vacant temple is found on every system headquarters world throughout Nebadon. This edifice on Jerusem is sealed with the insignia of Michael, and it bears this inscription: “Undedicated to the seventh stage of spirit—to the eternal assignment.” Gabriel placed the seal on this temple of mystery, and none but Michael can or may break the seal of sovereignty affixed by the Bright and Morning Star. Some day you shall look upon this silent temple, even though you may not penetrate its mystery."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "7. *Les cercles des finalitaires* ont à leur centre une structure unique. Et un temple vide analogue se trouve sur tous les mondes-sièges systémiques dans tout Nébadon. Cet édifice de Jérusem porte le sceau de l’insigne de Micaël et l’inscription suivante : « Non dédié au septième stade de l’esprit — à la mission éternelle. » C’est Gabriel qui a placé le sceau sur ce temple de mystère, et nul sauf Micaël ne peut briser le sceau de souveraineté apposé par la Radieuse Étoile du Matin. Un jour, vous pourrez contempler ce temple silencieux, même si vous ne pouvez pénétrer son mystère."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "5",
@@ -1297,14 +1297,14 @@
       "standardReferenceId": "46:5.33",
       "pageReference": "527.2",
       "sortId": "2.046.005.033",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Circles",
-      "markdown": "*Other Jerusem circles:* In addition to these residential circles there are on Jerusem numerous additional designated abodes."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les cercles de Jérusem",
+      "markdown": "*Autres cercles de Jérusem* : En plus de ces cercles résidentiels, Jérusem contient de nombreuses autres demeures spécialisées."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "6",
@@ -1315,14 +1315,14 @@
       "standardReferenceId": "46:6.0",
       "pageReference": null,
       "sortId": "2.046.006.000",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Executive-Administrative Squares",
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les carrés exécutifs-administratifs",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "6",
@@ -1333,14 +1333,14 @@
       "standardReferenceId": "46:6.1",
       "pageReference": "527.3",
       "sortId": "2.046.006.001",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Executive-Administrative Squares",
-      "markdown": "The executive-administrative divisions of the system are located in the immense departmental squares, one thousand in number. Each administrative unit is divided into one hundred subdivisions of ten subgroups each. These one thousand squares are clustered in ten grand divisions, thus constituting the following ten administrative departments:"
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les carrés exécutifs-administratifs",
+      "markdown": "Les divisions exécutives-administratives du système sont situées dans d’immenses carrés départementaux au nombre de mille. Chaque unité administrative est divisée en cent subdivisions de dix sous-groupes chacune. Ces mille carrés sont rassemblés en dix grandes divisions formant les dix départements administratifs suivants :"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "6",
@@ -1351,14 +1351,14 @@
       "standardReferenceId": "46:6.2",
       "pageReference": "527.4",
       "sortId": "2.046.006.002",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Executive-Administrative Squares",
-      "markdown": "1. Physical maintenance and material improvement, the domains of physical power and energy."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les carrés exécutifs-administratifs",
+      "markdown": "1. Entretien physique et améliorations matérielles, les domaines du pouvoir et de l’énergie physique."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "6",
@@ -1369,14 +1369,14 @@
       "standardReferenceId": "46:6.3",
       "pageReference": "527.5",
       "sortId": "2.046.006.003",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Executive-Administrative Squares",
-      "markdown": "2. Arbitration, ethics, and administrative adjudication."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les carrés exécutifs-administratifs",
+      "markdown": "2. Arbitrages, éthique et jugements administratifs."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "6",
@@ -1387,14 +1387,14 @@
       "standardReferenceId": "46:6.4",
       "pageReference": "527.6",
       "sortId": "2.046.006.004",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Executive-Administrative Squares",
-      "markdown": "3. Planetary and local affairs."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les carrés exécutifs-administratifs",
+      "markdown": "3. Affaires planétaires et locales."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "6",
@@ -1405,14 +1405,14 @@
       "standardReferenceId": "46:6.5",
       "pageReference": "527.7",
       "sortId": "2.046.006.005",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Executive-Administrative Squares",
-      "markdown": "4. Constellation and universe affairs."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les carrés exécutifs-administratifs",
+      "markdown": "4. Affaires des constellations et de l’univers."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "6",
@@ -1423,14 +1423,14 @@
       "standardReferenceId": "46:6.6",
       "pageReference": "527.8",
       "sortId": "2.046.006.006",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Executive-Administrative Squares",
-      "markdown": "5. Education and other Melchizedek activities."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les carrés exécutifs-administratifs",
+      "markdown": "5. Éducation et autres activités des Melchizédeks."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "6",
@@ -1441,14 +1441,14 @@
       "standardReferenceId": "46:6.7",
       "pageReference": "527.9",
       "sortId": "2.046.006.007",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Executive-Administrative Squares",
-      "markdown": "6. Planetary and system physical progress, the scientific domains of Satania activities."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les carrés exécutifs-administratifs",
+      "markdown": "6. Progrès physiques planétaires et systémiques, les domaines scientifiques des activités de Satania."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "6",
@@ -1459,14 +1459,14 @@
       "standardReferenceId": "46:6.8",
       "pageReference": "527.10",
       "sortId": "2.046.006.008",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Executive-Administrative Squares",
-      "markdown": "7. Morontia affairs."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les carrés exécutifs-administratifs",
+      "markdown": "7. Affaires morontielles."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "6",
@@ -1477,14 +1477,14 @@
       "standardReferenceId": "46:6.9",
       "pageReference": "527.11",
       "sortId": "2.046.006.009",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Executive-Administrative Squares",
-      "markdown": "8. Pure spirit activities and ethics."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les carrés exécutifs-administratifs",
+      "markdown": "8. Activités et éthiques purement spirituelles."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "6",
@@ -1495,14 +1495,14 @@
       "standardReferenceId": "46:6.10",
       "pageReference": "527.12",
       "sortId": "2.046.006.010",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Executive-Administrative Squares",
-      "markdown": "9. Ascendant ministry."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les carrés exécutifs-administratifs",
+      "markdown": "9. Ministère ascendant."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "6",
@@ -1513,14 +1513,14 @@
       "standardReferenceId": "46:6.11",
       "pageReference": "527.13",
       "sortId": "2.046.006.011",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Executive-Administrative Squares",
-      "markdown": "10. Grand universe philosophy."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les carrés exécutifs-administratifs",
+      "markdown": "10. Philosophie du grand univers."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "6",
@@ -1531,14 +1531,14 @@
       "standardReferenceId": "46:6.12",
       "pageReference": "527.14",
       "sortId": "2.046.006.012",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Executive-Administrative Squares",
-      "markdown": "These structures are transparent; hence all system activities can be viewed even by student visitors."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les carrés exécutifs-administratifs",
+      "markdown": "Ces structures sont transparentes, de sorte que toutes les activités systémiques peuvent être observées, même par les étudiants en visite."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "7",
@@ -1549,14 +1549,14 @@
       "standardReferenceId": "46:7.0",
       "pageReference": null,
       "sortId": "2.046.007.000",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Rectangles—The Spornagia",
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les rectangles — les spornagias",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "7",
@@ -1567,14 +1567,14 @@
       "standardReferenceId": "46:7.1",
       "pageReference": "527.15",
       "sortId": "2.046.007.001",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Rectangles—The Spornagia",
-      "markdown": "The one thousand *rectangles* of Jerusem are occupied by the lower native life of the headquarters planet, and at their center is situated the vast circular headquarters of the spornagia."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les rectangles — les spornagias",
+      "markdown": "Les mille *rectangles* de Jérusem sont occupés par la vie indigène inférieure de la planète-siège, et à leur centre se situe le vaste quartier général circulaire des spornagias."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "7",
@@ -1585,14 +1585,14 @@
       "standardReferenceId": "46:7.2",
       "pageReference": "527.16",
       "sortId": "2.046.007.002",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Rectangles—The Spornagia",
-      "markdown": "On Jerusem you will be amazed by the agricultural achievements of the wonderful spornagia. There the land is cultivated largely for aesthetic and ornamental effects. The spornagia are the landscape gardeners of the headquarters worlds, and they are both original and artistic in their treatment of the open spaces of Jerusem. They utilize both animals and numerous mechanical contrivances in the culture of the soil. They are intelligently expert in the employment of the power agencies of their realms as well as in the utilization of numerous orders of their lesser brethren of the lower animal creations, many of which are provided them on these special worlds. This order of animal life is now largely directed by the ascending midway creatures from the evolutionary spheres."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les rectangles — les spornagias",
+      "markdown": "Sur Jérusem, vous serez stupéfaits par les réussites agricoles des merveilleux spornagias. La terre y est cultivée surtout en vue d’effets esthétiques et ornementaux. Les spornagias sont les jardiniers paysagistes des mondes-sièges, et ils arrangent les espaces dégagés de Jérusem d’une manière à la fois originale et artistique. Ils utilisent des animaux et de nombreux dispositifs mécaniques pour cultiver le sol. Ils sont habiles à employer intelligemment les agencements de pouvoir de leur royaume aussi bien qu’à utiliser de nombreux ordres de leurs frères moins évolués des créations animales inférieures, dont beaucoup leur sont fournis sur ces mondes spéciaux. Cet ordre de vie animale est maintenant dirigé en grande partie par les créatures médianes ascendantes des sphères évolutionnaires."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "7",
@@ -1603,14 +1603,14 @@
       "standardReferenceId": "46:7.3",
       "pageReference": "528.1",
       "sortId": "2.046.007.003",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Rectangles—The Spornagia",
-      "markdown": "Spornagia are not Adjuster indwelt. They do not possess survival souls, but they do enjoy long lives, sometimes to the extent of forty to fifty thousand standard years. Their number is legion, and they afford physical ministry to all orders of universe personalities requiring material service."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les rectangles — les spornagias",
+      "markdown": "Les spornagias ne sont pas habités par des Ajusteurs. Ils ne possèdent pas d’âme de survie, mais ils jouissent d’une vie très longue, parfois quarante ou cinquante-mille ans standard. Leur nombre est légion, et ils apportent leur ministère physique à tous les ordres de personnalités universelles ayant besoin de services matériels."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "7",
@@ -1621,14 +1621,14 @@
       "standardReferenceId": "46:7.4",
       "pageReference": "528.2",
       "sortId": "2.046.007.004",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Rectangles—The Spornagia",
-      "markdown": "Although spornagia neither possess nor evolve survival souls, though they do not have personality, nevertheless, they do evolve an individuality which can experience reincarnation. When, with the passing of time, the physical bodies of these unique creatures deteriorate from usage and age, their creators, in collaboration with the Life Carriers, fabricate new bodies in which the old spornagia re-establish their residences."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les rectangles — les spornagias",
+      "markdown": "Bien que les spornagias ne possèdent ni ne développent des âmes de survie, et bien qu’ils soient dépourvus de personnalité, ils élaborent néanmoins une individualité susceptible de se réincarner. Lorsqu’avec le passage du temps le corps physique de ces créatures uniques se détériore par usure et vieillesse, leurs créateurs, en collaboration avec les Porteurs de Vie, fabriquent de nouveaux corps dans lesquels les vieux spornagias rétablissent leur résidence."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "7",
@@ -1639,14 +1639,14 @@
       "standardReferenceId": "46:7.5",
       "pageReference": "528.3",
       "sortId": "2.046.007.005",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Rectangles—The Spornagia",
-      "markdown": "Spornagia are the only creatures in all the universe of Nebadon who experience this or any other sort of reincarnation. They are only reactive to the first five of the adjutant mind-spirits; they are not responsive to the spirits of worship and wisdom. But the five-adjutant mind equivalates to a totality or sixth reality level, and it is this factor which persists as an experiential identity."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les rectangles — les spornagias",
+      "markdown": "Dans tout l’univers de Nébadon, les spornagias sont les seules créatures qui se réincarnent ainsi ou d’une autre manière. Ils ne sont sensibles qu’aux cinq premiers esprits-mentaux adjuvats. Ils ne réagissent pas aux esprits d’adoration et de sagesse, mais le mental sensible à cinq adjuvats est équivalent à un niveau de totalité ou de sixième niveau de réalité, et c’est ce facteur qui persiste comme identité expérientielle."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "7",
@@ -1657,14 +1657,14 @@
       "standardReferenceId": "46:7.6",
       "pageReference": "528.4",
       "sortId": "2.046.007.006",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Rectangles—The Spornagia",
-      "markdown": "I am quite without comparisons in undertaking to describe these useful and unusual creatures as there are no animals on the evolutionary worlds comparable to them. They are not evolutionary beings, having been projected by the Life Carriers in their present form and status. They are bisexual and procreate as they are required to meet the needs of a growing population."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les rectangles — les spornagias",
+      "markdown": "Pour décrire ces créatures utiles et inhabituelles, je ne dispose d’aucun point de comparaison, car les mondes évolutionnaires ne contiennent pas d’animaux analogues. Les spornagias ne sont pas des êtres évolutionnaires, puisqu’ils ont été projetés par les Porteurs de Vie avec leur forme et leur statut présents. Ils sont bisexués et ils procréent pour faire face, selon les nécessités, aux besoins d’une population croissante."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "7",
@@ -1675,14 +1675,14 @@
       "standardReferenceId": "46:7.7",
       "pageReference": "528.5",
       "sortId": "2.046.007.007",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Rectangles—The Spornagia",
-      "markdown": "Perhaps I can best suggest to Urantia minds something of the nature of these beautiful and serviceable creatures by saying that they embrace the combined traits of a faithful horse and an affectionate dog and manifest an intelligence exceeding that of the highest type of chimpanzee. And they are very beautiful, as judged by the physical standards of Urantia. They are most appreciative of the attentions shown them by the material and semimaterial sojourners on these architectural worlds. They have a vision which permits them to recognize—in addition to material beings—the morontia creations, the lower angelic orders, midway creatures, and some of the lower orders of spirit personalities. They do not comprehend worship of the Infinite, nor do they grasp the import of the Eternal, but they do, through affection for their masters, join in the outward spiritual devotions of their realms."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les rectangles — les spornagias",
+      "markdown": "Pour suggérer au mental urantien une notion de la nature de ces belles et utiles créatures, je dirais qu’elles englobent les traits de caractère combinés d’un cheval fidèle et d’un chien affectueux, et qu’elles manifestent une intelligence dépassant celle des types supérieurs de chimpanzés. Et, d’après les normes physiques d’Urantia, elles sont très belles. Les spornagias apprécient beaucoup les attentions que leur témoignent les hôtes matériels et semi-matériels des mondes architecturaux. Leur vision leur permet de reconnaitre — en plus des êtres matériels — les créations morontielles, les ordres angéliques inférieurs, les créatures médianes et quelques ordres inférieurs de personnalités spirituelles. Ils ne comprennent pas l’adoration de l’Infini et ne saisissent pas l’importance de l’Éternel, mais, par affection pour leurs maitres, ils participent aux dévotions spirituelles extérieures de leur royaume."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "7",
@@ -1693,14 +1693,14 @@
       "standardReferenceId": "46:7.8",
       "pageReference": "528.6",
       "sortId": "2.046.007.008",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Rectangles—The Spornagia",
-      "markdown": "There are those who believe that, in a future universe age, these faithful spornagia will escape from their animal level of existence and attain a worthy evolutional destiny of progressive intellectual growth and even spiritual achievement."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les rectangles — les spornagias",
+      "markdown": "D’aucuns croient que, dans un âge futur de l’univers, ces fidèles spornagias échapperont à leur niveau animal d’existence et atteindront une destinée évolutive valable de croissance intellectuelle progressive et même d’aboutissement spirituel."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "8",
@@ -1711,14 +1711,14 @@
       "standardReferenceId": "46:8.0",
       "pageReference": null,
       "sortId": "2.046.008.000",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Triangles",
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les triangles de Jérusem",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "8",
@@ -1729,14 +1729,14 @@
       "standardReferenceId": "46:8.1",
       "pageReference": "528.7",
       "sortId": "2.046.008.001",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Triangles",
-      "markdown": "The purely local and routine affairs of Jerusem are directed from the one hundred *triangles.* These units are clustered around the ten marvelous structures domiciling the local administration of Jerusem. The triangles are surrounded by the panoramic depiction of the system headquarters history. At present there is an erasure of over two standard miles in this circular story. This sector will be restored upon the readmission of Satania into the constellation family. Every provision for this event has been made by the decrees of Michael, but the tribunal of the Ancients of Days has not yet finished the adjudication of the affairs of the Lucifer rebellion. Satania may not come back into the full fellowship of Norlatiadek so long as it harbors archrebels, high created beings who have fallen from light into darkness."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les triangles de Jérusem",
+      "markdown": "Les affaires purement locales et courantes de Jérusem sont dirigées à partir des cent *triangles.* Ces unités sont groupées autour des dix magnifiques structures qui abritent l’organisation locale de Jérusem. Les triangles sont entourés par des descriptions panoramiques de l’histoire du quartier général systémique. Il existe présentement un hiatus de plus de deux miles standards dans cette histoire circulaire. Ce secteur sera remis en état quand Satania sera réintégrée dans la famille de la constellation. Toutes les dispositions pour cet évènement ont été prises par des décrets de Micaël, mais le tribunal des Anciens des Jours n’a pas encore fini de statuer sur les affaires de la rébellion de Lucifer. Satania ne peut se requalifier pour la pleine communauté de Norlatiadek tant que le système abrite des archirebelles, des êtres qui ont été créés supérieurs et qui ont chu de la lumière dans les ténèbres."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "8",
@@ -1747,14 +1747,14 @@
       "standardReferenceId": "46:8.2",
       "pageReference": "529.1",
       "sortId": "2.046.008.002",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Triangles",
-      "markdown": "When Satania can return to the constellation fold, then will come up for consideration the readmission of the isolated worlds into the system family of inhabited planets, accompanied by their restoration to the spiritual communion of the realms. But even if Urantia were restored to the system circuits, you would still be embarrassed by the fact that your whole system rests under a Norlatiadek quarantine partially segregating it from all other systems."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les triangles de Jérusem",
+      "markdown": "Quand Satania pourra rentrer au sein de la constellation, on mettra à l’étude la réadmission des mondes isolés dans la famille systémique des planètes habitées, en même temps que leur rétablissement à la communion spirituelle des royaumes. Mais, même si Urantia était réincorporée dans les circuits systémiques, vous resteriez encore embarrassés par le fait que l’ensemble du système reste soumis à une quarantaine de Norlatiadek, qui l’isole partiellement de tous les autres systèmes."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "8",
@@ -1765,14 +1765,14 @@
       "standardReferenceId": "46:8.3",
       "pageReference": "529.2",
       "sortId": "2.046.008.003",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Triangles",
-      "markdown": "But ere long, the adjudication of Lucifer and his associates will restore the Satania system to the Norlatiadek constellation, and subsequently, Urantia and the other isolated spheres will be restored to the Satania circuits, and again will such worlds enjoy the privileges of interplanetary communication and intersystem communion."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les triangles de Jérusem",
+      "markdown": "Mais d’ici peu le jugement de Lucifer et de ses associés restaurera le système de Satania dans la constellation de Norlatiadek, et ensuite Urantia et les autres sphères isolées seront rétablies dans les circuits de Satania. Ces mondes jouiront alors de nouveau du privilège des communications interplanétaires et de la communion intersystémique."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "8",
@@ -1783,14 +1783,14 @@
       "standardReferenceId": "46:8.4",
       "pageReference": "529.3",
       "sortId": "2.046.008.004",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Triangles",
-      "markdown": "There will come an end for rebels and rebellion. The Supreme Rulers are merciful and patient, but the law of deliberately nourished evil is universally and unerringly executed. “The wages of sin is death”—eternal obliteration."
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les triangles de Jérusem",
+      "markdown": "Les rebelles et la rébellion auront une fin. Les Chefs Suprêmes sont miséricordieux et patients, mais la loi concernant le mal délibérément entretenu est appliquée universellement et infailliblement. « Le salaire du péché, c’est la mort » — l’annihilation pour l’éternité."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "fre",
       "partId": "2",
       "paperId": "46",
       "sectionId": "8",
@@ -1801,9 +1801,9 @@
       "standardReferenceId": "46:8.5",
       "pageReference": "529.4",
       "sortId": "2.046.008.005",
-      "paperTitle": "The Local System Headquarters",
-      "sectionTitle": "The Jerusem Triangles",
-      "markdown": "[Presented by an Archangel of Nebadon.]"
+      "paperTitle": "Le siège du système local",
+      "sectionTitle": "Les triangles de Jérusem",
+      "markdown": "[Présenté par un archange de Nébadon.]"
     }
   ]
 }
